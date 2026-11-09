@@ -75,5 +75,5 @@
     123.02639,
     11.24639
 ],
-  "geometry": {"coordinates":[123.02639000000001,11.24639],"type":"Point"}
+  "geometry": {"coordinates":[123.02639,11.24639],"type":"Point"}
 }

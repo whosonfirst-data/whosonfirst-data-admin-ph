@@ -92,7 +92,7 @@
         "wk:page":"Magsaysay%2C_Palawan"
     },
     "wof:country":"PH",
-    "wof:geomhash":"4580629fda3c0316ddee22178ddfb793",
+    "wof:geomhash":"2d35f194738db2579bcf58cf390ee055",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,5 +118,5 @@
     121.05306000000002,
     10.87389
 ],
-  "geometry": {"coordinates":[121.05306000000002,10.87389],"type":"Point"}
+  "geometry": {"coordinates":[121.05306,10.87389],"type":"Point"}
 }

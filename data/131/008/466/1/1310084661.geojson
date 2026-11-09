@@ -81,7 +81,7 @@
         "wk:page":"Basilisa%2C_Dinagat_Islands"
     },
     "wof:country":"PH",
-    "wof:geomhash":"21ff6b46f491d4a3bbd08d27574d5850",
+    "wof:geomhash":"c5add81673297513335c088f77ab8182",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -106,5 +106,5 @@
     125.5,
     10.0
 ],
-  "geometry": {"coordinates":[125.5,10.0],"type":"Point"}
+  "geometry": {"coordinates":[125.5,10],"type":"Point"}
 }

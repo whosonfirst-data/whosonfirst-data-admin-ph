@@ -123,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"PH",
     "wof:created":1499130704,
-    "wof:geomhash":"518f4345357aaf94356d21f0bdba45a6",
+    "wof:geomhash":"0d92902c20c40454150eb817a9c0de09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,5 +148,5 @@
     120.99999385486365,
     14.55044130346005
 ],
-  "geometry": {"coordinates":[120.99999385486365,14.55044130346005],"type":"Point"}
+  "geometry": {"coordinates":[120.999994,14.550441],"type":"Point"}
 }

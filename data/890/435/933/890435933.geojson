@@ -261,5 +261,5 @@
     123.50951,
     12.21814
 ],
-  "geometry": {"coordinates":[123.50951000000001,12.21814],"type":"Point"}
+  "geometry": {"coordinates":[123.50951,12.21814],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":1715026
     },
     "wof:country":"PH",
-    "wof:geomhash":"2aa2f4e56cb4fd661ade554d0d08d6c7",
+    "wof:geomhash":"f246d39edd396f05fec8d40a9d6c4035",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     122.10871000000002,
     16.98885
 ],
-  "geometry": {"coordinates":[122.10871000000002,16.98885],"type":"Point"}
+  "geometry": {"coordinates":[122.10871,16.98885],"type":"Point"}
 }

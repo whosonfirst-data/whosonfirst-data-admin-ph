@@ -40,7 +40,7 @@
     },
     "wof:country":"PH",
     "wof:created":1469051408,
-    "wof:geomhash":"170dce3f0ba8cd344168aaf981c74ada",
+    "wof:geomhash":"209d00f92be623f7a6256f89b4733dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     123.0,
     7.73333
 ],
-  "geometry": {"coordinates":[123.0,7.73333],"type":"Point"}
+  "geometry": {"coordinates":[123,7.73333],"type":"Point"}
 }

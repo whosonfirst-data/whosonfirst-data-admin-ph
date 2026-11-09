@@ -50,7 +50,7 @@
         "wk:page":"Casile,_Cabuyao"
     },
     "wof:country":"PH",
-    "wof:geomhash":"478ecc92275c0cd7f24dcae70ad14a1f",
+    "wof:geomhash":"368264414920c07aced2591cd51bb481",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     121.08693999999998,
     14.34591
 ],
-  "geometry": {"coordinates":[121.08693999999998,14.34591],"type":"Point"}
+  "geometry": {"coordinates":[121.08694,14.34591],"type":"Point"}
 }

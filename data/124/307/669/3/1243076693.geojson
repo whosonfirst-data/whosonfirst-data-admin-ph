@@ -48,7 +48,7 @@
         "wk:page":"Bonuan_Gueset"
     },
     "wof:country":"PH",
-    "wof:geomhash":"ab1b0631c533af2b35b2fc9199fd5334",
+    "wof:geomhash":"d89e7339f1620a0c34f087fec441fa28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     120.33693999999998,
     16.07667
 ],
-  "geometry": {"coordinates":[120.33693999999998,16.07667],"type":"Point"}
+  "geometry": {"coordinates":[120.33694,16.07667],"type":"Point"}
 }

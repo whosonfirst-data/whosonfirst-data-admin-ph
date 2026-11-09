@@ -47,7 +47,7 @@
         "wk:page":"Salawag"
     },
     "wof:country":"PH",
-    "wof:geomhash":"80171348b4edf1491738bc8d6b1523d8",
+    "wof:geomhash":"6ab5f040d6e49f11907199da4fc985f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     120.98456000000002,
     14.35885
 ],
-  "geometry": {"coordinates":[120.98456000000002,14.35885],"type":"Point"}
+  "geometry": {"coordinates":[120.98456,14.35885],"type":"Point"}
 }

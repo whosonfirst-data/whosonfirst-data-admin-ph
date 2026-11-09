@@ -47,7 +47,7 @@
         "wk:page":"Salindeg"
     },
     "wof:country":"PH",
-    "wof:geomhash":"017aebf08a8b9351477e3af4543a6576",
+    "wof:geomhash":"9ca60c0f999b4b18c7a1069e4cdaa5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     120.36863999999998,
     17.55004
 ],
-  "geometry": {"coordinates":[120.36863999999998,17.55004],"type":"Point"}
+  "geometry": {"coordinates":[120.36864,17.55004],"type":"Point"}
 }
