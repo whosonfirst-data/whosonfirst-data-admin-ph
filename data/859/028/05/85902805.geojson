@@ -87,7 +87,7 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        1159397279,
+        1141907271,
         85632509,
         1159397243
     ],
@@ -103,7 +103,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
-            "locality_id":1159397279,
+            "locality_id":1141907271,
             "neighbourhood_id":85902805,
             "region_id":1159397243
         }
@@ -114,7 +114,7 @@
     ],
     "wof:lastmodified":1566679667,
     "wof:name":"Tanque",
-    "wof:parent_id":1159397279,
+    "wof:parent_id":1141907271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
