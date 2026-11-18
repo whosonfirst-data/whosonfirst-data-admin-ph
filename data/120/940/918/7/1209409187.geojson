@@ -91,12 +91,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Pardo"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e15\u5c14\u675c\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5e15\u723e\u591a\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":1209409187,
-    "wof:lastmodified":1636500959,
+    "wof:lastmodified":1794999722,
     "wof:name":"Pardo",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
