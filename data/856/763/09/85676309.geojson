@@ -16,8 +16,8 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
-    "lbl:latitude":6.422389,
-    "lbl:longitude":125.383803,
+    "lbl:latitude":7.340439,
+    "lbl:longitude":125.40407,
     "lbl:min_zoom":8.0,
     "meso:name_local":"Davao",
     "mps:latitude":7.279487,
@@ -166,7 +166,7 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"statoids",
     "src:population_date":"2010-05-01",
     "statoids:area_km":"6,378",
