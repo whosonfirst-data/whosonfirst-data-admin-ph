@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676093,
-        1108696807
+        1108696807,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696807,
             "locality_id":1276981079,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":1276981079,
-    "wof:lastmodified":1566680416,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puerto Rivas",
     "wof:parent_id":1108696807,
     "wof:placetype":"locality",

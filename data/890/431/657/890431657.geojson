@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676161,
-        1108699611
+        1108699611,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699611,
             "locality_id":890431657,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890431657,
-    "wof:lastmodified":1566681992,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kinatakutan",
     "wof:parent_id":1108699611,
     "wof:placetype":"locality",

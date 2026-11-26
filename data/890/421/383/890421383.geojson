@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676047,
-        1108697359
+        1108697359,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108697359,
             "localadmin_id":890421383,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":890421383,
-    "wof:lastmodified":1690851729,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Praxedes",
     "wof:parent_id":1108697359,
     "wof:placetype":"localadmin",

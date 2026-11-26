@@ -69,7 +69,8 @@
         102191569,
         85632509,
         85675993,
-        1108698179
+        1108698179,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632509,
             "county_id":1108698179,
             "locality_id":1293222121,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1293222121,
-    "wof:lastmodified":1566679879,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tono",
     "wof:parent_id":1108698179,
     "wof:placetype":"locality",

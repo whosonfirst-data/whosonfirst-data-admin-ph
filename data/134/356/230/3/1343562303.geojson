@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676097,
-        1108697239
+        1108697239,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697239,
             "locality_id":1343562303,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1343562303,
-    "wof:lastmodified":1566679557,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anoling Third",
     "wof:parent_id":1108697239,
     "wof:placetype":"locality",

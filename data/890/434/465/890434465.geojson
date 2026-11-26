@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676047,
-        1108696785
+        1108696785,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108696785,
             "locality_id":890434465,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":890434465,
-    "wof:lastmodified":1690851832,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bitag",
     "wof:parent_id":1108696785,
     "wof:placetype":"locality",

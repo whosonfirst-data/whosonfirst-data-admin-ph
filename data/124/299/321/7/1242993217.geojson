@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676287,
-        1108697383
+        1108697383,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697383,
             "locality_id":1242993217,
+            "macroregion_id":9895008397,
             "region_id":85676287
         }
     ],
     "wof:id":1242993217,
-    "wof:lastmodified":1566682641,
+    "wof:lastmodified":1795733694,
     "wof:name":"Polog",
     "wof:parent_id":1108697383,
     "wof:placetype":"locality",

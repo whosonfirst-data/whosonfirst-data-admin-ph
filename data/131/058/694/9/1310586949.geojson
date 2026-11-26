@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675939,
-        1108697059
+        1108697059,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697059,
             "locality_id":1310586949,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1310586949,
-    "wof:lastmodified":1566681535,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bongoyan",
     "wof:parent_id":1108697059,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108696773
+        1108696773,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696773,
             "locality_id":1292912497,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1292912497,
-    "wof:lastmodified":1566679965,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puyaboyan",
     "wof:parent_id":1108696773,
     "wof:placetype":"locality",

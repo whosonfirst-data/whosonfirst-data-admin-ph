@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676197,
-        1108696593
+        1108696593,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108696593,
             "locality_id":890433193,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":890433193,
-    "wof:lastmodified":1690851847,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alangalang",
     "wof:parent_id":1108696593,
     "wof:placetype":"locality",

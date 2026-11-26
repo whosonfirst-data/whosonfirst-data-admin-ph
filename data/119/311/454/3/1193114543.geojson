@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676255,
-        1108698169
+        1108698169,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698169,
             "locality_id":1193114543,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":1193114543,
-    "wof:lastmodified":1566680938,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sumlog",
     "wof:parent_id":1108698169,
     "wof:placetype":"locality",

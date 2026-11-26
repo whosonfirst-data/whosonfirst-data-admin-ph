@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675951,
-        1108697753
+        1108697753,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697753,
             "locality_id":890452475,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890452475,
-    "wof:lastmodified":1566681968,
+    "wof:lastmodified":1795733694,
     "wof:name":"Manalad",
     "wof:parent_id":1108697753,
     "wof:placetype":"locality",

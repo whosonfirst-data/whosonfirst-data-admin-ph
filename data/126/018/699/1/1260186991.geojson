@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676011,
-        1108696737
+        1108696737,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108696737,
             "locality_id":1260186991,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1260186991,
-    "wof:lastmodified":1566681033,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabasan",
     "wof:parent_id":1108696737,
     "wof:placetype":"locality",

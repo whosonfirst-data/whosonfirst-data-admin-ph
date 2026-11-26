@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676141,
-        1108698721
+        1108698721,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108698721,
             "locality_id":421193163,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":421193163,
-    "wof:lastmodified":1690851403,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paete",
     "wof:parent_id":1108698721,
     "wof:placetype":"locality",

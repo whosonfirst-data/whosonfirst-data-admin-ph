@@ -231,7 +231,8 @@
         102191569,
         85632509,
         85675951,
-        1108697343
+        1108697343,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,11 +250,12 @@
             "country_id":85632509,
             "county_id":1108697343,
             "locality_id":421200197,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":421200197,
-    "wof:lastmodified":1690851536,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caningay",
     "wof:parent_id":1108697343,
     "wof:placetype":"locality",

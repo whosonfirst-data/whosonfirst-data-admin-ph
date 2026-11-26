@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676127,
-        1108697307
+        1108697307,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632509,
             "county_id":1108697307,
             "locality_id":1193070233,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1193070233,
-    "wof:lastmodified":1566680850,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bancal",
     "wof:parent_id":1108697307,
     "wof:placetype":"locality",

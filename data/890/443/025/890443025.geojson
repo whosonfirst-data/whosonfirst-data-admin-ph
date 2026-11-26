@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85676249,
-        1108698141
+        1108698141,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +45,12 @@
             "country_id":85632509,
             "county_id":1108698141,
             "localadmin_id":890443025,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":890443025,
-    "wof:lastmodified":1566682062,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lugait",
     "wof:parent_id":1108698141,
     "wof:placetype":"localadmin",

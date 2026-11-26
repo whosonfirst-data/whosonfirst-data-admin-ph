@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676305,
-        1108698663
+        1108698663,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698663,
             "locality_id":1360171677,
+            "macroregion_id":9895008405,
             "region_id":85676305
         }
     ],
     "wof:id":1360171677,
-    "wof:lastmodified":1566681630,
+    "wof:lastmodified":1795733694,
     "wof:name":"Margus",
     "wof:parent_id":1108698663,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108699547
+        1108699547,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699547,
             "locality_id":1277088071,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1277088071,
-    "wof:lastmodified":1566680104,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basig",
     "wof:parent_id":1108699547,
     "wof:placetype":"locality",

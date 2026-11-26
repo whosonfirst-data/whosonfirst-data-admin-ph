@@ -96,7 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676083
+        85676083,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,11 +112,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696705,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1108696705,
-    "wof:lastmodified":1695886686,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aritao",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

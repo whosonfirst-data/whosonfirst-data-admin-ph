@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676065
+        85676065,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,11 +115,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697559,
+            "macroregion_id":9895008392,
             "region_id":85676065
         }
     ],
     "wof:id":1108697559,
-    "wof:lastmodified":1695886667,
+    "wof:lastmodified":1795733694,
     "wof:name":"Echague",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

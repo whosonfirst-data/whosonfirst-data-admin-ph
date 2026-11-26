@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676191,
-        1108697829
+        1108697829,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697829,
             "locality_id":1243539309,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1243539309,
-    "wof:lastmodified":1566682353,
+    "wof:lastmodified":1795733694,
     "wof:name":"Usang",
     "wof:parent_id":1108697829,
     "wof:placetype":"locality",

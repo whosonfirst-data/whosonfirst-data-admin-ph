@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675929
+        85675929,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +46,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890415669,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":890415669,
-    "wof:lastmodified":1566681913,
+    "wof:lastmodified":1795733694,
     "wof:name":"Parangan",
     "wof:parent_id":85675929,
     "wof:placetype":"locality",

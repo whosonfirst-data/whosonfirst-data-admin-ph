@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676035,
-        1108697315
+        1108697315,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697315,
             "locality_id":890452531,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890452531,
-    "wof:lastmodified":1566681967,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cumadcad",
     "wof:parent_id":1108697315,
     "wof:placetype":"locality",

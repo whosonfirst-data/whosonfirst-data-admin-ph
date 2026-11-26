@@ -32,7 +32,8 @@
         102191569,
         85632509,
         85676243,
-        1108696967
+        1108696967,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632509,
             "county_id":1108696967,
             "localadmin_id":890443769,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":890443769,
-    "wof:lastmodified":1566682070,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bayabas",
     "wof:parent_id":1108696967,
     "wof:placetype":"localadmin",

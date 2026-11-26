@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676021,
-        1108699329
+        1108699329,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699329,
             "locality_id":1209720147,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1209720147,
-    "wof:lastmodified":1566680808,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tinorognan",
     "wof:parent_id":1108699329,
     "wof:placetype":"locality",

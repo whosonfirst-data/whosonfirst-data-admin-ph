@@ -82,7 +82,8 @@
         102191569,
         85632509,
         85676213,
-        1108697933
+        1108697933,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108697933,
             "localadmin_id":890451217,
+            "macroregion_id":9895008403,
             "region_id":85676213
         }
     ],
     "wof:id":890451217,
-    "wof:lastmodified":1566682122,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kitcharao",
     "wof:parent_id":1108697933,
     "wof:placetype":"localadmin",

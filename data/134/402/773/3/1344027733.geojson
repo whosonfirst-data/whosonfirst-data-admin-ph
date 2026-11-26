@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676053,
-        1108697381
+        1108697381,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697381,
             "locality_id":1344027733,
+            "macroregion_id":9895008404,
             "region_id":85676053
         }
     ],
     "wof:id":1344027733,
-    "wof:lastmodified":1566679607,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lapu First",
     "wof:parent_id":1108697381,
     "wof:placetype":"locality",

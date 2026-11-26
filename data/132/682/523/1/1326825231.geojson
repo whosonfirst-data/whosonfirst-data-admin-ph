@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675971,
-        1108697827
+        1108697827,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697827,
             "locality_id":1326825231,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1326825231,
-    "wof:lastmodified":1566679159,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sumasap",
     "wof:parent_id":1108697827,
     "wof:placetype":"locality",

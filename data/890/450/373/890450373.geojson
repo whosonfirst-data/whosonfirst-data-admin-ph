@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676057,
-        1108696933
+        1108696933,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108696933,
             "locality_id":890450373,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890450373,
-    "wof:lastmodified":1566682217,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabug",
     "wof:parent_id":1108696933,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675947,
-        1108699231
+        1108699231,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699231,
             "locality_id":1327330315,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1327330315,
-    "wof:lastmodified":1566679124,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cang-asagan",
     "wof:parent_id":1108699231,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676159,
-        1108698567
+        1108698567,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698567,
             "locality_id":1226472121,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1226472121,
-    "wof:lastmodified":1566683211,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palsahingin",
     "wof:parent_id":1108698567,
     "wof:placetype":"locality",

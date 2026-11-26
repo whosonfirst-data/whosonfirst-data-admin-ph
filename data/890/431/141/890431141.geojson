@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676123,
-        1108699825
+        1108699825,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699825,
             "locality_id":890431141,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890431141,
-    "wof:lastmodified":1566682006,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malibong East",
     "wof:parent_id":1108699825,
     "wof:placetype":"locality",

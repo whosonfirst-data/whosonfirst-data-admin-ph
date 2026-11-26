@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676039,
-        1108697513
+        1108697513,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697513,
             "locality_id":1243336147,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1243336147,
-    "wof:lastmodified":1566682562,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pudao",
     "wof:parent_id":1108697513,
     "wof:placetype":"locality",

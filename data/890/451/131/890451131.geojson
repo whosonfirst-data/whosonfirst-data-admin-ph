@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676165,
-        1108698097
+        1108698097,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108698097,
             "localadmin_id":890451131,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":890451131,
-    "wof:lastmodified":1566682129,
+    "wof:lastmodified":1795733694,
     "wof:name":"Linamon",
     "wof:parent_id":1108698097,
     "wof:placetype":"localadmin",

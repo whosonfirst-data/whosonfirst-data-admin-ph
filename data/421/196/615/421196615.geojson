@@ -243,7 +243,8 @@
         102191569,
         85632509,
         85676141,
-        1108698145
+        1108698145,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,11 +263,12 @@
             "country_id":85632509,
             "county_id":1108698145,
             "locality_id":421196615,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":421196615,
-    "wof:lastmodified":1690851508,
+    "wof:lastmodified":1795733694,
     "wof:name":"Luisiana",
     "wof:parent_id":1108698145,
     "wof:placetype":"locality",

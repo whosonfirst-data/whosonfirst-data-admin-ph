@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676159,
-        1108699319
+        1108699319,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699319,
             "locality_id":890437029,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":890437029,
-    "wof:lastmodified":1566681955,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lumangbayan",
     "wof:parent_id":1108699319,
     "wof:placetype":"locality",

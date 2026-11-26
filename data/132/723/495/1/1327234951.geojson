@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676123,
-        1108696591
+        1108696591,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696591,
             "locality_id":1327234951,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1327234951,
-    "wof:lastmodified":1566679094,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tucoc",
     "wof:parent_id":1108696591,
     "wof:placetype":"locality",

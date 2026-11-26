@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676197,
-        1108697711
+        1108697711,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697711,
             "locality_id":1243162065,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1243162065,
-    "wof:lastmodified":1566682667,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lunang",
     "wof:parent_id":1108697711,
     "wof:placetype":"locality",

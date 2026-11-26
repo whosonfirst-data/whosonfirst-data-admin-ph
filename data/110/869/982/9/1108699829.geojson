@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676029
+        85676029,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699829,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1108699829,
-    "wof:lastmodified":1695886418,
+    "wof:lastmodified":1795733694,
     "wof:name":"Uson",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

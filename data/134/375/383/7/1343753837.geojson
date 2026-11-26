@@ -156,7 +156,8 @@
         102191569,
         85632509,
         85675985,
-        1108698025
+        1108698025,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,11 +171,12 @@
             "country_id":85632509,
             "county_id":1108698025,
             "locality_id":1343753837,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1343753837,
-    "wof:lastmodified":1566679649,
+    "wof:lastmodified":1795733694,
     "wof:name":"Leon",
     "wof:parent_id":1108698025,
     "wof:placetype":"locality",

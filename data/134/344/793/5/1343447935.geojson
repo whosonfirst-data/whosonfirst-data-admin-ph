@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676263,
-        1108699577
+        1108699577,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699577,
             "locality_id":1343447935,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":1343447935,
-    "wof:lastmodified":1566679659,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabontod",
     "wof:parent_id":1108699577,
     "wof:placetype":"locality",

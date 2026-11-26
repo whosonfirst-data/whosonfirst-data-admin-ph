@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676231,
-        1108699621
+        1108699621,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699621,
             "locality_id":1343739557,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":1343739557,
-    "wof:lastmodified":1566679629,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magopising",
     "wof:parent_id":1108699621,
     "wof:placetype":"locality",

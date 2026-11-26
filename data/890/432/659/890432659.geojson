@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676123,
-        1108699339
+        1108699339,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108699339,
             "locality_id":890432659,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890432659,
-    "wof:lastmodified":1566682230,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tebag East",
     "wof:parent_id":1108699339,
     "wof:placetype":"locality",

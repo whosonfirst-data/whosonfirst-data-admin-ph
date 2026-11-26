@@ -104,7 +104,8 @@
         102191569,
         85632509,
         85676179,
-        1108698871
+        1108698871,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,11 +119,12 @@
             "country_id":85632509,
             "county_id":1108698871,
             "locality_id":1277147435,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1277147435,
-    "wof:lastmodified":1636500925,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bong",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

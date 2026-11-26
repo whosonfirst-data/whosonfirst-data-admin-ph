@@ -122,7 +122,8 @@
         102191569,
         85632509,
         85676291,
-        1108698011
+        1108698011,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,11 +141,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698011,
+            "macroregion_id":9895008397,
             "region_id":85676291
         }
     ],
     "wof:id":102553239,
-    "wof:lastmodified":1690851312,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mactan-Cebu International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

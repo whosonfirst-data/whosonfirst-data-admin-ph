@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676035,
-        1108698883
+        1108698883,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108698883,
             "locality_id":421196945,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":421196945,
-    "wof:lastmodified":1690851509,
+    "wof:lastmodified":1795733694,
     "wof:name":"Casiguran",
     "wof:parent_id":1108698883,
     "wof:placetype":"locality",

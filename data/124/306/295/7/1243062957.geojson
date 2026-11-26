@@ -171,7 +171,8 @@
         102191569,
         85632509,
         85675971,
-        1108698919
+        1108698919,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,11 +186,12 @@
             "country_id":85632509,
             "county_id":1108698919,
             "locality_id":1243062957,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1243062957,
-    "wof:lastmodified":1566682371,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cartagena",
     "wof:parent_id":1108698919,
     "wof:placetype":"locality",

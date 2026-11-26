@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676243
+        85676243,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +47,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890431979,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":890431979,
-    "wof:lastmodified":1566681992,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aras-asan",
     "wof:parent_id":85676243,
     "wof:placetype":"locality",

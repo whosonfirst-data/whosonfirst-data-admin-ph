@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676123,
-        1108696929
+        1108696929,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108696929,
             "locality_id":890435887,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890435887,
-    "wof:lastmodified":1566682251,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dumpay",
     "wof:parent_id":1108696929,
     "wof:placetype":"locality",

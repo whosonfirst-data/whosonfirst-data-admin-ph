@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85675985,
-        1108699455
+        1108699455,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,11 +250,12 @@
             "country_id":85632509,
             "county_id":1108699455,
             "locality_id":890443925,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":890443925,
-    "wof:lastmodified":1690851764,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sebaste",
     "wof:parent_id":1108699455,
     "wof:placetype":"locality",

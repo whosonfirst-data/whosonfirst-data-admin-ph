@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676077,
-        1108698947
+        1108698947,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698947,
             "locality_id":1293100995,
+            "macroregion_id":9895008404,
             "region_id":85676077
         }
     ],
     "wof:id":1293100995,
-    "wof:lastmodified":1566680050,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caipilan",
     "wof:parent_id":1108698947,
     "wof:placetype":"locality",

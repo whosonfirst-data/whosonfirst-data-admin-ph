@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675967,
-        1108696727
+        1108696727,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696727,
             "locality_id":1343853913,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1343853913,
-    "wof:lastmodified":1566679492,
+    "wof:lastmodified":1795733694,
     "wof:name":"Monte Alegre",
     "wof:parent_id":1108696727,
     "wof:placetype":"locality",

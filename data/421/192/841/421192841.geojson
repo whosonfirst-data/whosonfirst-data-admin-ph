@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676259,
-        1108698277
+        1108698277,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,11 +265,12 @@
             "country_id":85632509,
             "county_id":1108698277,
             "locality_id":421192841,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":421192841,
-    "wof:lastmodified":1690851383,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maitum",
     "wof:parent_id":1108698277,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676209,
-        1108698641
+        1108698641,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698641,
             "locality_id":1344047293,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1344047293,
-    "wof:lastmodified":1566679614,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kimbabagan",
     "wof:parent_id":1108698641,
     "wof:placetype":"locality",

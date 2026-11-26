@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676217,
-        1108699237
+        1108699237,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699237,
             "locality_id":1327120439,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":1327120439,
-    "wof:lastmodified":1566679083,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nuevo Trabajo",
     "wof:parent_id":1108699237,
     "wof:placetype":"locality",

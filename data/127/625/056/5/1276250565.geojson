@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675985,
-        1108697405
+        1108697405,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697405,
             "locality_id":1276250565,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1276250565,
-    "wof:lastmodified":1566680293,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pitac",
     "wof:parent_id":1108697405,
     "wof:placetype":"locality",

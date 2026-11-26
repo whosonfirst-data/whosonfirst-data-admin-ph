@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676159,
-        1108696763
+        1108696763,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696763,
             "locality_id":1293128699,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1293128699,
-    "wof:lastmodified":1566679831,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paglantuyanan",
     "wof:parent_id":1108696763,
     "wof:placetype":"locality",

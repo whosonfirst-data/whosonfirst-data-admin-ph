@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676047,
-        1108696641
+        1108696641,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696641,
             "locality_id":1242876291,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1242876291,
-    "wof:lastmodified":1566682398,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gueddan",
     "wof:parent_id":1108696641,
     "wof:placetype":"locality",

@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675929,
-        1108699501
+        1108699501,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699501,
             "locality_id":890442299,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":890442299,
-    "wof:lastmodified":1566682115,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tampakan",
     "wof:parent_id":1108699501,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676197,
-        1108699863
+        1108699863,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699863,
             "locality_id":1327223699,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1327223699,
-    "wof:lastmodified":1566679049,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mansahaon",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

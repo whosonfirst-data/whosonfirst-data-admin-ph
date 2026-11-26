@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676057,
-        890442475
+        890442475,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":890442475,
             "locality_id":421189445,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":421189445,
-    "wof:lastmodified":1566681828,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laoag City",
     "wof:parent_id":890442475,
     "wof:placetype":"locality",

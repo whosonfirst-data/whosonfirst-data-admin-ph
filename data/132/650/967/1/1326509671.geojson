@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676179,
-        1108698175
+        1108698175,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698175,
             "locality_id":1326509671,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1326509671,
-    "wof:lastmodified":1566679043,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagong Tapay",
     "wof:parent_id":1108698175,
     "wof:placetype":"locality",

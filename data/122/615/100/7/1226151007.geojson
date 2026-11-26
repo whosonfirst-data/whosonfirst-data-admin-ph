@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676047,
-        1108696853
+        1108696853,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696853,
             "locality_id":1226151007,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1226151007,
-    "wof:lastmodified":1566683238,
+    "wof:lastmodified":1795733694,
     "wof:name":"Centro East",
     "wof:parent_id":1108696853,
     "wof:placetype":"locality",

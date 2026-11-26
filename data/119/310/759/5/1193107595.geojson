@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108698259
+        1108698259,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698259,
             "locality_id":1193107595,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1193107595,
-    "wof:lastmodified":1566680947,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dilausan",
     "wof:parent_id":1108698259,
     "wof:placetype":"locality",

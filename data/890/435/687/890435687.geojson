@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676209,
-        1108698009
+        1108698009,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108698009,
             "localadmin_id":890435687,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":890435687,
-    "wof:lastmodified":1566682252,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lapinig",
     "wof:parent_id":1108698009,
     "wof:placetype":"localadmin",

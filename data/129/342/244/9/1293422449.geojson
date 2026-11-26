@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676007,
-        1108698115
+        1108698115,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85632509,
             "county_id":1108698115,
             "locality_id":1293422449,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1293422449,
-    "wof:lastmodified":1706240587,
+    "wof:lastmodified":1795733694,
     "wof:name":"Peliw",
     "wof:parent_id":1108698115,
     "wof:placetype":"locality",

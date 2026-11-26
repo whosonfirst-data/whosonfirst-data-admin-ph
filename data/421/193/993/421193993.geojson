@@ -349,7 +349,8 @@
         102191569,
         85632509,
         85675945,
-        890415251
+        890415251,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -368,11 +369,12 @@
             "country_id":85632509,
             "county_id":890415251,
             "locality_id":421193993,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":421193993,
-    "wof:lastmodified":1690851403,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dumaguete City",
     "wof:parent_id":890415251,
     "wof:placetype":"locality",

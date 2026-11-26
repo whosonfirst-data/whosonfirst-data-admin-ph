@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676345,
-        1108698535
+        1108698535,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698535,
             "locality_id":1343363579,
+            "macroregion_id":9895008395,
             "region_id":85676345
         }
     ],
     "wof:id":1343363579,
-    "wof:lastmodified":1566679311,
+    "wof:lastmodified":1795733694,
     "wof:name":"Concepcion",
     "wof:parent_id":1108698535,
     "wof:placetype":"locality",

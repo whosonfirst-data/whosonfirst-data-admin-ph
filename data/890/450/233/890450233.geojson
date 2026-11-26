@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676083,
-        1108699537
+        1108699537,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699537,
             "locality_id":890450233,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":890450233,
-    "wof:lastmodified":1566682198,
+    "wof:lastmodified":1795733694,
     "wof:name":"Uddiawan",
     "wof:parent_id":1108699537,
     "wof:placetype":"locality",

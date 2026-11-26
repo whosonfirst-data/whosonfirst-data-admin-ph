@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676187,
-        1108697403
+        1108697403,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697403,
             "locality_id":1243064679,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":1243064679,
-    "wof:lastmodified":1566682374,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baras",
     "wof:parent_id":1108697403,
     "wof:placetype":"locality",

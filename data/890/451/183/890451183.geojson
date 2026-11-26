@@ -226,7 +226,8 @@
         102191569,
         85632509,
         85676249,
-        1108697975
+        1108697975,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,11 +245,12 @@
             "country_id":85632509,
             "county_id":1108697975,
             "locality_id":890451183,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":890451183,
-    "wof:lastmodified":1690851823,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lagonglong",
     "wof:parent_id":1108697975,
     "wof:placetype":"locality",

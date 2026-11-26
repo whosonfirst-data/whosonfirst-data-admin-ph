@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676089,
-        1108698545
+        1108698545,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698545,
             "locality_id":1260286583,
+            "macroregion_id":9895008391,
             "region_id":85676089
         }
     ],
     "wof:id":1260286583,
-    "wof:lastmodified":1566681057,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alicad",
     "wof:parent_id":1108698545,
     "wof:placetype":"locality",

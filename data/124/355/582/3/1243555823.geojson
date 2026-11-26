@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676097,
-        1108699855
+        1108699855,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699855,
             "locality_id":1243555823,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1243555823,
-    "wof:lastmodified":1566682389,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bantog",
     "wof:parent_id":1108699855,
     "wof:placetype":"locality",

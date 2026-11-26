@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676169,
-        1108698153
+        1108698153,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698153,
             "locality_id":1125986835,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1125986835,
-    "wof:lastmodified":1566682284,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacayawan",
     "wof:parent_id":1108698153,
     "wof:placetype":"locality",

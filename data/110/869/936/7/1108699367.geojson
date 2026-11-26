@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676097
+        85676097,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699367,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1108699367,
-    "wof:lastmodified":1695886395,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Ignacia",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

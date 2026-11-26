@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85675963,
-        1108699811
+        1108699811,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108699811,
             "locality_id":1276210531,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1276210531,
-    "wof:lastmodified":1566680163,
+    "wof:lastmodified":1795733694,
     "wof:name":"Masao",
     "wof:parent_id":1108699811,
     "wof:placetype":"locality",

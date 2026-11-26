@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676179,
-        1108696883
+        1108696883,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696883,
             "locality_id":1260366583,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1260366583,
-    "wof:lastmodified":1566680993,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balat",
     "wof:parent_id":1108696883,
     "wof:placetype":"locality",

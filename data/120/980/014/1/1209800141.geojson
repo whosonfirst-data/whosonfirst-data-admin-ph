@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676197,
-        1108696735
+        1108696735,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696735,
             "locality_id":1209800141,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1209800141,
-    "wof:lastmodified":1566680746,
+    "wof:lastmodified":1795733694,
     "wof:name":"Samputan",
     "wof:parent_id":1108696735,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676127,
-        1108699721
+        1108699721,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699721,
             "locality_id":1293043343,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1293043343,
-    "wof:lastmodified":1566679918,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camandag",
     "wof:parent_id":1108699721,
     "wof:placetype":"locality",

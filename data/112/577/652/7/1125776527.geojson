@@ -241,7 +241,8 @@
         102191569,
         85632509,
         85676073,
-        1108696595
+        1108696595,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108696595,
             "locality_id":1125776527,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1125776527,
-    "wof:lastmodified":1690851939,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tumauini",
     "wof:parent_id":1108696595,
     "wof:placetype":"locality",

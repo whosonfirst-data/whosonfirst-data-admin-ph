@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676131,
-        1108698189
+        1108698189,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108698189,
             "locality_id":890438213,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890438213,
-    "wof:lastmodified":1690851714,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mabini",
     "wof:parent_id":1108698189,
     "wof:placetype":"locality",

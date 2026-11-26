@@ -261,7 +261,8 @@
         102191569,
         85632509,
         85676127,
-        1108698377
+        1108698377,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -280,11 +281,12 @@
             "country_id":85632509,
             "county_id":1108698377,
             "locality_id":421202119,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":421202119,
-    "wof:lastmodified":1690851430,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maragondon",
     "wof:parent_id":1108698377,
     "wof:placetype":"locality",

@@ -67,7 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675971
+        85675971,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697199,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1108697199,
-    "wof:lastmodified":1695886272,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calamba",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

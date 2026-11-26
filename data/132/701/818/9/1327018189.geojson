@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676165,
-        1108698439
+        1108698439,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698439,
             "locality_id":1327018189,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1327018189,
-    "wof:lastmodified":1566678918,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basagad",
     "wof:parent_id":1108698439,
     "wof:placetype":"locality",

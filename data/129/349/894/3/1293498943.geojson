@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676361,
-        1108699545
+        1108699545,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699545,
             "locality_id":1293498943,
+            "macroregion_id":9895008392,
             "region_id":85676361
         }
     ],
     "wof:id":1293498943,
-    "wof:lastmodified":1566679854,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aninguay",
     "wof:parent_id":1108699545,
     "wof:placetype":"locality",

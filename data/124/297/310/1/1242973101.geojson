@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85676073,
-        1108699257
+        1108699257,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699257,
             "locality_id":1242973101,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1242973101,
-    "wof:lastmodified":1566682636,
+    "wof:lastmodified":1795733694,
     "wof:name":"Estrella",
     "wof:parent_id":1108699257,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676269,
-        1108698825
+        1108698825,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698825,
             "locality_id":1309684767,
+            "macroregion_id":9895008404,
             "region_id":85676269
         }
     ],
     "wof:id":1309684767,
-    "wof:lastmodified":1566681729,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cagaloan",
     "wof:parent_id":1108698825,
     "wof:placetype":"locality",

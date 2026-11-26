@@ -140,7 +140,8 @@
         102191569,
         85632509,
         85675939,
-        1108697033
+        1108697033,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,11 +159,12 @@
             "country_id":85632509,
             "county_id":1108697033,
             "locality_id":890442343,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890442343,
-    "wof:lastmodified":1566682116,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guadalupe",
     "wof:parent_id":1108697033,
     "wof:placetype":"locality",

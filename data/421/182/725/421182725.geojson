@@ -239,7 +239,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676191
+        85676191,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -257,11 +258,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":421182725,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":421182725,
-    "wof:lastmodified":1690851591,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balangkayan",
     "wof:parent_id":85676191,
     "wof:placetype":"locality",

@@ -102,7 +102,8 @@
         102191569,
         85632509,
         85676057,
-        1108698621
+        1108698621,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,11 +117,12 @@
             "country_id":85632509,
             "county_id":1108698621,
             "locality_id":1292906901,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1292906901,
-    "wof:lastmodified":1566679975,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Isidro",
     "wof:parent_id":1108698621,
     "wof:placetype":"locality",

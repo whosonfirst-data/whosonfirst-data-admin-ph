@@ -77,7 +77,8 @@
         102191569,
         85632509,
         85676159,
-        1108697205
+        1108697205,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +92,12 @@
             "country_id":85632509,
             "county_id":1108697205,
             "locality_id":1242875233,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1242875233,
-    "wof:lastmodified":1566682403,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bonbon",
     "wof:parent_id":1108697205,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676131,
-        1108696639
+        1108696639,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696639,
             "locality_id":1225882753,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1225882753,
-    "wof:lastmodified":1566683153,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cutangcawayan",
     "wof:parent_id":1108696639,
     "wof:placetype":"locality",

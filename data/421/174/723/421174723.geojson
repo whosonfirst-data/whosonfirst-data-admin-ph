@@ -254,7 +254,8 @@
         102191569,
         85632509,
         85675971,
-        890429615
+        890429615,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -272,11 +273,12 @@
             "country_id":85632509,
             "county_id":890429615,
             "locality_id":421174723,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":421174723,
-    "wof:lastmodified":1690851446,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tangub City",
     "wof:parent_id":890429615,
     "wof:placetype":"locality",

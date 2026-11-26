@@ -138,7 +138,8 @@
         102191569,
         85632509,
         85675945,
-        890415251
+        890415251,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,11 +153,12 @@
             "country_id":85632509,
             "county_id":890415251,
             "locality_id":1309933957,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1309933957,
-    "wof:lastmodified":1636501091,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laguna",
     "wof:parent_id":890415251,
     "wof:placetype":"locality",

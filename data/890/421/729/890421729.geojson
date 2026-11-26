@@ -53,7 +53,8 @@
         102191569,
         85632509,
         85675939,
-        890432909
+        890432909,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":890432909,
             "locality_id":890421729,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890421729,
-    "wof:lastmodified":1566682044,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calero",
     "wof:parent_id":890432909,
     "wof:placetype":"locality",

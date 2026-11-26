@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676083
+        85676083,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699873,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1108699873,
-    "wof:lastmodified":1695886419,
+    "wof:lastmodified":1795733694,
     "wof:name":"Villaverde",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

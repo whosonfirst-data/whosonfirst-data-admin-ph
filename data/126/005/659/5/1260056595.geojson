@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676259,
-        1108696585
+        1108696585,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696585,
             "locality_id":1260056595,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":1260056595,
-    "wof:lastmodified":1566681086,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bianan",
     "wof:parent_id":1108696585,
     "wof:placetype":"locality",

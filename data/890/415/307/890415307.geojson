@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676093,
-        1108699095
+        1108699095,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108699095,
             "localadmin_id":890415307,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":890415307,
-    "wof:lastmodified":1690851622,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Abucay",
     "wof:parent_id":1108699095,
     "wof:placetype":"localadmin",

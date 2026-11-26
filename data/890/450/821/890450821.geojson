@@ -221,7 +221,8 @@
         102191569,
         85632509,
         85676269,
-        1108698825
+        1108698825,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -240,11 +241,12 @@
             "country_id":85632509,
             "county_id":1108698825,
             "locality_id":890450821,
+            "macroregion_id":9895008404,
             "region_id":85676269
         }
     ],
     "wof:id":890450821,
-    "wof:lastmodified":1690851865,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pasil",
     "wof:parent_id":1108698825,
     "wof:placetype":"locality",

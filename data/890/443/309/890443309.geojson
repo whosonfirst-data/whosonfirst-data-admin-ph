@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85676021,
-        1108698531
+        1108698531,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698531,
             "localadmin_id":890443309,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890443309,
-    "wof:lastmodified":1566682057,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nabua",
     "wof:parent_id":1108698531,
     "wof:placetype":"localadmin",

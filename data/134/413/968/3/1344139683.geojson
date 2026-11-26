@@ -121,7 +121,8 @@
         102191569,
         85632509,
         85676053,
-        1108698157
+        1108698157,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,11 +136,12 @@
             "country_id":85632509,
             "county_id":1108698157,
             "locality_id":1344139683,
+            "macroregion_id":9895008404,
             "region_id":85676053
         }
     ],
     "wof:id":1344139683,
-    "wof:lastmodified":1636500814,
+    "wof:lastmodified":1795733694,
     "wof:name":"Masi",
     "wof:parent_id":1108698157,
     "wof:placetype":"locality",

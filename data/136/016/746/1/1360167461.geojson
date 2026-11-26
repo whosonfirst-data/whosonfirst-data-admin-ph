@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85676039,
-        1108699221
+        1108699221,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699221,
             "locality_id":1360167461,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1360167461,
-    "wof:lastmodified":1566681619,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lupa",
     "wof:parent_id":1108699221,
     "wof:placetype":"locality",

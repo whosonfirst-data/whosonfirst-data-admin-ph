@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676011,
-        1108697235
+        1108697235,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108697235,
             "locality_id":890443077,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":890443077,
-    "wof:lastmodified":1690851756,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camalig",
     "wof:parent_id":1108697235,
     "wof:placetype":"locality",

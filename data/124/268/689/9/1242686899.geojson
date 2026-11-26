@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676057,
-        1108699881
+        1108699881,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699881,
             "locality_id":1242686899,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1242686899,
-    "wof:lastmodified":1566682437,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dimamaga",
     "wof:parent_id":1108699881,
     "wof:placetype":"locality",

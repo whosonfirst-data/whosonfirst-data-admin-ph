@@ -97,7 +97,8 @@
         102191569,
         85632509,
         85676093,
-        1108697491
+        1108697491,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,11 +114,12 @@
             "country_id":85632509,
             "county_id":1108697491,
             "localadmin_id":1125396605,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":1125396605,
-    "wof:lastmodified":1566682271,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dinalupihan",
     "wof:parent_id":1108697491,
     "wof:placetype":"localadmin",

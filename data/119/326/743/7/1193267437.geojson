@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85675967,
-        1108699889
+        1108699889,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632509,
             "county_id":1108699889,
             "locality_id":1193267437,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1193267437,
-    "wof:lastmodified":1566680957,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gelleman",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

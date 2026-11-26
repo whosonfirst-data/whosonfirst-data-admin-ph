@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676131,
-        1108699665
+        1108699665,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699665,
             "locality_id":890415591,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890415591,
-    "wof:lastmodified":1566681923,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santor",
     "wof:parent_id":1108699665,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675939,
-        1108699311
+        1108699311,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699311,
             "locality_id":1344177251,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1344177251,
-    "wof:lastmodified":1566679588,
+    "wof:lastmodified":1795733694,
     "wof:name":"Libaong",
     "wof:parent_id":1108699311,
     "wof:placetype":"locality",

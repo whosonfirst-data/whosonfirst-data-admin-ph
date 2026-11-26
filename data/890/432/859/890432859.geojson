@@ -32,7 +32,8 @@
         102191569,
         85632509,
         85676101,
-        1108697597
+        1108697597,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632509,
             "county_id":1108697597,
             "localadmin_id":890432859,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":890432859,
-    "wof:lastmodified":1566682227,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gabaldon",
     "wof:parent_id":1108697597,
     "wof:placetype":"localadmin",

@@ -315,7 +315,8 @@
         102191569,
         85632509,
         85676131,
-        1108699205
+        1108699205,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -329,11 +330,12 @@
             "country_id":85632509,
             "county_id":1108699205,
             "locality_id":1243114505,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1243114505,
-    "wof:lastmodified":1566682657,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anus",
     "wof:parent_id":1108699205,
     "wof:placetype":"locality",

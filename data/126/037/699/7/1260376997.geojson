@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676217,
-        1108697577
+        1108697577,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108697577,
             "locality_id":1260376997,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":1260376997,
-    "wof:lastmodified":1566681010,
+    "wof:lastmodified":1795733694,
     "wof:name":"Corinto",
     "wof:parent_id":1108697577,
     "wof:placetype":"locality",

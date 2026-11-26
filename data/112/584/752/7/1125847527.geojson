@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85676073,
-        1108699385
+        1108699385,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699385,
             "locality_id":1125847527,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1125847527,
-    "wof:lastmodified":1566682296,
+    "wof:lastmodified":1795733694,
     "wof:name":"Minanga Norte",
     "wof:parent_id":1108699385,
     "wof:placetype":"locality",

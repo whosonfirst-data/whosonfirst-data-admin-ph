@@ -391,7 +391,8 @@
     "wd:wordcount":3438,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -417,6 +418,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
@@ -436,9 +438,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884880,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bohol",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008397,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
     "wof:population":1255128,

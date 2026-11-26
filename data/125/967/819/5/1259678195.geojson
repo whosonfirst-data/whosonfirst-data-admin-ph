@@ -86,7 +86,8 @@
         102191569,
         85632509,
         85675961,
-        1108698955
+        1108698955,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,11 +102,12 @@
             "country_id":85632509,
             "county_id":1108698955,
             "locality_id":1259678195,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1259678195,
-    "wof:lastmodified":1566682898,
+    "wof:lastmodified":1795733694,
     "wof:name":"President Manuel Acuna Roxas",
     "wof:parent_id":1108698955,
     "wof:placetype":"locality",

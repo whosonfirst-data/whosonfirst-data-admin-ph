@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676057,
-        1108696933
+        1108696933,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696933,
             "locality_id":1360188075,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1360188075,
-    "wof:lastmodified":1566681612,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anangul",
     "wof:parent_id":1108696933,
     "wof:placetype":"locality",

@@ -102,7 +102,8 @@
         102191569,
         85632509,
         85675963,
-        1108696631
+        1108696631,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,11 +117,12 @@
             "country_id":85632509,
             "county_id":1108696631,
             "locality_id":1226028677,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1226028677,
-    "wof:lastmodified":1566683087,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bomba",
     "wof:parent_id":1108696631,
     "wof:placetype":"locality",

@@ -138,7 +138,8 @@
         102191569,
         85632509,
         85676197,
-        1108698449
+        1108698449,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,11 +153,12 @@
             "country_id":85632509,
             "county_id":1108698449,
             "locality_id":1360270047,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1360270047,
-    "wof:lastmodified":1566681604,
+    "wof:lastmodified":1795733694,
     "wof:name":"Union",
     "wof:parent_id":1108698449,
     "wof:placetype":"locality",

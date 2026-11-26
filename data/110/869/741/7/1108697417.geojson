@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676017
+        85676017,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697417,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1108697417,
-    "wof:lastmodified":1695886281,
+    "wof:lastmodified":1795733694,
     "wof:name":"Daet",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

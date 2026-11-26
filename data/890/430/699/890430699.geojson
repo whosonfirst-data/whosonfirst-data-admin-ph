@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676169,
-        1108696749
+        1108696749,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108696749,
             "localadmin_id":890430699,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":890430699,
-    "wof:lastmodified":1566681944,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacolod Grande",
     "wof:parent_id":1108696749,
     "wof:placetype":"localadmin",

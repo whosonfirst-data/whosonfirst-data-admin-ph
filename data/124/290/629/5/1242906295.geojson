@@ -105,7 +105,8 @@
         102191569,
         85632509,
         85675951,
-        1108696999
+        1108696999,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108696999,
             "locality_id":1242906295,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1242906295,
-    "wof:lastmodified":1566682625,
+    "wof:lastmodified":1795733694,
     "wof:name":"Veronica",
     "wof:parent_id":1108696999,
     "wof:placetype":"locality",

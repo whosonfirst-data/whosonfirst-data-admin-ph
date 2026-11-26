@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676113,
-        1108699357
+        1108699357,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699357,
             "locality_id":1293001851,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1293001851,
-    "wof:lastmodified":1566679718,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sobol",
     "wof:parent_id":1108699357,
     "wof:placetype":"locality",

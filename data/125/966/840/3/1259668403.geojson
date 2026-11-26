@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676209,
-        1108697327
+        1108697327,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697327,
             "locality_id":1259668403,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1259668403,
-    "wof:lastmodified":1566682881,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabugok",
     "wof:parent_id":1108697327,
     "wof:placetype":"locality",

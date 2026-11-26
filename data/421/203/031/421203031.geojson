@@ -258,7 +258,8 @@
         102191569,
         85632509,
         85675989,
-        1108698771
+        1108698771,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -277,11 +278,12 @@
             "country_id":85632509,
             "county_id":1108698771,
             "locality_id":421203031,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":421203031,
-    "wof:lastmodified":1690851423,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panay",
     "wof:parent_id":1108698771,
     "wof:placetype":"locality",

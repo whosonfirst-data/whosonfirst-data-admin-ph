@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676127,
-        1108699721
+        1108699721,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699721,
             "locality_id":1226791787,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1226791787,
-    "wof:lastmodified":1566683247,
+    "wof:lastmodified":1795733694,
     "wof:name":"Coyogno",
     "wof:parent_id":1108699721,
     "wof:placetype":"locality",

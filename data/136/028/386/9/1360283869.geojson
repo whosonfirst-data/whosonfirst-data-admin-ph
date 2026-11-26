@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676017,
-        1108697845
+        1108697845,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108697845,
             "locality_id":1360283869,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1360283869,
-    "wof:lastmodified":1566681642,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dogo",
     "wof:parent_id":1108697845,
     "wof:placetype":"locality",

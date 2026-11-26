@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676127,
-        1108696623
+        1108696623,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108696623,
             "locality_id":890434219,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890434219,
-    "wof:lastmodified":1566682145,
+    "wof:lastmodified":1795733694,
     "wof:name":"Matagbak",
     "wof:parent_id":1108696623,
     "wof:placetype":"locality",

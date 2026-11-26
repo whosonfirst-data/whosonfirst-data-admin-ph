@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676061,
-        1108699225
+        1108699225,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699225,
             "locality_id":1293592619,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293592619,
-    "wof:lastmodified":1566679887,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nagsuputan",
     "wof:parent_id":1108699225,
     "wof:placetype":"locality",

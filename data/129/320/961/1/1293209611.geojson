@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676061,
-        1108696873
+        1108696873,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696873,
             "locality_id":1293209611,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293209611,
-    "wof:lastmodified":1566679989,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Jose de Bugnay",
     "wof:parent_id":1108696873,
     "wof:placetype":"locality",

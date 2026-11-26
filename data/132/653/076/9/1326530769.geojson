@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676135,
-        1108698593
+        1108698593,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698593,
             "locality_id":1326530769,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1326530769,
-    "wof:lastmodified":1566679243,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marungko",
     "wof:parent_id":1108698593,
     "wof:placetype":"locality",

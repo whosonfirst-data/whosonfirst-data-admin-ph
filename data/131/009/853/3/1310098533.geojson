@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676029,
-        1108699829
+        1108699829,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699829,
             "locality_id":1310098533,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1310098533,
-    "wof:lastmodified":1566681362,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canuog-nuog",
     "wof:parent_id":1108699829,
     "wof:placetype":"locality",

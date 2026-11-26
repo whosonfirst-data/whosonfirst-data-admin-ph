@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676035,
-        1108698233
+        1108698233,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698233,
             "locality_id":1209819979,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":1209819979,
-    "wof:lastmodified":1566680797,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cagtalaba",
     "wof:parent_id":1108698233,
     "wof:placetype":"locality",

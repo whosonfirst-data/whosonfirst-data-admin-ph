@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676083,
-        1108696705
+        1108696705,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108696705,
             "locality_id":1326738225,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1326738225,
-    "wof:lastmodified":1566678995,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baan",
     "wof:parent_id":1108696705,
     "wof:placetype":"locality",

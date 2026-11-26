@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676073,
-        1108699171
+        1108699171,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699171,
             "locality_id":1343460899,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1343460899,
-    "wof:lastmodified":1566679451,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mabuhay",
     "wof:parent_id":1108699171,
     "wof:placetype":"locality",

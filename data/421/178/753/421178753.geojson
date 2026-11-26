@@ -246,7 +246,8 @@
         102191569,
         85632509,
         85676065,
-        1108697497
+        1108697497,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,11 +266,12 @@
             "country_id":85632509,
             "county_id":1108697497,
             "locality_id":421178753,
+            "macroregion_id":9895008392,
             "region_id":85676065
         }
     ],
     "wof:id":421178753,
-    "wof:lastmodified":1690851564,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dingalan",
     "wof:parent_id":1108697497,
     "wof:placetype":"locality",

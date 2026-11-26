@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676141,
-        1108698145
+        1108698145,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698145,
             "localadmin_id":1125376585,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1125376585,
-    "wof:lastmodified":1566682268,
+    "wof:lastmodified":1795733694,
     "wof:name":"Luisiana",
     "wof:parent_id":1108698145,
     "wof:placetype":"localadmin",

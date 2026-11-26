@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676159,
-        1108699851
+        1108699851,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108699851,
             "locality_id":1293816409,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1293816409,
-    "wof:lastmodified":1566680072,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gamboa",
     "wof:parent_id":1108699851,
     "wof:placetype":"locality",

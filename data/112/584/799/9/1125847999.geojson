@@ -241,7 +241,8 @@
         102191569,
         85632509,
         85676053,
-        1108697381
+        1108697381,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108697381,
             "locality_id":1125847999,
+            "macroregion_id":9895008404,
             "region_id":85676053
         }
     ],
     "wof:id":1125847999,
-    "wof:lastmodified":1690851929,
+    "wof:lastmodified":1795733694,
     "wof:name":"Conner",
     "wof:parent_id":1108697381,
     "wof:placetype":"locality",

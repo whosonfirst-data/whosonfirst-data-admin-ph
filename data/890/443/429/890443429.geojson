@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676145,
-        1108696679
+        1108696679,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696679,
             "localadmin_id":890443429,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":890443429,
-    "wof:lastmodified":1566682074,
+    "wof:lastmodified":1795733694,
     "wof:name":"Angono",
     "wof:parent_id":1108696679,
     "wof:placetype":"localadmin",

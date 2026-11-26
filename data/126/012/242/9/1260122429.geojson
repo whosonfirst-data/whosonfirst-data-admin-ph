@@ -43,7 +43,8 @@
         85632509,
         85676145,
         1108697003,
-        85676141
+        85676141,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,6 +58,7 @@
             "country_id":85632509,
             "county_id":1108697003,
             "locality_id":1260122429,
+            "macroregion_id":9895008393,
             "region_id":85676145
         },
         {
@@ -64,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108697003,
             "locality_id":1260122429,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1260122429,
-    "wof:lastmodified":1566680965,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bombong",
     "wof:parent_id":1108697003,
     "wof:placetype":"locality",

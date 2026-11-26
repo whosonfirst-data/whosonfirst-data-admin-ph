@@ -111,7 +111,8 @@
         102191569,
         85632509,
         85676221,
-        1108698361
+        1108698361,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,11 +126,12 @@
             "country_id":85632509,
             "county_id":1108698361,
             "locality_id":1260271547,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1260271547,
-    "wof:lastmodified":1566681026,
+    "wof:lastmodified":1795733694,
     "wof:name":"Victory",
     "wof:parent_id":1108698361,
     "wof:placetype":"locality",

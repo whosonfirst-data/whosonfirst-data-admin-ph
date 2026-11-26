@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676011,
-        1108698583
+        1108698583,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108698583,
             "locality_id":1293492239,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1293492239,
-    "wof:lastmodified":1566679856,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batan",
     "wof:parent_id":1108698583,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676249,
-        1108697299
+        1108697299,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697299,
             "locality_id":1327419947,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":1327419947,
-    "wof:lastmodified":1566679100,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cahayagan",
     "wof:parent_id":1108697299,
     "wof:placetype":"locality",

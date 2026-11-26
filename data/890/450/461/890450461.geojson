@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676061,
-        1108699485
+        1108699485,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108699485,
             "localadmin_id":890450461,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":890450461,
-    "wof:lastmodified":1690851878,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sigay",
     "wof:parent_id":1108699485,
     "wof:placetype":"localadmin",

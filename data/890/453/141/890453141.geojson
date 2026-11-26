@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676255,
-        1108699701
+        1108699701,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699701,
             "locality_id":890453141,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":890453141,
-    "wof:lastmodified":1566682032,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lukatan",
     "wof:parent_id":1108699701,
     "wof:placetype":"locality",

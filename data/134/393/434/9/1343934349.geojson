@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676179,
-        1108698475
+        1108698475,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698475,
             "locality_id":1343934349,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1343934349,
-    "wof:lastmodified":1566679564,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balatalupa",
     "wof:parent_id":1108698475,
     "wof:placetype":"locality",

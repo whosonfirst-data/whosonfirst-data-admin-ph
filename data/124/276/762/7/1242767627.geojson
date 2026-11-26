@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676209,
-        1108699185
+        1108699185,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699185,
             "locality_id":1242767627,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1242767627,
-    "wof:lastmodified":1566682593,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caagiitan",
     "wof:parent_id":1108699185,
     "wof:placetype":"locality",

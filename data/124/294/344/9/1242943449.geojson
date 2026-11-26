@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676183,
-        1108697581
+        1108697581,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697581,
             "locality_id":1242943449,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1242943449,
-    "wof:lastmodified":1566682462,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sagabain",
     "wof:parent_id":1108697581,
     "wof:placetype":"locality",

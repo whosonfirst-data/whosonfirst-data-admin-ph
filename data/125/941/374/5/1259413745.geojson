@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85676003,
-        1108697141
+        1108697141,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108697141,
             "locality_id":1259413745,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1259413745,
-    "wof:lastmodified":1636501220,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Rafael",
     "wof:parent_id":1108697141,
     "wof:placetype":"locality",

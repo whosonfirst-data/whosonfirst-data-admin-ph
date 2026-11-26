@@ -56,7 +56,8 @@
         102191569,
         85632509,
         85675993,
-        1108698711
+        1108698711,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698711,
             "locality_id":890433821,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":890433821,
-    "wof:lastmodified":1690851848,
+    "wof:lastmodified":1795733694,
     "wof:name":"Trapiche",
     "wof:parent_id":1108698711,
     "wof:placetype":"locality",

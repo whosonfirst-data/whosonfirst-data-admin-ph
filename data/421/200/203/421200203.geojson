@@ -233,7 +233,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675967
+        85675967,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":421200203,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":421200203,
-    "wof:lastmodified":1690851533,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dimataling",
     "wof:parent_id":85675967,
     "wof:placetype":"locality",

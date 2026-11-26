@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676295,
-        1108696747
+        1108696747,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696747,
             "locality_id":1210026091,
+            "macroregion_id":9895008406,
             "region_id":85676295
         }
     ],
     "wof:id":1210026091,
-    "wof:lastmodified":1566680847,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bantud Hacienda",
     "wof:parent_id":1108696747,
     "wof:placetype":"locality",

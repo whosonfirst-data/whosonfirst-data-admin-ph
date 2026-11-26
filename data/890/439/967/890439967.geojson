@@ -247,7 +247,8 @@
         102191569,
         85632509,
         85676119,
-        1108699043
+        1108699043,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,11 +266,12 @@
             "country_id":85632509,
             "county_id":1108699043,
             "locality_id":890439967,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890439967,
-    "wof:lastmodified":1690851647,
+    "wof:lastmodified":1795733694,
     "wof:name":"Rosario",
     "wof:parent_id":1108699043,
     "wof:placetype":"locality",

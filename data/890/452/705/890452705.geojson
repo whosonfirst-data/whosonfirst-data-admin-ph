@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676269,
-        1108699595
+        1108699595,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699595,
             "locality_id":890452705,
+            "macroregion_id":9895008404,
             "region_id":85676269
         }
     ],
     "wof:id":890452705,
-    "wof:lastmodified":1566681966,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abut",
     "wof:parent_id":1108699595,
     "wof:placetype":"locality",

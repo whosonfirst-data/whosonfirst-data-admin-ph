@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676159,
-        1108696889
+        1108696889,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108696889,
             "locality_id":421197441,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":421197441,
-    "wof:lastmodified":1690851516,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bansud",
     "wof:parent_id":1108696889,
     "wof:placetype":"locality",

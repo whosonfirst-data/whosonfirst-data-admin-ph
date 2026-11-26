@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676141,
-        1108699387
+        1108699387,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699387,
             "locality_id":1326580787,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1326580787,
-    "wof:lastmodified":1566679012,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cuevang Bato",
     "wof:parent_id":1108699387,
     "wof:placetype":"locality",

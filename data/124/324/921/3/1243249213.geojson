@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85675939,
-        1108699311
+        1108699311,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699311,
             "locality_id":1243249213,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1243249213,
-    "wof:lastmodified":1566682501,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sili",
     "wof:parent_id":1108699311,
     "wof:placetype":"locality",

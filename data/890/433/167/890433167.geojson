@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85675975,
-        1108698837
+        1108698837,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "country_id":85632509,
             "county_id":1108698837,
             "locality_id":890433167,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890433167,
-    "wof:lastmodified":1706240581,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anuling",
     "wof:parent_id":1108698837,
     "wof:placetype":"locality",

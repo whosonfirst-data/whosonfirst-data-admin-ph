@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676113,
-        1108697155
+        1108697155,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108697155,
             "locality_id":421178765,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":421178765,
-    "wof:lastmodified":1690851564,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabangan",
     "wof:parent_id":1108697155,
     "wof:placetype":"locality",

@@ -247,7 +247,8 @@
         102191569,
         85632509,
         85676047,
-        1108696665
+        1108696665,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,11 +265,12 @@
             "country_id":85632509,
             "county_id":1108696665,
             "locality_id":1125849255,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1125849255,
-    "wof:lastmodified":1690851932,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amulung",
     "wof:parent_id":1108696665,
     "wof:placetype":"locality",

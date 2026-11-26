@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676141,
-        1108698151
+        1108698151,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698151,
             "locality_id":1226293993,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1226293993,
-    "wof:lastmodified":1566683065,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagong Sila",
     "wof:parent_id":1108698151,
     "wof:placetype":"locality",

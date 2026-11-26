@@ -105,7 +105,8 @@
         102191569,
         85632509,
         85676007,
-        1108699159
+        1108699159,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108699159,
             "locality_id":1226475067,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1226475067,
-    "wof:lastmodified":1566683210,
+    "wof:lastmodified":1795733694,
     "wof:name":"Azagra",
     "wof:parent_id":1108699159,
     "wof:placetype":"locality",

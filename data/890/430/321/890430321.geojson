@@ -32,7 +32,7 @@
         85632509,
         85676201,
         1108698657,
-        85681335
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +48,7 @@
             "country_id":85632509,
             "county_id":1108698657,
             "localadmin_id":890430321,
+            "macroregion_id":9895008398,
             "region_id":85676201
         },
         {
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890430321,
-    "wof:lastmodified":1566681946,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagapul-an",
     "wof:parent_id":1108698657,
     "wof:placetype":"localadmin",

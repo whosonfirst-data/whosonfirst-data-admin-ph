@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676073,
-        1108697165
+        1108697165,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697165,
             "locality_id":1343466597,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1343466597,
-    "wof:lastmodified":1566679448,
+    "wof:lastmodified":1795733694,
     "wof:name":"Del Corpuz",
     "wof:parent_id":1108697165,
     "wof:placetype":"locality",

@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85675993,
-        1108696681
+        1108696681,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108696681,
             "locality_id":1226040061,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1226040061,
-    "wof:lastmodified":1566683115,
+    "wof:lastmodified":1795733694,
     "wof:name":"Vista Alegre",
     "wof:parent_id":1108696681,
     "wof:placetype":"locality",

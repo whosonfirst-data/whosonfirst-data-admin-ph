@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676149,
-        1108697617
+        1108697617,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697617,
             "locality_id":1360015347,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1360015347,
-    "wof:lastmodified":1566681591,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bognuyan",
     "wof:parent_id":1108697617,
     "wof:placetype":"locality",

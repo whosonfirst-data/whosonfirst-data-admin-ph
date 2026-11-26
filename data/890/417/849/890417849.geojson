@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85676153,
-        1108698133
+        1108698133,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,11 +254,12 @@
             "country_id":85632509,
             "county_id":1108698133,
             "locality_id":890417849,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":890417849,
-    "wof:lastmodified":1690851741,
+    "wof:lastmodified":1795733694,
     "wof:name":"Looc",
     "wof:parent_id":1108698133,
     "wof:placetype":"locality",

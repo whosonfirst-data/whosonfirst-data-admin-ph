@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676047,
-        1108697745
+        1108697745,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697745,
             "locality_id":1310207169,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1310207169,
-    "wof:lastmodified":1566681424,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Esteban",
     "wof:parent_id":1108697745,
     "wof:placetype":"locality",

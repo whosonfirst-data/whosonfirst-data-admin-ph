@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676269,
-        1108699685
+        1108699685,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699685,
             "localadmin_id":890429601,
+            "macroregion_id":9895008404,
             "region_id":85676269
         }
     ],
     "wof:id":890429601,
-    "wof:lastmodified":1566682086,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tanudan",
     "wof:parent_id":1108699685,
     "wof:placetype":"localadmin",

@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676145,
-        1108697807
+        1108697807,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108697807,
             "locality_id":1243596433,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1243596433,
-    "wof:lastmodified":1566682527,
+    "wof:lastmodified":1795733694,
     "wof:name":"Biga",
     "wof:parent_id":1108697807,
     "wof:placetype":"locality",

@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676145,
-        1108697005
+        1108697005,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108697005,
             "localadmin_id":890443771,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":890443771,
-    "wof:lastmodified":1690851763,
+    "wof:lastmodified":1795733694,
     "wof:name":"Binangonan",
     "wof:parent_id":1108697005,
     "wof:placetype":"localadmin",

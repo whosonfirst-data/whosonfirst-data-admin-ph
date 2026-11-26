@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676017,
-        1108699321
+        1108699321,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699321,
             "locality_id":1209714001,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1209714001,
-    "wof:lastmodified":1566680606,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabanbanan",
     "wof:parent_id":1108699321,
     "wof:placetype":"locality",

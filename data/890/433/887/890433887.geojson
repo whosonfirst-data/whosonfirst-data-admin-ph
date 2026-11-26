@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676183,
-        1108698395
+        1108698395,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698395,
             "locality_id":890433887,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":890433887,
-    "wof:lastmodified":1566682169,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tambak",
     "wof:parent_id":1108698395,
     "wof:placetype":"locality",

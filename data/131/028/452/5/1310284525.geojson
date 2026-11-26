@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676183,
-        1108698747
+        1108698747,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108698747,
             "locality_id":1310284525,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1310284525,
-    "wof:lastmodified":1566681452,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kraan",
     "wof:parent_id":1108698747,
     "wof:placetype":"locality",

@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676127,
-        1108696659
+        1108696659,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696659,
             "locality_id":1326968335,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1326968335,
-    "wof:lastmodified":1566679230,
+    "wof:lastmodified":1795733694,
     "wof:name":"Loma",
     "wof:parent_id":1108696659,
     "wof:placetype":"locality",

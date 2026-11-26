@@ -62,7 +62,8 @@
         102191569,
         85632509,
         85676173,
-        1108697459
+        1108697459,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697459,
             "localadmin_id":890432877,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":890432877,
-    "wof:lastmodified":1690851899,
+    "wof:lastmodified":1795733694,
     "wof:name":"Datu Piang",
     "wof:parent_id":1108697459,
     "wof:placetype":"localadmin",

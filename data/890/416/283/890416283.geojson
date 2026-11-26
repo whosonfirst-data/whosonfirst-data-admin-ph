@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675945,
-        1108697677
+        1108697677,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697677,
             "locality_id":890416283,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890416283,
-    "wof:lastmodified":1566682097,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anopog",
     "wof:parent_id":1108697677,
     "wof:placetype":"locality",

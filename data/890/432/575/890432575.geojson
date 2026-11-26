@@ -550,7 +550,8 @@
         102191569,
         85632509,
         85675961,
-        1108697447
+        1108697447,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -568,11 +569,12 @@
             "country_id":85632509,
             "county_id":1108697447,
             "locality_id":890432575,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":890432575,
-    "wof:lastmodified":1566682232,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barcelona",
     "wof:parent_id":1108697447,
     "wof:placetype":"locality",

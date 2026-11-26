@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676179,
-        1108698175
+        1108698175,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698175,
             "locality_id":1226031799,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1226031799,
-    "wof:lastmodified":1566683128,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sibpitan",
     "wof:parent_id":1108698175,
     "wof:placetype":"locality",

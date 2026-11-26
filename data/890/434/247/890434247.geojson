@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676145,
-        1108699259
+        1108699259,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699259,
             "locality_id":890434247,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":890434247,
-    "wof:lastmodified":1566682157,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malanday",
     "wof:parent_id":1108699259,
     "wof:placetype":"locality",

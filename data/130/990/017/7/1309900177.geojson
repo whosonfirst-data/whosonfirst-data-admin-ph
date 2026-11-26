@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675933,
-        1108699075
+        1108699075,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699075,
             "locality_id":1309900177,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1309900177,
-    "wof:lastmodified":1566681685,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canmaya Dacu",
     "wof:parent_id":1108699075,
     "wof:placetype":"locality",

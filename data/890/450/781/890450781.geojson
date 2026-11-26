@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676145,
-        1108699669
+        1108699669,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699669,
             "locality_id":890450781,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":890450781,
-    "wof:lastmodified":1566682216,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pinugay",
     "wof:parent_id":1108699669,
     "wof:placetype":"locality",

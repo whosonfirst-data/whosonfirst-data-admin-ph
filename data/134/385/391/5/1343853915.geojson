@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675971,
-        1108697053
+        1108697053,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697053,
             "locality_id":1343853915,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1343853915,
-    "wof:lastmodified":1566679492,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bulinsong",
     "wof:parent_id":1108697053,
     "wof:placetype":"locality",

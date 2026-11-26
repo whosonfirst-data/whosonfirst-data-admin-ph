@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85675963,
-        1108699469
+        1108699469,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108699469,
             "locality_id":1343645529,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1343645529,
-    "wof:lastmodified":1566679377,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kima",
     "wof:parent_id":1108699469,
     "wof:placetype":"locality",

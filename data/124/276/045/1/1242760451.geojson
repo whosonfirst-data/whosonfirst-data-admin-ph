@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676079,
-        1108696911
+        1108696911,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108696911,
             "locality_id":1242760451,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1242760451,
-    "wof:lastmodified":1566682597,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lias",
     "wof:parent_id":1108696911,
     "wof:placetype":"locality",

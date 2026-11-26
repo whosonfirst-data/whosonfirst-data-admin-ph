@@ -84,7 +84,8 @@
         102191569,
         85632509,
         85676239,
-        1108697467
+        1108697467,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108697467,
             "locality_id":1343340645,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1343340645,
-    "wof:lastmodified":1566679573,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabugao",
     "wof:parent_id":1108697467,
     "wof:placetype":"locality",

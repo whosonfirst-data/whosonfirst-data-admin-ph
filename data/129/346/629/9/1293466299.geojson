@@ -84,7 +84,8 @@
         102191569,
         85632509,
         85676179,
-        1108696587
+        1108696587,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108696587,
             "locality_id":1293466299,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1293466299,
-    "wof:lastmodified":1566679794,
+    "wof:lastmodified":1795733694,
     "wof:name":"Banka",
     "wof:parent_id":1108696587,
     "wof:placetype":"locality",

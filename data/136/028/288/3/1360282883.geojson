@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676203,
-        1108698213
+        1108698213,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698213,
             "locality_id":1360282883,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1360282883,
-    "wof:lastmodified":1566681636,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canlusay",
     "wof:parent_id":1108698213,
     "wof:placetype":"locality",

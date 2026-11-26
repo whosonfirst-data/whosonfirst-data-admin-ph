@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676131,
-        890432817
+        890432817,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +67,12 @@
             "country_id":85632509,
             "county_id":890432817,
             "locality_id":890442335,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890442335,
-    "wof:lastmodified":1706240583,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pangao",
     "wof:parent_id":890432817,
     "wof:placetype":"locality",

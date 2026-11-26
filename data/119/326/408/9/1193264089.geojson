@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675933,
-        1108698953
+        1108698953,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698953,
             "locality_id":1193264089,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1193264089,
-    "wof:lastmodified":1566680953,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mino",
     "wof:parent_id":1108698953,
     "wof:placetype":"locality",

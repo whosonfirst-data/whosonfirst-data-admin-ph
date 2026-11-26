@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676159,
-        1108697047
+        1108697047,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697047,
             "locality_id":1293320705,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1293320705,
-    "wof:lastmodified":1566679919,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camantigue",
     "wof:parent_id":1108697047,
     "wof:placetype":"locality",

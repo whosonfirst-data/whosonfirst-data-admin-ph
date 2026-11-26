@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675963,
-        1108698199
+        1108698199,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698199,
             "locality_id":1276216077,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1276216077,
-    "wof:lastmodified":1566680167,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pinalim",
     "wof:parent_id":1108698199,
     "wof:placetype":"locality",

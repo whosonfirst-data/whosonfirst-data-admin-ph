@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676101,
-        1108697413
+        1108697413,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697413,
             "locality_id":1242881097,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1242881097,
-    "wof:lastmodified":1566682408,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bantug",
     "wof:parent_id":1108697413,
     "wof:placetype":"locality",

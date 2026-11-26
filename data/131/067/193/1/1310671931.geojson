@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676243,
-        1108697305
+        1108697305,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697305,
             "locality_id":1310671931,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":1310671931,
-    "wof:lastmodified":1566681530,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ipil",
     "wof:parent_id":1108697305,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676203,
-        1108698061
+        1108698061,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698061,
             "locality_id":1276861397,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1276861397,
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kawayan",
     "wof:parent_id":1108698061,
     "wof:placetype":"locality",

@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676127,
-        1108697307
+        1108697307,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108697307,
             "locality_id":890444071,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890444071,
-    "wof:lastmodified":1690851745,
+    "wof:lastmodified":1795733694,
     "wof:name":"Carmona",
     "wof:parent_id":1108697307,
     "wof:placetype":"locality",

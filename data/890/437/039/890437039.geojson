@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676149,
-        1108697025
+        1108697025,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697025,
             "locality_id":890437039,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":890437039,
-    "wof:lastmodified":1566681952,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laylay",
     "wof:parent_id":1108697025,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675951,
-        1108699073
+        1108699073,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699073,
             "localadmin_id":890436985,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890436985,
-    "wof:lastmodified":1566681980,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sagay City",
     "wof:parent_id":1108699073,
     "wof:placetype":"localadmin",

@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676255
+        85676255,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697667,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":1108697667,
-    "wof:lastmodified":1695886299,
+    "wof:lastmodified":1795733694,
     "wof:name":"Governor Generoso",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

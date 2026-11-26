@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676127,
-        1108699041
+        1108699041,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108699041,
             "locality_id":1193175319,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1193175319,
-    "wof:lastmodified":1566680945,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sapa",
     "wof:parent_id":1108699041,
     "wof:placetype":"locality",

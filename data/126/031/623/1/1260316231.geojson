@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676003,
-        1108696549
+        1108696549,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696549,
             "locality_id":1260316231,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1260316231,
-    "wof:lastmodified":1566680997,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagbariri",
     "wof:parent_id":1108696549,
     "wof:placetype":"locality",

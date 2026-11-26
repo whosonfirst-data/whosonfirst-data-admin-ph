@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675967,
-        1108699889
+        1108699889,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699889,
             "locality_id":1226630197,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1226630197,
-    "wof:lastmodified":1566683281,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tindalo",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

@@ -59,7 +59,8 @@
         102191569,
         85632509,
         85676173,
-        1108697487
+        1108697487,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697487,
             "locality_id":890437655,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":890437655,
-    "wof:lastmodified":1566681956,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dadus",
     "wof:parent_id":1108697487,
     "wof:placetype":"locality",

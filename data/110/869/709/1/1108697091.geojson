@@ -102,7 +102,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675985
+        85675985,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,11 +118,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697091,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1108697091,
-    "wof:lastmodified":1695886669,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bugasong",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

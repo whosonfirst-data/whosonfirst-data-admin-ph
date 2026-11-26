@@ -72,7 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676179
+        85676179,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,11 +88,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696687,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1108696687,
-    "wof:lastmodified":1695886677,
+    "wof:lastmodified":1795733694,
     "wof:name":"Antipas",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

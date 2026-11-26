@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85675975,
-        1108698821
+        1108698821,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698821,
             "locality_id":1259556979,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1259556979,
-    "wof:lastmodified":1566682783,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kandulan",
     "wof:parent_id":1108698821,
     "wof:placetype":"locality",

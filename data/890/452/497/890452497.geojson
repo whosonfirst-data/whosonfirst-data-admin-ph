@@ -220,7 +220,8 @@
         102191569,
         85632509,
         85676179,
-        1108698077
+        1108698077,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -238,11 +239,12 @@
             "country_id":85632509,
             "county_id":1108698077,
             "locality_id":890452497,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":890452497,
-    "wof:lastmodified":1690851668,
+    "wof:lastmodified":1795733694,
     "wof:name":"Libungan",
     "wof:parent_id":1108698077,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676259,
-        1108697655
+        1108697655,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697655,
             "locality_id":1293568797,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":1293568797,
-    "wof:lastmodified":1566679929,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nucolyail",
     "wof:parent_id":1108697655,
     "wof:placetype":"locality",

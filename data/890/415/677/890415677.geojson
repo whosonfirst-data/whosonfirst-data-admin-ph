@@ -239,7 +239,8 @@
         102191569,
         85632509,
         85676173,
-        1108698819
+        1108698819,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108698819,
             "locality_id":890415677,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":890415677,
-    "wof:lastmodified":1690851640,
+    "wof:lastmodified":1795733694,
     "wof:name":"Parang",
     "wof:parent_id":1108698819,
     "wof:placetype":"locality",

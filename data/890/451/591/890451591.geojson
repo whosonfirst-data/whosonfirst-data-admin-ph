@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676123,
-        1108697089
+        1108697089,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108697089,
             "locality_id":890451591,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890451591,
-    "wof:lastmodified":1690851818,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bugallon",
     "wof:parent_id":1108697089,
     "wof:placetype":"locality",

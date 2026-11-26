@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676161,
-        890429635
+        890429635,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":890429635,
             "locality_id":1276389715,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1276389715,
-    "wof:lastmodified":1566680435,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caridad",
     "wof:parent_id":890429635,
     "wof:placetype":"locality",

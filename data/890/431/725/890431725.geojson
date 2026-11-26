@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675989,
-        1108697441
+        1108697441,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108697441,
             "locality_id":890431725,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":890431725,
-    "wof:lastmodified":1566681992,
+    "wof:lastmodified":1795733694,
     "wof:name":"Masonogan",
     "wof:parent_id":1108697441,
     "wof:placetype":"locality",

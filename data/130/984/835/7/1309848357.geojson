@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108697087
+        1108697087,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697087,
             "locality_id":1309848357,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1309848357,
-    "wof:lastmodified":1566681700,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caua",
     "wof:parent_id":1108697087,
     "wof:placetype":"locality",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676187,
-        1108696997
+        1108696997,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696997,
             "locality_id":1259673639,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":1259673639,
-    "wof:lastmodified":1566682897,
+    "wof:lastmodified":1795733694,
     "wof:name":"Moog",
     "wof:parent_id":1108696997,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676217,
-        1108699625
+        1108699625,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699625,
             "locality_id":1293271149,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":1293271149,
-    "wof:lastmodified":1566680004,
+    "wof:lastmodified":1795733694,
     "wof:name":"Los Martires",
     "wof:parent_id":1108699625,
     "wof:placetype":"locality",

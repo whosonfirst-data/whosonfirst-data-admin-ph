@@ -91,7 +91,8 @@
         102191569,
         85632509,
         85676149,
-        1108698491
+        1108698491,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108698491,
             "localadmin_id":1125376545,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1125376545,
-    "wof:lastmodified":1566682270,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mogpog",
     "wof:parent_id":1108698491,
     "wof:placetype":"localadmin",

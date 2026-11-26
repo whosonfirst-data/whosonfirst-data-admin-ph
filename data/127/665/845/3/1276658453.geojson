@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676093,
-        1108698509
+        1108698509,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698509,
             "locality_id":1276658453,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":1276658453,
-    "wof:lastmodified":1566680406,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nagbalayong",
     "wof:parent_id":1108698509,
     "wof:placetype":"locality",

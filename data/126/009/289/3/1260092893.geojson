@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676073,
-        1108697129
+        1108697129,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697129,
             "locality_id":1260092893,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1260092893,
-    "wof:lastmodified":1566680990,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bunnay",
     "wof:parent_id":1108697129,
     "wof:placetype":"locality",

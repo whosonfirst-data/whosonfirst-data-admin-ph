@@ -49,7 +49,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675929
+        85675929,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699523,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":1108699523,
-    "wof:lastmodified":1695886400,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sitangkai",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

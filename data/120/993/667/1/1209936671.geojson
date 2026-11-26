@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85675947,
-        1108697573
+        1108697573,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697573,
             "locality_id":1209936671,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1209936671,
-    "wof:lastmodified":1566680679,
+    "wof:lastmodified":1795733694,
     "wof:name":"Parian",
     "wof:parent_id":1108697573,
     "wof:placetype":"locality",

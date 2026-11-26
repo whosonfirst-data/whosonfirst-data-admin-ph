@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676191,
-        1108699555
+        1108699555,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699555,
             "localadmin_id":890450405,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":890450405,
-    "wof:lastmodified":1566682213,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sulat",
     "wof:parent_id":1108699555,
     "wof:placetype":"localadmin",

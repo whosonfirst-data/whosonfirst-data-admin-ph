@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676003,
-        1108697563
+        1108697563,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697563,
             "locality_id":1310138481,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1310138481,
-    "wof:lastmodified":1566681304,
+    "wof:lastmodified":1795733694,
     "wof:name":"Danet",
     "wof:parent_id":1108697563,
     "wof:placetype":"locality",

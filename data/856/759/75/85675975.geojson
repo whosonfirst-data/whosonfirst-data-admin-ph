@@ -357,7 +357,8 @@
     "wd:wordcount":1607,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -382,6 +383,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
@@ -401,9 +403,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884881,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sulu",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008399,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
     "wof:population":718290,

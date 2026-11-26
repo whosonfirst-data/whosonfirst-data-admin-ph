@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676161,
-        1108699277
+        1108699277,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699277,
             "locality_id":1310539507,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1310539507,
-    "wof:lastmodified":1566681342,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tubigan",
     "wof:parent_id":1108699277,
     "wof:placetype":"locality",

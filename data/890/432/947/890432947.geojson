@@ -37,7 +37,8 @@
         102191569,
         85632509,
         85676047,
-        1108696555
+        1108696555,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108696555,
             "locality_id":890432947,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":890432947,
-    "wof:lastmodified":1566682233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calug Norte",
     "wof:parent_id":1108696555,
     "wof:placetype":"locality",

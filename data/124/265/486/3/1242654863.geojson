@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676253,
-        1108698315
+        1108698315,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698315,
             "locality_id":1242654863,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1242654863,
-    "wof:lastmodified":1566682622,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taguloy",
     "wof:parent_id":1108698315,
     "wof:placetype":"locality",

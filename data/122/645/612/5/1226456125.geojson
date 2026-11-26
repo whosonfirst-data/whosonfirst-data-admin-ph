@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676057,
-        1108699453
+        1108699453,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108699453,
             "locality_id":1226456125,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1226456125,
-    "wof:lastmodified":1566683035,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Manuel",
     "wof:parent_id":1108699453,
     "wof:placetype":"locality",

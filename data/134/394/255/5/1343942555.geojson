@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676203,
-        1108699079
+        1108699079,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699079,
             "locality_id":1343942555,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1343942555,
-    "wof:lastmodified":1566679569,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pangyan",
     "wof:parent_id":1108699079,
     "wof:placetype":"locality",

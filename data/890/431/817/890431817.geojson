@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676203,
-        1108698213
+        1108698213,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698213,
             "locality_id":890431817,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":890431817,
-    "wof:lastmodified":1566681990,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ichon",
     "wof:parent_id":1108698213,
     "wof:placetype":"locality",

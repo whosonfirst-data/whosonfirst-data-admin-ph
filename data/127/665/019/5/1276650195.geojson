@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676221,
-        1108698071
+        1108698071,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698071,
             "locality_id":1276650195,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1276650195,
-    "wof:lastmodified":1566680411,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quiapo",
     "wof:parent_id":1108698071,
     "wof:placetype":"locality",

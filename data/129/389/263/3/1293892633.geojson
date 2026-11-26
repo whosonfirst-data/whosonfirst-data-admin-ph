@@ -68,7 +68,8 @@
         102191569,
         85632509,
         85676299,
-        1108698843
+        1108698843,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "country_id":85632509,
             "county_id":1108698843,
             "locality_id":1293892633,
+            "macroregion_id":9895008396,
             "region_id":85676299
         }
     ],
     "wof:id":1293892633,
-    "wof:lastmodified":1636500902,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bago",
     "wof:parent_id":1108698843,
     "wof:placetype":"locality",

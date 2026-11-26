@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85675993,
-        1108697811
+        1108697811,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108697811,
             "locality_id":1309704245,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1309704245,
-    "wof:lastmodified":1566681705,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gines",
     "wof:parent_id":1108697811,
     "wof:placetype":"locality",

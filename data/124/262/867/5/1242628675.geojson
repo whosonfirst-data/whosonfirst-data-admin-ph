@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676127,
-        1108697637
+        1108697637,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697637,
             "locality_id":1242628675,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1242628675,
-    "wof:lastmodified":1566682609,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palubluban",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",

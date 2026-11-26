@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676021,
-        1108698239
+        1108698239,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698239,
             "locality_id":1243072243,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1243072243,
-    "wof:lastmodified":1566682325,
+    "wof:lastmodified":1795733694,
     "wof:name":"Fundado",
     "wof:parent_id":1108698239,
     "wof:placetype":"locality",

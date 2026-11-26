@@ -242,7 +242,8 @@
         102191569,
         85632509,
         85676021,
-        1108697273
+        1108697273,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,11 +261,12 @@
             "country_id":85632509,
             "county_id":1108697273,
             "localadmin_id":890443411,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890443411,
-    "wof:lastmodified":1690851769,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caramoan",
     "wof:parent_id":1108697273,
     "wof:placetype":"localadmin",

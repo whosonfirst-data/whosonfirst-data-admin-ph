@@ -47,7 +47,8 @@
         102191569,
         85632509,
         85676107,
-        1108698413
+        1108698413,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85632509,
             "county_id":1108698413,
             "locality_id":1242874925,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1242874925,
-    "wof:lastmodified":1566682402,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sapang Kawayan",
     "wof:parent_id":1108698413,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108698857
+        1108698857,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698857,
             "locality_id":1243605253,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1243605253,
-    "wof:lastmodified":1566682554,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cavilla",
     "wof:parent_id":1108698857,
     "wof:placetype":"locality",

@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85675989,
-        1108698935
+        1108698935,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698935,
             "locality_id":1225837001,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1225837001,
-    "wof:lastmodified":1566683360,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batabat",
     "wof:parent_id":1108698935,
     "wof:placetype":"locality",

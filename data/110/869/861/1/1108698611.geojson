@@ -229,7 +229,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676309
+        85676309,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,11 +245,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698611,
+            "macroregion_id":9895008401,
             "region_id":85676309
         }
     ],
     "wof:id":1108698611,
-    "wof:lastmodified":1695886674,
+    "wof:lastmodified":1795733694,
     "wof:name":"Davao City",
     "wof:parent_id":85676309,
     "wof:placetype":"county",

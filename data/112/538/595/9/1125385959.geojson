@@ -79,7 +79,8 @@
         102191569,
         85632509,
         85676043,
-        1108697795
+        1108697795,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108697795,
             "localadmin_id":1125385959,
+            "macroregion_id":9895008391,
             "region_id":85676043
         }
     ],
     "wof:id":1125385959,
-    "wof:lastmodified":1566682275,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ivana",
     "wof:parent_id":1108697795,
     "wof:placetype":"localadmin",

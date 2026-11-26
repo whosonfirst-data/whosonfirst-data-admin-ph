@@ -240,7 +240,8 @@
     "statoids:type":"region",
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -257,6 +258,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
@@ -276,9 +278,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884406,
+    "wof:lastmodified":1795733694,
     "wof:name":"National Capital District",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008389,
     "wof:placetype":"region",
     "wof:placetype_alt":[
         "macroregion"

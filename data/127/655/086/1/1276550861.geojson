@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85676123,
-        1108697037
+        1108697037,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108697037,
             "locality_id":1276550861,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1276550861,
-    "wof:lastmodified":1566680362,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kapas",
     "wof:parent_id":1108697037,
     "wof:placetype":"locality",

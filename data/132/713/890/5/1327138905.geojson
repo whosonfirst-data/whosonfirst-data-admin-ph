@@ -96,7 +96,8 @@
         102191569,
         85632509,
         85676035,
-        1108697315
+        1108697315,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108697315,
             "locality_id":1327138905,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":1327138905,
-    "wof:lastmodified":1566679064,
+    "wof:lastmodified":1795733694,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":1108697315,
     "wof:placetype":"locality",

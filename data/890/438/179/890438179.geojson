@@ -79,7 +79,8 @@
         102191569,
         85632509,
         85676039,
-        1108697993
+        1108697993,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108697993,
             "localadmin_id":890438179,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":890438179,
-    "wof:lastmodified":1566682021,
+    "wof:lastmodified":1795733694,
     "wof:name":"Langiden",
     "wof:parent_id":1108697993,
     "wof:placetype":"localadmin",

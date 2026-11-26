@@ -96,7 +96,8 @@
         102191569,
         85632509,
         85676149,
-        1108699351
+        1108699351,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108699351,
             "locality_id":1360212679,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1360212679,
-    "wof:lastmodified":1636501083,
+    "wof:lastmodified":1795733694,
     "wof:name":"Napo",
     "wof:parent_id":1108699351,
     "wof:placetype":"locality",

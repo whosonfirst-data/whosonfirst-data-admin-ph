@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676007,
-        1108699111
+        1108699111,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699111,
             "locality_id":1327460003,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1327460003,
-    "wof:lastmodified":1566679098,
+    "wof:lastmodified":1795733694,
     "wof:name":"Linawan",
     "wof:parent_id":1108699111,
     "wof:placetype":"locality",

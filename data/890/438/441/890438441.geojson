@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676135,
-        1108697137
+        1108697137,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108697137,
             "localadmin_id":890438441,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":890438441,
-    "wof:lastmodified":1690851706,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guiguinto",
     "wof:parent_id":1108697137,
     "wof:placetype":"localadmin",

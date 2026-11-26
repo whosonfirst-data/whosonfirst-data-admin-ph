@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85675967,
-        1108697483
+        1108697483,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697483,
             "locality_id":1242962557,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1242962557,
-    "wof:lastmodified":1566682617,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lalab",
     "wof:parent_id":1108697483,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675961,
-        1108697959
+        1108697959,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697959,
             "locality_id":1343258441,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1343258441,
-    "wof:lastmodified":1566679522,
+    "wof:lastmodified":1795733694,
     "wof:name":"Libuan",
     "wof:parent_id":1108697959,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676021,
-        1108698601
+        1108698601,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698601,
             "locality_id":1327326635,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1327326635,
-    "wof:lastmodified":1566679135,
+    "wof:lastmodified":1795733694,
     "wof:name":"Busaing",
     "wof:parent_id":1108698601,
     "wof:placetype":"locality",

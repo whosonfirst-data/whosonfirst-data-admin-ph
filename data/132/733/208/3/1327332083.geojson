@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676017,
-        1108697417
+        1108697417,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697417,
             "locality_id":1327332083,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1327332083,
-    "wof:lastmodified":1566679128,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lagon",
     "wof:parent_id":1108697417,
     "wof:placetype":"locality",

@@ -108,7 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676039
+        85676039,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,11 +124,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697867,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1108697867,
-    "wof:lastmodified":1695886691,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kabugao",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

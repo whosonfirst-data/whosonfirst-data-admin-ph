@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676169,
-        1108698419
+        1108698419,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698419,
             "locality_id":1226018247,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1226018247,
-    "wof:lastmodified":1566683293,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talaguian",
     "wof:parent_id":1108698419,
     "wof:placetype":"locality",

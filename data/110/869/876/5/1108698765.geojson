@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676231
+        85676231,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,11 +115,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698765,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":1108698765,
-    "wof:lastmodified":1695886685,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panabo",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

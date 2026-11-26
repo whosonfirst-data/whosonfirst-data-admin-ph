@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676141,
-        1108697177
+        1108697177,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697177,
             "locality_id":890451017,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":890451017,
-    "wof:lastmodified":1566682133,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mamatid",
     "wof:parent_id":1108697177,
     "wof:placetype":"locality",

@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85676047,
-        1108696603
+        1108696603,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108696603,
             "locality_id":1276241051,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1276241051,
-    "wof:lastmodified":1636500931,
+    "wof:lastmodified":1795733694,
     "wof:name":"Centro Sur",
     "wof:parent_id":1108696603,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676161,
-        1108698653
+        1108698653,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698653,
             "locality_id":1327185521,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1327185521,
-    "wof:lastmodified":1566679303,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tiniguiban",
     "wof:parent_id":1108698653,
     "wof:placetype":"locality",

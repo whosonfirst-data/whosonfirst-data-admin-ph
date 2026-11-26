@@ -322,7 +322,8 @@
         102191569,
         85632509,
         85676249,
-        1108697565
+        1108697565,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -341,11 +342,12 @@
             "country_id":85632509,
             "county_id":1108697565,
             "locality_id":421178375,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":421178375,
-    "wof:lastmodified":1690851586,
+    "wof:lastmodified":1795733694,
     "wof:name":"El Salvador",
     "wof:parent_id":1108697565,
     "wof:placetype":"locality",

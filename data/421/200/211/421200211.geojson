@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676201,
-        1108697329
+        1108697329,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697329,
             "locality_id":421200211,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":421200211,
-    "wof:lastmodified":1566681854,
+    "wof:lastmodified":1795733694,
     "wof:name":"Silanga",
     "wof:parent_id":1108697329,
     "wof:placetype":"locality",

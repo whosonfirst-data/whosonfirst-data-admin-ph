@@ -84,7 +84,8 @@
         102191569,
         85632509,
         85676017,
-        1108698811
+        1108698811,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108698811,
             "locality_id":1209819983,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1209819983,
-    "wof:lastmodified":1566680796,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malina",
     "wof:parent_id":1108698811,
     "wof:placetype":"locality",

@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676113,
-        1108698415
+        1108698415,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108698415,
             "locality_id":1243179067,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1243179067,
-    "wof:lastmodified":1566682684,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barco",
     "wof:parent_id":1108698415,
     "wof:placetype":"locality",

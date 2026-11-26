@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676313,
-        1108697635
+        1108697635,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697635,
             "locality_id":1310181713,
+            "macroregion_id":9895008402,
             "region_id":85676313
         }
     ],
     "wof:id":1310181713,
-    "wof:lastmodified":1566681431,
+    "wof:lastmodified":1795733694,
     "wof:name":"East Hill",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",

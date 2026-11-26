@@ -89,7 +89,8 @@
         102191569,
         85632509,
         85675967,
-        1108699889
+        1108699889,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108699889,
             "locality_id":890438081,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890438081,
-    "wof:lastmodified":1566682018,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tolosa",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

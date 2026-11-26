@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676025,
-        1108699885
+        1108699885,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699885,
             "locality_id":1343453907,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":1343453907,
-    "wof:lastmodified":1566679623,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cavinitan",
     "wof:parent_id":1108699885,
     "wof:placetype":"locality",

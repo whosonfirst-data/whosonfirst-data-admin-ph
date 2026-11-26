@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676021
+        85676021,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698823,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1108698823,
-    "wof:lastmodified":1695886375,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pasacao",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

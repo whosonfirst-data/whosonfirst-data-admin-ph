@@ -165,7 +165,8 @@
         102191569,
         85632509,
         85676135,
-        1108699201
+        1108699201,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,11 +182,12 @@
             "country_id":85632509,
             "county_id":1108699201,
             "localadmin_id":1125376437,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1125376437,
-    "wof:lastmodified":1636501170,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108699201,
     "wof:placetype":"localadmin",

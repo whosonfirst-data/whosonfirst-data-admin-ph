@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675985,
-        1108696683
+        1108696683,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696683,
             "locality_id":1310523027,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1310523027,
-    "wof:lastmodified":1566681372,
+    "wof:lastmodified":1795733694,
     "wof:name":"Igbarabatuan",
     "wof:parent_id":1108696683,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676039,
-        1108699877
+        1108699877,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699877,
             "locality_id":1193261173,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1193261173,
-    "wof:lastmodified":1566680956,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lang-Ayan",
     "wof:parent_id":1108699877,
     "wof:placetype":"locality",

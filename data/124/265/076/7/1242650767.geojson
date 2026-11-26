@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676169,
-        1108699077
+        1108699077,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699077,
             "locality_id":1242650767,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1242650767,
-    "wof:lastmodified":1566682621,
+    "wof:lastmodified":1795733694,
     "wof:name":"Limugan",
     "wof:parent_id":1108699077,
     "wof:placetype":"locality",

@@ -140,7 +140,8 @@
         102191569,
         85632509,
         85676131,
-        1108696939
+        1108696939,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,11 +159,12 @@
             "country_id":85632509,
             "county_id":1108696939,
             "locality_id":890415617,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890415617,
-    "wof:lastmodified":1566681910,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Clara",
     "wof:parent_id":1108696939,
     "wof:placetype":"locality",

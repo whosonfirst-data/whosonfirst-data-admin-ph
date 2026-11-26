@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676021,
-        1108697237
+        1108697237,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697237,
             "locality_id":1242770763,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1242770763,
-    "wof:lastmodified":1566682575,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palo",
     "wof:parent_id":1108697237,
     "wof:placetype":"locality",

@@ -90,7 +90,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676341
+        85676341,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,11 +106,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697785,
+            "macroregion_id":9895008398,
             "region_id":85676341
         }
     ],
     "wof:id":1108697785,
-    "wof:lastmodified":1695886768,
+    "wof:lastmodified":1795733694,
     "wof:name":"Isabel",
     "wof:parent_id":85676341,
     "wof:placetype":"county",

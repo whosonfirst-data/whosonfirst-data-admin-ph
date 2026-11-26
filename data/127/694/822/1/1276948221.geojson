@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676169,
-        1108699773
+        1108699773,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699773,
             "locality_id":1276948221,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1276948221,
-    "wof:lastmodified":1566680233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bita",
     "wof:parent_id":1108699773,
     "wof:placetype":"locality",

@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85675951,
-        1108697713
+        1108697713,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108697713,
             "locality_id":1293126991,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1293126991,
-    "wof:lastmodified":1566679834,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caraguican",
     "wof:parent_id":1108697713,
     "wof:placetype":"locality",

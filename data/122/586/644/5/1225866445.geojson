@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675981,
-        1108697881
+        1108697881,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697881,
             "locality_id":1225866445,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1225866445,
-    "wof:lastmodified":1566683149,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tigayon",
     "wof:parent_id":1108697881,
     "wof:placetype":"locality",

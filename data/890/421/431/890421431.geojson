@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676035,
-        1108697525
+        1108697525,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108697525,
             "localadmin_id":890421431,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890421431,
-    "wof:lastmodified":1690851728,
+    "wof:lastmodified":1795733694,
     "wof:name":"Donsol",
     "wof:parent_id":1108697525,
     "wof:placetype":"localadmin",

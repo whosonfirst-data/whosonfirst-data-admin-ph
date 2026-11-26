@@ -199,7 +199,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676007
+        85676007,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -215,11 +216,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":421200217,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":421200217,
-    "wof:lastmodified":1566681854,
+    "wof:lastmodified":1795733694,
     "wof:name":"Carmen",
     "wof:parent_id":85676007,
     "wof:placetype":"locality",

@@ -238,7 +238,8 @@
         102191569,
         85632509,
         85676201,
-        1108697451
+        1108697451,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,11 +256,12 @@
             "country_id":85632509,
             "county_id":1108697451,
             "locality_id":1125847911,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1125847911,
-    "wof:lastmodified":1690851930,
+    "wof:lastmodified":1795733694,
     "wof:name":"Daram",
     "wof:parent_id":1108697451,
     "wof:placetype":"locality",

@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676153,
-        1108697227
+        1108697227,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108697227,
             "localadmin_id":890430061,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":890430061,
-    "wof:lastmodified":1690851655,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calintaan",
     "wof:parent_id":1108697227,
     "wof:placetype":"localadmin",

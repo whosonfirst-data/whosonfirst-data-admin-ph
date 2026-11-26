@@ -137,7 +137,8 @@
         102191569,
         85632509,
         85675975,
-        1108699637
+        1108699637,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,11 +157,12 @@
             "country_id":85632509,
             "county_id":1108699637,
             "locality_id":890434259,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890434259,
-    "wof:lastmodified":1690851830,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahala",
     "wof:parent_id":1108699637,
     "wof:placetype":"locality",

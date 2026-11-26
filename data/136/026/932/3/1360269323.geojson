@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85675963,
-        1108699049
+        1108699049,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108699049,
             "locality_id":1360269323,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1360269323,
-    "wof:lastmodified":1566681647,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baluran",
     "wof:parent_id":1108699049,
     "wof:placetype":"locality",

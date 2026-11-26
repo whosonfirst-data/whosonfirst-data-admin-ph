@@ -87,7 +87,8 @@
         102191569,
         85632509,
         85676113,
-        1108699143
+        1108699143,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,11 +102,12 @@
             "country_id":85632509,
             "county_id":1108699143,
             "locality_id":1243265035,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1243265035,
-    "wof:lastmodified":1566682696,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sabangan",
     "wof:parent_id":1108699143,
     "wof:placetype":"locality",

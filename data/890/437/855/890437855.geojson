@@ -232,7 +232,8 @@
         102191569,
         85632509,
         85676263,
-        1108698933
+        1108698933,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,11 +251,12 @@
             "country_id":85632509,
             "county_id":1108698933,
             "locality_id":890437855,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890437855,
-    "wof:lastmodified":1690851663,
+    "wof:lastmodified":1795733694,
     "wof:name":"Polomolok",
     "wof:parent_id":1108698933,
     "wof:placetype":"locality",

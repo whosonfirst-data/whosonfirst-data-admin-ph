@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675955,
-        1108698587
+        1108698587,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698587,
             "locality_id":1343841169,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":1343841169,
-    "wof:lastmodified":1566679478,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malamaui",
     "wof:parent_id":1108698587,
     "wof:placetype":"locality",

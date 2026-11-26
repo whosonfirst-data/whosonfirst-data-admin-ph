@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676239,
-        1108696765
+        1108696765,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108696765,
             "localadmin_id":890430675,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":890430675,
-    "wof:lastmodified":1566681936,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacuag",
     "wof:parent_id":1108696765,
     "wof:placetype":"localadmin",

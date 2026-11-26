@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676161,
-        1108697245
+        1108697245,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "country_id":85632509,
             "county_id":1108697245,
             "locality_id":890431907,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890431907,
-    "wof:lastmodified":1706240581,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabay",
     "wof:parent_id":1108697245,
     "wof:placetype":"locality",

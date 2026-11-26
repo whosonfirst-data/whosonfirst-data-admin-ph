@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676141,
-        1108698785
+        1108698785,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108698785,
             "localadmin_id":890455663,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":890455663,
-    "wof:lastmodified":1690851677,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pangil",
     "wof:parent_id":1108698785,
     "wof:placetype":"localadmin",

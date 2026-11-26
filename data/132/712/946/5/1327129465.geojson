@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676209,
-        1108698005
+        1108698005,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698005,
             "locality_id":1327129465,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1327129465,
-    "wof:lastmodified":1566679081,
+    "wof:lastmodified":1795733694,
     "wof:name":"Langub",
     "wof:parent_id":1108698005,
     "wof:placetype":"locality",

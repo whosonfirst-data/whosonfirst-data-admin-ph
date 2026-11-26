@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85675993,
-        1108696917
+        1108696917,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108696917,
             "localadmin_id":890443423,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":890443423,
-    "wof:lastmodified":1690851758,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barotac Viejo",
     "wof:parent_id":1108696917,
     "wof:placetype":"localadmin",

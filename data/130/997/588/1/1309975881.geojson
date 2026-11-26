@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676079,
-        1108698565
+        1108698565,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698565,
             "locality_id":1309975881,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1309975881,
-    "wof:lastmodified":1566681677,
+    "wof:lastmodified":1795733694,
     "wof:name":"Fiatitio",
     "wof:parent_id":1108698565,
     "wof:placetype":"locality",

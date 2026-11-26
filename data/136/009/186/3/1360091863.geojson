@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676097,
-        1108697379
+        1108697379,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697379,
             "locality_id":1360091863,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1360091863,
-    "wof:lastmodified":1566681572,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talimundoc San Miguel",
     "wof:parent_id":1108697379,
     "wof:placetype":"locality",

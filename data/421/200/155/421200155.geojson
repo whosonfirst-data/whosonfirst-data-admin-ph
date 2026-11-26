@@ -243,7 +243,9 @@
         85632509,
         85676173,
         1108697457,
-        85676179
+        85676179,
+        9895008405,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,6 +264,7 @@
             "country_id":85632509,
             "county_id":1108697457,
             "locality_id":421200155,
+            "macroregion_id":9895008405,
             "region_id":85676173
         },
         {
@@ -269,11 +272,12 @@
             "country_id":85632509,
             "county_id":1108697457,
             "locality_id":421200155,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":421200155,
-    "wof:lastmodified":1690851536,
+    "wof:lastmodified":1795733694,
     "wof:name":"Datu Paglas",
     "wof:parent_id":1108697457,
     "wof:placetype":"locality",

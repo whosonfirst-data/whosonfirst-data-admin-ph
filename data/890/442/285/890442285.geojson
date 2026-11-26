@@ -98,7 +98,8 @@
         102191569,
         85632509,
         85676123,
-        1108696881
+        1108696881,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,11 +116,12 @@
             "country_id":85632509,
             "county_id":1108696881,
             "localadmin_id":890442285,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890442285,
-    "wof:lastmodified":1636501146,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bani",
     "wof:parent_id":1108696881,
     "wof:placetype":"localadmin",

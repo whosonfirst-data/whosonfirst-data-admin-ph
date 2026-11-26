@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676161,
-        1108698839
+        1108698839,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108698839,
             "localadmin_id":890415169,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890415169,
-    "wof:lastmodified":1690851627,
+    "wof:lastmodified":1795733694,
     "wof:name":"Patnanungan",
     "wof:parent_id":1108698839,
     "wof:placetype":"localadmin",

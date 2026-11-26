@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108696573
+        1108696573,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696573,
             "locality_id":1259586659,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1259586659,
-    "wof:lastmodified":1566682905,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pogomboa",
     "wof:parent_id":1108696573,
     "wof:placetype":"locality",

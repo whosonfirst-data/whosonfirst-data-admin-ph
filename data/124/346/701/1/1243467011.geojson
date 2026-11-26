@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676077,
-        1108698947
+        1108698947,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698947,
             "locality_id":1243467011,
+            "macroregion_id":9895008404,
             "region_id":85676077
         }
     ],
     "wof:id":1243467011,
-    "wof:lastmodified":1566682488,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caggong",
     "wof:parent_id":1108698947,
     "wof:placetype":"locality",

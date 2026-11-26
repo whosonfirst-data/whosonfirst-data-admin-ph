@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676123,
-        1108696969
+        1108696969,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108696969,
             "locality_id":1293690219,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1293690219,
-    "wof:lastmodified":1566679925,
+    "wof:lastmodified":1795733694,
     "wof:name":"Iton",
     "wof:parent_id":1108696969,
     "wof:placetype":"locality",

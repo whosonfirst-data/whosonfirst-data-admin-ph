@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676263,
-        1108699813
+        1108699813,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699813,
             "locality_id":890450763,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890450763,
-    "wof:lastmodified":1566682185,
+    "wof:lastmodified":1795733694,
     "wof:name":"Polonoling",
     "wof:parent_id":1108699813,
     "wof:placetype":"locality",

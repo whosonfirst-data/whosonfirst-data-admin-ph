@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675981,
-        1108698311
+        1108698311,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698311,
             "locality_id":1259901421,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1259901421,
-    "wof:lastmodified":1566682775,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cogon",
     "wof:parent_id":1108698311,
     "wof:placetype":"locality",

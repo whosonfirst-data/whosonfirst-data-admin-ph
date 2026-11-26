@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676203,
-        1108696667
+        1108696667,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696667,
             "locality_id":1310002599,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1310002599,
-    "wof:lastmodified":1566681352,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahalo",
     "wof:parent_id":1108696667,
     "wof:placetype":"locality",

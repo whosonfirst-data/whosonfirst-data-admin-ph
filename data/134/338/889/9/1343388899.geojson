@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675945,
-        1108697009
+        1108697009,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697009,
             "locality_id":1343388899,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1343388899,
-    "wof:lastmodified":1566679304,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mantiabas",
     "wof:parent_id":1108697009,
     "wof:placetype":"locality",

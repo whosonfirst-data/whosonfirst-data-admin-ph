@@ -50,7 +50,8 @@
         102191569,
         85632509,
         85676203,
-        1108696667
+        1108696667,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,11 +68,12 @@
             "country_id":85632509,
             "county_id":1108696667,
             "localadmin_id":890432711,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":890432711,
-    "wof:lastmodified":1566682249,
+    "wof:lastmodified":1795733694,
     "wof:name":"Saint Bernard",
     "wof:parent_id":1108696667,
     "wof:placetype":"localadmin",

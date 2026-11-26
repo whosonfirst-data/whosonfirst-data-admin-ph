@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676201,
-        1108699379
+        1108699379,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699379,
             "locality_id":1242957917,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1242957917,
-    "wof:lastmodified":1566682457,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ineragygo",
     "wof:parent_id":1108699379,
     "wof:placetype":"locality",

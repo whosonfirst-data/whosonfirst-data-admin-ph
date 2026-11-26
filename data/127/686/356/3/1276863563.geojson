@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675999,
-        1108697081
+        1108697081,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697081,
             "locality_id":1276863563,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":1276863563,
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Nicolas",
     "wof:parent_id":1108697081,
     "wof:placetype":"locality",

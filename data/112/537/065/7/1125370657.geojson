@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676165,
-        1108699679
+        1108699679,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699679,
             "localadmin_id":1125370657,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1125370657,
-    "wof:lastmodified":1566682267,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tangcal",
     "wof:parent_id":1108699679,
     "wof:placetype":"localadmin",

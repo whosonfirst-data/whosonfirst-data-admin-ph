@@ -108,7 +108,8 @@
         102191569,
         85632509,
         85676003,
-        1108699325
+        1108699325,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,11 +123,12 @@
             "country_id":85632509,
             "county_id":1108699325,
             "locality_id":1343886157,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1343886157,
-    "wof:lastmodified":1636500849,
+    "wof:lastmodified":1795733694,
     "wof:name":"Binga",
     "wof:parent_id":1108699325,
     "wof:placetype":"locality",

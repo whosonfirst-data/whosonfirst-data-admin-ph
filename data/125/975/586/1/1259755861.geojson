@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676039,
-        1108698337
+        1108698337,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698337,
             "locality_id":1259755861,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1259755861,
-    "wof:lastmodified":1566682955,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barit",
     "wof:parent_id":1108698337,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675975,
-        1108698173
+        1108698173,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108698173,
             "locality_id":890421981,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890421981,
-    "wof:lastmodified":1566682044,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lu-uk",
     "wof:parent_id":1108698173,
     "wof:placetype":"locality",

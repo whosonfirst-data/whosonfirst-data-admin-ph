@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85675939,
-        1108699149
+        1108699149,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699149,
             "locality_id":1226769997,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1226769997,
-    "wof:lastmodified":1566683196,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabionan",
     "wof:parent_id":1108699149,
     "wof:placetype":"locality",

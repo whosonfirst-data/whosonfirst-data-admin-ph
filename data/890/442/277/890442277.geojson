@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676135,
-        1108699305
+        1108699305,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108699305,
             "localadmin_id":890442277,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":890442277,
-    "wof:lastmodified":1690851804,
+    "wof:lastmodified":1795733694,
     "wof:name":"Do\u00f1a Remedios Trinidad",
     "wof:parent_id":1108699305,
     "wof:placetype":"localadmin",

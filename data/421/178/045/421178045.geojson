@@ -245,7 +245,8 @@
         102191569,
         85632509,
         85676123,
-        1108697963
+        1108697963,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,11 +263,12 @@
             "country_id":85632509,
             "county_id":1108697963,
             "locality_id":421178045,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":421178045,
-    "wof:lastmodified":1690851577,
+    "wof:lastmodified":1795733694,
     "wof:name":"Labrador",
     "wof:parent_id":1108697963,
     "wof:placetype":"locality",

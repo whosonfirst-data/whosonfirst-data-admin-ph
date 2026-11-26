@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676221,
-        1108698361
+        1108698361,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108698361,
             "locality_id":421195253,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":421195253,
-    "wof:lastmodified":1566681793,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camp Phillips",
     "wof:parent_id":1108698361,
     "wof:placetype":"locality",

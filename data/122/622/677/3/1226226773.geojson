@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676201,
-        1108697223
+        1108697223,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697223,
             "locality_id":1226226773,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1226226773,
-    "wof:lastmodified":1566683196,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacquiaran",
     "wof:parent_id":1108697223,
     "wof:placetype":"locality",

@@ -91,7 +91,8 @@
         102191569,
         85632509,
         85676061,
-        1108698997
+        1108698997,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,11 +107,12 @@
             "country_id":85632509,
             "county_id":1108698997,
             "locality_id":1293892647,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293892647,
-    "wof:lastmodified":1636500902,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quirino",
     "wof:parent_id":1108698997,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675993,
-        1108697291
+        1108697291,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697291,
             "locality_id":1259675689,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1259675689,
-    "wof:lastmodified":1566682896,
+    "wof:lastmodified":1795733694,
     "wof:name":"Clarita",
     "wof:parent_id":1108697291,
     "wof:placetype":"locality",

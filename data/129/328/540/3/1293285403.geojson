@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676021,
-        1108698823
+        1108698823,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108698823,
             "locality_id":1293285403,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1293285403,
-    "wof:lastmodified":1566680041,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aran",
     "wof:parent_id":1108698823,
     "wof:placetype":"locality",

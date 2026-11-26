@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676021,
-        1108699207
+        1108699207,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699207,
             "locality_id":1259788073,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1259788073,
-    "wof:lastmodified":1566682823,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palale",
     "wof:parent_id":1108699207,
     "wof:placetype":"locality",

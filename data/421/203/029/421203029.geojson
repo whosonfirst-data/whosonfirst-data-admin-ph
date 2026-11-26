@@ -245,7 +245,8 @@
         102191569,
         85632509,
         85676197,
-        1108697887
+        1108697887,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -263,11 +264,12 @@
             "country_id":85632509,
             "county_id":1108697887,
             "locality_id":421203029,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":421203029,
-    "wof:lastmodified":1690851425,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palompon",
     "wof:parent_id":1108697887,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675939,
-        1108696607
+        1108696607,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696607,
             "locality_id":1292997299,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1292997299,
-    "wof:lastmodified":1566679985,
+    "wof:lastmodified":1795733694,
     "wof:name":"Capadulan",
     "wof:parent_id":1108696607,
     "wof:placetype":"locality",

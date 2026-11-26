@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676135,
-        1108696849
+        1108696849,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108696849,
             "locality_id":1327030771,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1327030771,
-    "wof:lastmodified":1566679140,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taal",
     "wof:parent_id":1108696849,
     "wof:placetype":"locality",

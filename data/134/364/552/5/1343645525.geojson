@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85675967,
-        1108697957
+        1108697957,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108697957,
             "locality_id":1343645525,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1343645525,
-    "wof:lastmodified":1566679378,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bogo",
     "wof:parent_id":1108697957,
     "wof:placetype":"locality",

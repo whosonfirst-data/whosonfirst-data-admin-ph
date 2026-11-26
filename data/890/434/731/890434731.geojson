@@ -289,7 +289,8 @@
         102191569,
         85632509,
         85676101,
-        1108698745
+        1108698745,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -306,11 +307,12 @@
             "country_id":85632509,
             "county_id":1108698745,
             "locality_id":890434731,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":890434731,
-    "wof:lastmodified":1690851827,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palayan City",
     "wof:parent_id":1108698745,
     "wof:placetype":"locality",

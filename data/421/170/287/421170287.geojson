@@ -234,7 +234,8 @@
         102191569,
         85632509,
         85675967,
-        1108697537
+        1108697537,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,11 +254,12 @@
             "country_id":85632509,
             "county_id":1108697537,
             "locality_id":421170287,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":421170287,
-    "wof:lastmodified":1690851545,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dumalinao",
     "wof:parent_id":1108697537,
     "wof:placetype":"locality",

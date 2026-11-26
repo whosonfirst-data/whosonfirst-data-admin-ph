@@ -376,7 +376,8 @@
         102191569,
         85632509,
         85676127,
-        1108698605
+        1108698605,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -400,11 +401,12 @@
             "country_id":85632509,
             "county_id":1108698605,
             "locality_id":421194091,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":421194091,
-    "wof:lastmodified":1690851391,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cavite City",
     "wof:parent_id":1108698605,
     "wof:placetype":"locality",

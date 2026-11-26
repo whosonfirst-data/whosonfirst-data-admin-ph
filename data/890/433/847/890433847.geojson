@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676313,
-        1108697635
+        1108697635,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697635,
             "locality_id":890433847,
+            "macroregion_id":9895008402,
             "region_id":85676313
         }
     ],
     "wof:id":890433847,
-    "wof:lastmodified":1566682179,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tinagacan",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",

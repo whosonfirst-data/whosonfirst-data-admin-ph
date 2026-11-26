@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676191,
-        1108698447
+        1108698447,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698447,
             "locality_id":1343551111,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1343551111,
-    "wof:lastmodified":1566679362,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagacay",
     "wof:parent_id":1108698447,
     "wof:placetype":"locality",

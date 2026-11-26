@@ -362,7 +362,8 @@
     "wd:wordcount":4411,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -388,6 +389,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
@@ -407,9 +409,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884876,
+    "wof:lastmodified":1795733694,
     "wof:name":"Southern Leyte",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008398,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
     "wof:population":399137,

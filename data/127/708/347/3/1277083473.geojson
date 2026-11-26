@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108699715
+        1108699715,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699715,
             "locality_id":1277083473,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1277083473,
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1795733694,
     "wof:name":"Trenchera",
     "wof:parent_id":1108699715,
     "wof:placetype":"locality",

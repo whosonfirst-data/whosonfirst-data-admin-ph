@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676061,
-        1108697253
+        1108697253,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697253,
             "locality_id":1293695893,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293695893,
-    "wof:lastmodified":1566679924,
+    "wof:lastmodified":1795733694,
     "wof:name":"Purio",
     "wof:parent_id":1108697253,
     "wof:placetype":"locality",

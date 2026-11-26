@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675989,
-        1108699447
+        1108699447,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699447,
             "locality_id":1225935931,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1225935931,
-    "wof:lastmodified":1566682977,
+    "wof:lastmodified":1795733694,
     "wof:name":"Agsilab",
     "wof:parent_id":1108699447,
     "wof:placetype":"locality",

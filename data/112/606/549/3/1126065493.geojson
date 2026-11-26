@@ -51,7 +51,8 @@
         85676127,
         102191569,
         85632509,
-        1108697453
+        1108697453,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,12 +69,13 @@
             "country_id":85632509,
             "county_id":1108697453,
             "locality_id":-1,
+            "macroregion_id":9895008393,
             "neighbourhood_id":1126065493,
             "region_id":85676127
         }
     ],
     "wof:id":1126065493,
-    "wof:lastmodified":1566682287,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sampalog",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

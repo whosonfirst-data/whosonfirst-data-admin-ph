@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676197,
-        1108698007
+        1108698007,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698007,
             "locality_id":1277096107,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1277096107,
-    "wof:lastmodified":1566680106,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pawa",
     "wof:parent_id":1108698007,
     "wof:placetype":"locality",

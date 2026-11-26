@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108699451
+        1108699451,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699451,
             "locality_id":1193206353,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1193206353,
-    "wof:lastmodified":1566680920,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lagnas",
     "wof:parent_id":1108699451,
     "wof:placetype":"locality",

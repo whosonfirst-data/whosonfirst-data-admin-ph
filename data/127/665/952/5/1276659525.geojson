@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676073,
-        1108697151
+        1108697151,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697151,
             "locality_id":1276659525,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1276659525,
-    "wof:lastmodified":1566680406,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bubug",
     "wof:parent_id":1108697151,
     "wof:placetype":"locality",

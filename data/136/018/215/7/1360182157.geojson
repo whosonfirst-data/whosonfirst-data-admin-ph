@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676203,
-        1108698319
+        1108698319,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108698319,
             "locality_id":1360182157,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1360182157,
-    "wof:lastmodified":1566681611,
+    "wof:lastmodified":1795733694,
     "wof:name":"Timba",
     "wof:parent_id":1108698319,
     "wof:placetype":"locality",

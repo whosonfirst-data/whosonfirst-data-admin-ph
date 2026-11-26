@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85676107,
-        1108699157
+        1108699157,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699157,
             "locality_id":1209816395,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1209816395,
-    "wof:lastmodified":1636500979,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Jose",
     "wof:parent_id":1108699157,
     "wof:placetype":"locality",

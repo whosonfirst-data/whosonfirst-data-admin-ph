@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85676123,
-        1108699825
+        1108699825,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +45,12 @@
             "country_id":85632509,
             "county_id":1108699825,
             "localadmin_id":890434983,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890434983,
-    "wof:lastmodified":1566682149,
+    "wof:lastmodified":1795733694,
     "wof:name":"Urbiztondo",
     "wof:parent_id":1108699825,
     "wof:placetype":"localadmin",

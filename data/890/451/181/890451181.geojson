@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676021,
-        1108697977
+        1108697977,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108697977,
             "locality_id":890451181,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890451181,
-    "wof:lastmodified":1690851816,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lagonoy",
     "wof:parent_id":1108697977,
     "wof:placetype":"locality",

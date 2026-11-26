@@ -102,7 +102,8 @@
         102191569,
         85632509,
         85676153,
-        1108696551
+        1108696551,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108696551,
             "locality_id":421200215,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":421200215,
-    "wof:lastmodified":1636501109,
+    "wof:lastmodified":1795733694,
     "wof:name":"Wawa",
     "wof:parent_id":1108696551,
     "wof:placetype":"locality",

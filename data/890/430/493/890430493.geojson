@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676221,
-        1108698983
+        1108698983,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108698983,
             "locality_id":890430493,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":890430493,
-    "wof:lastmodified":1690851654,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quezon",
     "wof:parent_id":1108698983,
     "wof:placetype":"locality",

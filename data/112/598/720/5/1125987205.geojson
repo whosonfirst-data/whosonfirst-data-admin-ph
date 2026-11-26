@@ -55,7 +55,8 @@
         102191569,
         85632509,
         85675955,
-        1108699791
+        1108699791,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699791,
             "locality_id":1125987205,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":1125987205,
-    "wof:lastmodified":1566682285,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tablas",
     "wof:parent_id":1108699791,
     "wof:placetype":"locality",

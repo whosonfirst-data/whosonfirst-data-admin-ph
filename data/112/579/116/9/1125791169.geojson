@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676183,
-        1108697367
+        1108697367,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697367,
             "locality_id":1125791169,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1125791169,
-    "wof:lastmodified":1566682294,
+    "wof:lastmodified":1795733694,
     "wof:name":"Telafas",
     "wof:parent_id":1108697367,
     "wof:placetype":"locality",

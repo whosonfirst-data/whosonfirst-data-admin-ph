@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108697209
+        1108697209,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697209,
             "locality_id":1193019419,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1193019419,
-    "wof:lastmodified":1566680864,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lasip",
     "wof:parent_id":1108697209,
     "wof:placetype":"locality",

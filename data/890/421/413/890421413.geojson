@@ -62,7 +62,8 @@
         102191569,
         85632509,
         85676259,
-        1108697655
+        1108697655,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,11 +80,12 @@
             "country_id":85632509,
             "county_id":1108697655,
             "localadmin_id":890421413,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":890421413,
-    "wof:lastmodified":1566682035,
+    "wof:lastmodified":1795733694,
     "wof:name":"Glan",
     "wof:parent_id":1108697655,
     "wof:placetype":"localadmin",

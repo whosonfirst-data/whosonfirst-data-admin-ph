@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675951
+        85675951,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696787,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1108696787,
-    "wof:lastmodified":1695886252,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bago City",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

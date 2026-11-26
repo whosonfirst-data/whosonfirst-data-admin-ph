@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676047,
-        1108696555
+        1108696555,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696555,
             "locality_id":1310212985,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1310212985,
-    "wof:lastmodified":1566681473,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabuluan West",
     "wof:parent_id":1108696555,
     "wof:placetype":"locality",

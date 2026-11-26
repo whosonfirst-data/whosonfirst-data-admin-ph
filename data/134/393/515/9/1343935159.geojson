@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676235,
-        1108698571
+        1108698571,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698571,
             "locality_id":1343935159,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":1343935159,
-    "wof:lastmodified":1566679564,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sagidan",
     "wof:parent_id":1108698571,
     "wof:placetype":"locality",

@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675993,
-        1108697743
+        1108697743,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697743,
             "locality_id":1327021813,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1327021813,
-    "wof:lastmodified":1566679114,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cale",
     "wof:parent_id":1108697743,
     "wof:placetype":"locality",

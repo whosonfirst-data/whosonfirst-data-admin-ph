@@ -50,7 +50,8 @@
         102191569,
         85632509,
         85676135,
-        1108698593
+        1108698593,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,11 +68,12 @@
             "country_id":85632509,
             "county_id":1108698593,
             "localadmin_id":890443765,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":890443765,
-    "wof:lastmodified":1566682058,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bustos",
     "wof:parent_id":1108698593,
     "wof:placetype":"localadmin",

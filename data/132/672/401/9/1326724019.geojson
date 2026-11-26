@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676165,
-        1108699679
+        1108699679,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699679,
             "locality_id":1326724019,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1326724019,
-    "wof:lastmodified":1566678957,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kitub",
     "wof:parent_id":1108699679,
     "wof:placetype":"locality",

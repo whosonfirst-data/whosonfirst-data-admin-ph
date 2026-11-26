@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85676161,
-        1108697685
+        1108697685,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108697685,
             "locality_id":1327068331,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1327068331,
-    "wof:lastmodified":1566678925,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mulawin",
     "wof:parent_id":1108697685,
     "wof:placetype":"locality",

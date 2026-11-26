@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676141,
-        1108698241
+        1108698241,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698241,
             "locality_id":1260022057,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1260022057,
-    "wof:lastmodified":1566681089,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ibaba Buyucain",
     "wof:parent_id":1108698241,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676131,
-        1108699283
+        1108699283,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699283,
             "locality_id":1260329911,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1260329911,
-    "wof:lastmodified":1566681081,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maabud",
     "wof:parent_id":1108699283,
     "wof:placetype":"locality",

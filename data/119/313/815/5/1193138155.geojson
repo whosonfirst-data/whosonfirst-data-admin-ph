@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676113,
-        1108699279
+        1108699279,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108699279,
             "locality_id":1193138155,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1193138155,
-    "wof:lastmodified":1566680888,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lara",
     "wof:parent_id":1108699279,
     "wof:placetype":"locality",

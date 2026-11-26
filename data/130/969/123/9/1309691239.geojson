@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676239,
-        1108698307
+        1108698307,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698307,
             "locality_id":1309691239,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1309691239,
-    "wof:lastmodified":1566681746,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cansayong",
     "wof:parent_id":1108698307,
     "wof:placetype":"locality",

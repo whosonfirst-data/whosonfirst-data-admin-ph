@@ -117,7 +117,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676165
+        85676165,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,11 +133,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698801,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1108698801,
-    "wof:lastmodified":1695886671,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pantar",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

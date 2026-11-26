@@ -90,7 +90,8 @@
         102191569,
         85632509,
         85676365,
-        1108697425
+        1108697425,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108697425,
             "locality_id":1327435015,
+            "macroregion_id":9895008390,
             "region_id":85676365
         }
     ],
     "wof:id":1327435015,
-    "wof:lastmodified":1636500804,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bonao",
     "wof:parent_id":1108697425,
     "wof:placetype":"locality",

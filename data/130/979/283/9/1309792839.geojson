@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676179,
-        1108697303
+        1108697303,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108697303,
             "locality_id":1309792839,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1309792839,
-    "wof:lastmodified":1566681713,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lanao",
     "wof:parent_id":1108697303,
     "wof:placetype":"locality",

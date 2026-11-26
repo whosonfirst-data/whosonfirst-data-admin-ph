@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676123,
-        1108698001
+        1108698001,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698001,
             "locality_id":1309807023,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1309807023,
-    "wof:lastmodified":1566681761,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laoac West",
     "wof:parent_id":1108698001,
     "wof:placetype":"locality",

@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676213,
-        1108699411
+        1108699411,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699411,
             "locality_id":890451263,
+            "macroregion_id":9895008403,
             "region_id":85676213
         }
     ],
     "wof:id":890451263,
-    "wof:lastmodified":1566682136,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jagupit",
     "wof:parent_id":1108699411,
     "wof:placetype":"locality",

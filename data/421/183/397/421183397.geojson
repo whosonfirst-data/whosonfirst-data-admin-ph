@@ -330,7 +330,8 @@
         102191569,
         85632509,
         85675939,
-        1108699529
+        1108699529,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -348,11 +349,12 @@
             "country_id":85632509,
             "county_id":1108699529,
             "locality_id":421183397,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":421183397,
-    "wof:lastmodified":1690851553,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabunok",
     "wof:parent_id":1108699529,
     "wof:placetype":"locality",

@@ -52,7 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675939
+        85675939,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,11 +70,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890436923,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890436923,
-    "wof:lastmodified":1566681980,
+    "wof:lastmodified":1795733694,
     "wof:name":"El Pardo",
     "wof:parent_id":85675939,
     "wof:placetype":"locality",

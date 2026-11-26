@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676119,
-        1108699043
+        1108699043,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108699043,
             "locality_id":890451283,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890451283,
-    "wof:lastmodified":1566682131,
+    "wof:lastmodified":1795733694,
     "wof:name":"Inabaan Sur",
     "wof:parent_id":1108699043,
     "wof:placetype":"locality",

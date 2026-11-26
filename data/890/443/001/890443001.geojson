@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676123,
-        1108698353
+        1108698353,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108698353,
             "locality_id":890443001,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890443001,
-    "wof:lastmodified":1690851761,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mangatarem",
     "wof:parent_id":1108698353,
     "wof:placetype":"locality",

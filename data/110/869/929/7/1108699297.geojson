@@ -63,7 +63,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676191
+        85676191,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699297,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1108699297,
-    "wof:lastmodified":1695886395,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Policarpo",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

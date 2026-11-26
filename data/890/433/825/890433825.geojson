@@ -56,7 +56,8 @@
         102191569,
         85632509,
         85676183,
-        1108698037
+        1108698037,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698037,
             "locality_id":890433825,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":890433825,
-    "wof:lastmodified":1566682179,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tran",
     "wof:parent_id":1108698037,
     "wof:placetype":"locality",

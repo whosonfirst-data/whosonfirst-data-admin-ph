@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85675933,
-        1108697615
+        1108697615,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697615,
             "locality_id":1293609305,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1293609305,
-    "wof:lastmodified":1566679947,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ginopolan",
     "wof:parent_id":1108697615,
     "wof:placetype":"locality",

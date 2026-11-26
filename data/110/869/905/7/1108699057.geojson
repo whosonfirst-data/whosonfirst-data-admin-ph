@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676079
+        85676079,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,11 +115,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699057,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1108699057,
-    "wof:lastmodified":1695886683,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sabangan",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

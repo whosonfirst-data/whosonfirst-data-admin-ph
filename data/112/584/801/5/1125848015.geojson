@@ -127,7 +127,8 @@
         102191569,
         85632509,
         85675951,
-        1108698341
+        1108698341,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,11 +144,12 @@
             "country_id":85632509,
             "county_id":1108698341,
             "locality_id":1125848015,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1125848015,
-    "wof:lastmodified":1566682315,
+    "wof:lastmodified":1795733694,
     "wof:name":"Chambrey",
     "wof:parent_id":1108698341,
     "wof:placetype":"locality",

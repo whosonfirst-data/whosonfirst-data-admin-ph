@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676197,
-        1108697531
+        1108697531,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108697531,
             "locality_id":1226139815,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1226139815,
-    "wof:lastmodified":1566683186,
+    "wof:lastmodified":1795733694,
     "wof:name":"Arado",
     "wof:parent_id":1108697531,
     "wof:placetype":"locality",

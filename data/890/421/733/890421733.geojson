@@ -56,7 +56,8 @@
         102191569,
         85632509,
         85676073,
-        1108699433
+        1108699433,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108699433,
             "locality_id":890421733,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890421733,
-    "wof:lastmodified":1566682039,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bulu",
     "wof:parent_id":1108699433,
     "wof:placetype":"locality",

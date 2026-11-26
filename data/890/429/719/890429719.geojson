@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676197,
-        1108698425
+        1108698425,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698425,
             "localadmin_id":890429719,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":890429719,
-    "wof:lastmodified":1566682087,
+    "wof:lastmodified":1795733694,
     "wof:name":"Matag-ob",
     "wof:parent_id":1108698425,
     "wof:placetype":"localadmin",

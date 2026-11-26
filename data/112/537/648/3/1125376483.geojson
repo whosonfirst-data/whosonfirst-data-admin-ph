@@ -88,7 +88,8 @@
         102191569,
         85632509,
         85675999,
-        1108698679
+        1108698679,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108698679,
             "localadmin_id":1125376483,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":1125376483,
-    "wof:lastmodified":1566682270,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nueva Valencia",
     "wof:parent_id":1108698679,
     "wof:placetype":"localadmin",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108699559
+        1108699559,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699559,
             "locality_id":1209889461,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1209889461,
-    "wof:lastmodified":1566680790,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pimbawangan",
     "wof:parent_id":1108699559,
     "wof:placetype":"locality",

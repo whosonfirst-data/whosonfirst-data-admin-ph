@@ -225,7 +225,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676187
+        85676187,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890434399,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":890434399,
-    "wof:lastmodified":1690851826,
+    "wof:lastmodified":1795733694,
     "wof:name":"Culaba",
     "wof:parent_id":85676187,
     "wof:placetype":"locality",

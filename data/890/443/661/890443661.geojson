@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676127,
-        1108698551
+        1108698551,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108698551,
             "localadmin_id":890443661,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890443661,
-    "wof:lastmodified":1690851761,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naic",
     "wof:parent_id":1108698551,
     "wof:placetype":"localadmin",

@@ -243,7 +243,8 @@
         102191569,
         85632509,
         85676161,
-        1108696561
+        1108696561,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,11 +263,12 @@
             "country_id":85632509,
             "county_id":1108696561,
             "locality_id":421170733,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":421170733,
-    "wof:lastmodified":1690851546,
+    "wof:lastmodified":1795733694,
     "wof:name":"Unisan",
     "wof:parent_id":1108696561,
     "wof:placetype":"locality",

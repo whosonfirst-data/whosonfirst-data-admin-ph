@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675951,
-        890441517
+        890441517,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":890441517,
             "locality_id":1225874417,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1225874417,
-    "wof:lastmodified":1566683156,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hacienda Alejandria",
     "wof:parent_id":890441517,
     "wof:placetype":"locality",

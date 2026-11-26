@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676119,
-        1108696813
+        1108696813,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632509,
             "county_id":1108696813,
             "locality_id":1125848551,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1125848551,
-    "wof:lastmodified":1566682315,
+    "wof:lastmodified":1795733694,
     "wof:name":"Butubut Norte",
     "wof:parent_id":1108696813,
     "wof:placetype":"locality",

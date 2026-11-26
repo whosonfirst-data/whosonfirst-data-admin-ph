@@ -53,7 +53,8 @@
         102191569,
         85632509,
         85676119,
-        1108698549
+        1108698549,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +71,12 @@
             "country_id":85632509,
             "county_id":1108698549,
             "localadmin_id":890438521,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890438521,
-    "wof:lastmodified":1566682014,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naguilian",
     "wof:parent_id":1108698549,
     "wof:placetype":"localadmin",

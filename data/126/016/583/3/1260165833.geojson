@@ -88,7 +88,8 @@
         102191569,
         85632509,
         85676191,
-        1108698617
+        1108698617,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,11 +103,12 @@
             "country_id":85632509,
             "county_id":1108698617,
             "locality_id":1260165833,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1260165833,
-    "wof:lastmodified":1566681041,
+    "wof:lastmodified":1795733694,
     "wof:name":"Culasi",
     "wof:parent_id":1108698617,
     "wof:placetype":"locality",

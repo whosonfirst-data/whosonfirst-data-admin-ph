@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675967,
-        1108699655
+        1108699655,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699655,
             "locality_id":890421875,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890421875,
-    "wof:lastmodified":1566682036,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tiparak",
     "wof:parent_id":1108699655,
     "wof:placetype":"locality",

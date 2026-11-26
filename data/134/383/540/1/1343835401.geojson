@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676231,
-        1108698573
+        1108698573,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698573,
             "locality_id":1343835401,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":1343835401,
-    "wof:lastmodified":1566679461,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camansa",
     "wof:parent_id":1108698573,
     "wof:placetype":"locality",

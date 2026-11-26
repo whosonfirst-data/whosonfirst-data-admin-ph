@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676101,
-        1108699399
+        1108699399,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699399,
             "locality_id":1276981439,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1276981439,
-    "wof:lastmodified":1566680415,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barrio Libis",
     "wof:parent_id":1108699399,
     "wof:placetype":"locality",

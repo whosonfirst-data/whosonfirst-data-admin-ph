@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676061,
-        1108697259
+        1108697259,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108697259,
             "localadmin_id":890443415,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":890443415,
-    "wof:lastmodified":1690851757,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caoayan",
     "wof:parent_id":1108697259,
     "wof:placetype":"localadmin",

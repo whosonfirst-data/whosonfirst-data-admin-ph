@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85675967,
-        1108699291
+        1108699291,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108699291,
             "locality_id":1310590381,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1310590381,
-    "wof:lastmodified":1566681488,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buton",
     "wof:parent_id":1108699291,
     "wof:placetype":"locality",

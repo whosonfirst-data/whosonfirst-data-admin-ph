@@ -347,7 +347,8 @@
         102191569,
         85632509,
         85676131,
-        1108699579
+        1108699579,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -371,11 +372,12 @@
             "country_id":85632509,
             "county_id":1108699579,
             "locality_id":421203795,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":421203795,
-    "wof:lastmodified":1690851425,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calapan",
     "wof:parent_id":1108699579,
     "wof:placetype":"locality",

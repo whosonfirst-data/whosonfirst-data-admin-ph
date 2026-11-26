@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676061,
-        1108698555
+        1108698555,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698555,
             "locality_id":890431661,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":890431661,
-    "wof:lastmodified":1566681992,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quinarayan",
     "wof:parent_id":1108698555,
     "wof:placetype":"locality",

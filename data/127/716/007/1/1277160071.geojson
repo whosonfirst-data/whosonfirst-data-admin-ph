@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676079,
-        1108696961
+        1108696961,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696961,
             "locality_id":1277160071,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1277160071,
-    "wof:lastmodified":1566680451,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maggon",
     "wof:parent_id":1108696961,
     "wof:placetype":"locality",

@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676127,
-        1108696759
+        1108696759,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696759,
             "locality_id":1243505647,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1243505647,
-    "wof:lastmodified":1566682529,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabing Dagat",
     "wof:parent_id":1108696759,
     "wof:placetype":"locality",

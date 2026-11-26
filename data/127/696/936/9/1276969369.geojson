@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676197,
-        1108697419
+        1108697419,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697419,
             "locality_id":1276969369,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1276969369,
-    "wof:lastmodified":1566680396,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Benito",
     "wof:parent_id":1108697419,
     "wof:placetype":"locality",

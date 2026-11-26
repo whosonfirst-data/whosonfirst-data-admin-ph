@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676083,
-        1108696775
+        1108696775,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696775,
             "locality_id":1293489815,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1293489815,
-    "wof:lastmodified":1566679822,
+    "wof:lastmodified":1795733694,
     "wof:name":"Murong",
     "wof:parent_id":1108696775,
     "wof:placetype":"locality",

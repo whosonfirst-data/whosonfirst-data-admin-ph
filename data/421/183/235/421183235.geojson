@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676161,
-        1108699109
+        1108699109,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,11 +256,12 @@
             "country_id":85632509,
             "county_id":1108699109,
             "locality_id":421183235,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":421183235,
-    "wof:lastmodified":1690851554,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Andres",
     "wof:parent_id":1108699109,
     "wof:placetype":"locality",

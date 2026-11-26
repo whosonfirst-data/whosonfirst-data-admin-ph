@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676141,
-        1108698731
+        1108698731,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108698731,
             "localadmin_id":890443307,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":890443307,
-    "wof:lastmodified":1690851751,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pagsanjan",
     "wof:parent_id":1108698731,
     "wof:placetype":"localadmin",

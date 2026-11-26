@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85675933,
-        1108697485
+        1108697485,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697485,
             "locality_id":1309791685,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1309791685,
-    "wof:lastmodified":1566681709,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taongon Norte",
     "wof:parent_id":1108697485,
     "wof:placetype":"locality",

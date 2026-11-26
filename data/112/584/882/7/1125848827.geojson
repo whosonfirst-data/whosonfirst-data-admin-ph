@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85676123,
-        1108696929
+        1108696929,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108696929,
             "locality_id":1125848827,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1125848827,
-    "wof:lastmodified":1690851935,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basista",
     "wof:parent_id":1108696929,
     "wof:placetype":"locality",

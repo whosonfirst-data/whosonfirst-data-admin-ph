@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675975,
-        1108698271
+        1108698271,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698271,
             "locality_id":1293766889,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1293766889,
-    "wof:lastmodified":1566679842,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tubig Samin",
     "wof:parent_id":1108698271,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675967,
-        1108698473
+        1108698473,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698473,
             "locality_id":1293773017,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1293773017,
-    "wof:lastmodified":1566679808,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabocnabo",
     "wof:parent_id":1108698473,
     "wof:placetype":"locality",

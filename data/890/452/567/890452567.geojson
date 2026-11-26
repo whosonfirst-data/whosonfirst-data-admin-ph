@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676239,
-        1108697443
+        1108697443,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,11 +247,12 @@
             "country_id":85632509,
             "county_id":1108697443,
             "locality_id":890452567,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":890452567,
-    "wof:lastmodified":1690851665,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dapa",
     "wof:parent_id":1108697443,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676093,
-        1108696777
+        1108696777,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696777,
             "locality_id":1293293543,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":1293293543,
-    "wof:lastmodified":1566680010,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabing Ilog",
     "wof:parent_id":1108696777,
     "wof:placetype":"locality",

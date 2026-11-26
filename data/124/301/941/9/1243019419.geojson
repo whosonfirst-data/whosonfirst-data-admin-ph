@@ -102,7 +102,8 @@
         102191569,
         85632509,
         85676141,
-        890432695
+        890432695,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,11 +118,12 @@
             "country_id":85632509,
             "county_id":890432695,
             "locality_id":1243019419,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1243019419,
-    "wof:lastmodified":1636501179,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Lorenzo",
     "wof:parent_id":890432695,
     "wof:placetype":"locality",

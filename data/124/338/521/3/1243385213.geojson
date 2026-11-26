@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675999,
-        1108697081
+        1108697081,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697081,
             "locality_id":1243385213,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":1243385213,
-    "wof:lastmodified":1566682329,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dagsa-an",
     "wof:parent_id":1108697081,
     "wof:placetype":"locality",

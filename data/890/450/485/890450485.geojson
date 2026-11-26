@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85675929,
-        1108698667
+        1108698667,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -245,11 +246,12 @@
             "country_id":85632509,
             "county_id":1108698667,
             "localadmin_id":890450485,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":890450485,
-    "wof:lastmodified":1690851863,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Sapa-Sapa",
     "wof:parent_id":1108698667,
     "wof:placetype":"localadmin",

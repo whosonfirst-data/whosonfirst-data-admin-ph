@@ -92,7 +92,8 @@
         102191569,
         85632509,
         85676217,
-        1108697117
+        1108697117,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,11 +110,12 @@
             "country_id":85632509,
             "county_id":1108697117,
             "locality_id":890415233,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":890415233,
-    "wof:lastmodified":1566681915,
+    "wof:lastmodified":1795733694,
     "wof:name":"Libertad",
     "wof:parent_id":1108697117,
     "wof:placetype":"locality",

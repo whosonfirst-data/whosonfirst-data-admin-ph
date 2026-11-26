@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676073,
-        1108697341
+        1108697341,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697341,
             "locality_id":1343361311,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1343361311,
-    "wof:lastmodified":1566679312,
+    "wof:lastmodified":1795733694,
     "wof:name":"Placer",
     "wof:parent_id":1108697341,
     "wof:placetype":"locality",

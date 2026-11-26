@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676161,
-        890429635
+        890429635,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":890429635,
             "locality_id":1343700051,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1343700051,
-    "wof:lastmodified":1566679476,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabalogo",
     "wof:parent_id":890429635,
     "wof:placetype":"locality",

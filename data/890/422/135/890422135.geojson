@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676123,
-        1108696859
+        1108696859,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696859,
             "localadmin_id":890422135,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890422135,
-    "wof:lastmodified":1566681889,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balungao",
     "wof:parent_id":1108696859,
     "wof:placetype":"localadmin",

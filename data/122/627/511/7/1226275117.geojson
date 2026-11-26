@@ -270,7 +270,8 @@
         102191569,
         85632509,
         85675951,
-        1108697783
+        1108697783,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,11 +285,12 @@
             "country_id":85632509,
             "county_id":1108697783,
             "locality_id":1226275117,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1226275117,
-    "wof:lastmodified":1636501244,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alicante",
     "wof:parent_id":1108697783,
     "wof:placetype":"locality",

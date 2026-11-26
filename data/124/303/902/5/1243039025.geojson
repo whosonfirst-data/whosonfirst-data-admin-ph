@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676243,
-        1108696967
+        1108696967,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108696967,
             "locality_id":1243039025,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":1243039025,
-    "wof:lastmodified":1566682535,
+    "wof:lastmodified":1795733694,
     "wof:name":"Somosomo",
     "wof:parent_id":1108696967,
     "wof:placetype":"locality",

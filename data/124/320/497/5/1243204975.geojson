@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85675945,
-        1108697943
+        1108697943,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108697943,
             "locality_id":1243204975,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1243204975,
-    "wof:lastmodified":1566682643,
+    "wof:lastmodified":1795733694,
     "wof:name":"Eli",
     "wof:parent_id":1108697943,
     "wof:placetype":"locality",

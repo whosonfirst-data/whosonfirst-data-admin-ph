@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85675971,
-        890429659
+        890429659,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":890429659,
             "locality_id":1309794353,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1309794353,
-    "wof:lastmodified":1566681715,
+    "wof:lastmodified":1795733694,
     "wof:name":"Labo",
     "wof:parent_id":890429659,
     "wof:placetype":"locality",

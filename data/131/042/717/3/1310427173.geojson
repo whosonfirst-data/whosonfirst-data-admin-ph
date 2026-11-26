@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675989,
-        1108697797
+        1108697797,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697797,
             "locality_id":1310427173,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1310427173,
-    "wof:lastmodified":1566681415,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ilaya",
     "wof:parent_id":1108697797,
     "wof:placetype":"locality",

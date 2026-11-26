@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85676035,
-        1108697673
+        1108697673,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108697673,
             "locality_id":1259872631,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":1259872631,
-    "wof:lastmodified":1566682931,
+    "wof:lastmodified":1795733694,
     "wof:name":"Benquet",
     "wof:parent_id":1108697673,
     "wof:placetype":"locality",

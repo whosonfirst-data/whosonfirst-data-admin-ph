@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85675955,
-        1108697997
+        1108697997,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108697997,
             "locality_id":890438619,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":890438619,
-    "wof:lastmodified":1690851705,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tairan Camp",
     "wof:parent_id":1108697997,
     "wof:placetype":"locality",

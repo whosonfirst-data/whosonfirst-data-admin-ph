@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676025,
-        1108698781
+        1108698781,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698781,
             "locality_id":1276440379,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":1276440379,
-    "wof:lastmodified":1566680152,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacac",
     "wof:parent_id":1108698781,
     "wof:placetype":"locality",

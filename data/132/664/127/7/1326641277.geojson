@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676107,
-        1108698413
+        1108698413,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698413,
             "locality_id":1326641277,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1326641277,
-    "wof:lastmodified":1566679203,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagang",
     "wof:parent_id":1108698413,
     "wof:placetype":"locality",

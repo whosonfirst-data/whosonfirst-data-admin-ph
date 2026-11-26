@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675971,
-        890429659
+        890429659,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":890429659,
             "locality_id":1225922439,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1225922439,
-    "wof:lastmodified":1566682983,
+    "wof:lastmodified":1795733694,
     "wof:name":"Digoan",
     "wof:parent_id":890429659,
     "wof:placetype":"locality",

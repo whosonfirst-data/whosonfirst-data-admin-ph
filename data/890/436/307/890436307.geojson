@@ -218,7 +218,8 @@
         102191569,
         85632509,
         85676073,
-        1108696595
+        1108696595,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -236,11 +237,12 @@
             "country_id":85632509,
             "county_id":1108696595,
             "localadmin_id":890436307,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890436307,
-    "wof:lastmodified":1690851678,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Delfin Albano",
     "wof:parent_id":1108696595,
     "wof:placetype":"localadmin",

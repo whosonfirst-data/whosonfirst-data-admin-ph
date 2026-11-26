@@ -167,7 +167,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676035
+        85676035,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,11 +188,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":890455201,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890455201,
-    "wof:lastmodified":1695886775,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sorsogon",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

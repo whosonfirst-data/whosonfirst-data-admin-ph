@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676187,
-        1108698569
+        1108698569,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698569,
             "locality_id":890444065,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":890444065,
-    "wof:lastmodified":1566682051,
+    "wof:lastmodified":1795733694,
     "wof:name":"Catmon",
     "wof:parent_id":1108698569,
     "wof:placetype":"locality",

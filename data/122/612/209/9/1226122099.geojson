@@ -129,7 +129,8 @@
         102191569,
         85632509,
         85676183,
-        1108697581
+        1108697581,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,11 +144,12 @@
             "country_id":85632509,
             "county_id":1108697581,
             "locality_id":1226122099,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1226122099,
-    "wof:lastmodified":1566683233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ala",
     "wof:parent_id":1108697581,
     "wof:placetype":"locality",

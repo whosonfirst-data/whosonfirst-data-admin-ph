@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108697855
+        1108697855,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697855,
             "locality_id":1226180669,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1226180669,
-    "wof:lastmodified":1566683060,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bigwangan",
     "wof:parent_id":1108697855,
     "wof:placetype":"locality",

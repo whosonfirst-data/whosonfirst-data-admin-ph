@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676149,
-        1108699757
+        1108699757,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108699757,
             "locality_id":1310232931,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1310232931,
-    "wof:lastmodified":1566681275,
+    "wof:lastmodified":1795733694,
     "wof:name":"Suha",
     "wof:parent_id":1108699757,
     "wof:placetype":"locality",

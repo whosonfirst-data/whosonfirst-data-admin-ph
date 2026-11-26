@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675933,
-        1108696951
+        1108696951,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696951,
             "locality_id":1242763395,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1242763395,
-    "wof:lastmodified":1566682593,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cementerio",
     "wof:parent_id":1108696951,
     "wof:placetype":"locality",

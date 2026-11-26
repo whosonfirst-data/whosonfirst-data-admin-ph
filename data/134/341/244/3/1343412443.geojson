@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676131,
-        1108698559
+        1108698559,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698559,
             "locality_id":1343412443,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1343412443,
-    "wof:lastmodified":1566679458,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maugat",
     "wof:parent_id":1108698559,
     "wof:placetype":"locality",

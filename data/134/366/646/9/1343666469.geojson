@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676029,
-        1108698347
+        1108698347,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108698347,
             "locality_id":1343666469,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1343666469,
-    "wof:lastmodified":1566679538,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabang",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",

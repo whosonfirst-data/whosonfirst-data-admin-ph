@@ -243,7 +243,8 @@
         102191569,
         85632509,
         85675989,
-        1108697547
+        1108697547,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,11 +263,12 @@
             "country_id":85632509,
             "county_id":1108697547,
             "locality_id":421200419,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":421200419,
-    "wof:lastmodified":1690851537,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dumarao",
     "wof:parent_id":1108697547,
     "wof:placetype":"locality",

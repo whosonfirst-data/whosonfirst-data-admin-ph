@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676123,
-        1108696675
+        1108696675,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696675,
             "locality_id":1293102149,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1293102149,
-    "wof:lastmodified":1566680053,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bangar",
     "wof:parent_id":1108696675,
     "wof:placetype":"locality",

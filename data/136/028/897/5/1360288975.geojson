@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676061,
-        1108699485
+        1108699485,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699485,
             "locality_id":1360288975,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1360288975,
-    "wof:lastmodified":1566681641,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tamcang",
     "wof:parent_id":1108699485,
     "wof:placetype":"locality",

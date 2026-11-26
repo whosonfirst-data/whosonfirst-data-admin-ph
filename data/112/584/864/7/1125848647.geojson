@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676161,
-        1108699163
+        1108699163,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699163,
             "locality_id":1125848647,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1125848647,
-    "wof:lastmodified":1566682315,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bosdak",
     "wof:parent_id":1108699163,
     "wof:placetype":"locality",

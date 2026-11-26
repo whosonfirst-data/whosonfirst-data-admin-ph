@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675945,
-        890415251
+        890415251,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":890415251,
             "locality_id":1226370635,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1226370635,
-    "wof:lastmodified":1566683285,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taclubo",
     "wof:parent_id":890415251,
     "wof:placetype":"locality",

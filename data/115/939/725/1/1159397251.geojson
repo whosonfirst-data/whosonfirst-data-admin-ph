@@ -213,7 +213,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        1159397243
+        1159397243,
+        9895008389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -228,6 +229,7 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":1159397251,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
@@ -247,7 +249,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1642551819,
+    "wof:lastmodified":1795733694,
     "wof:name":"Las Pinas",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

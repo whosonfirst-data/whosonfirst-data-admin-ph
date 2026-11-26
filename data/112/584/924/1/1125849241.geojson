@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85676113,
-        1108697741
+        1108697741,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697741,
             "locality_id":1125849241,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1125849241,
-    "wof:lastmodified":1566682305,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amu\u00f1gan",
     "wof:parent_id":1108697741,
     "wof:placetype":"locality",

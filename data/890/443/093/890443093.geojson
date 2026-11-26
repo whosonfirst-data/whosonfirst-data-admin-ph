@@ -155,7 +155,8 @@
         102191569,
         85632509,
         85676065,
-        1108696827
+        1108696827,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,11 +174,12 @@
             "country_id":85632509,
             "county_id":1108696827,
             "localadmin_id":890443093,
+            "macroregion_id":9895008392,
             "region_id":85676065
         }
     ],
     "wof:id":890443093,
-    "wof:lastmodified":1690851773,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baler",
     "wof:parent_id":1108696827,
     "wof:placetype":"localadmin",

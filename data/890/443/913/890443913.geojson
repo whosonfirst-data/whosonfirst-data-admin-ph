@@ -424,7 +424,8 @@
         102191569,
         85632509,
         85676239,
-        1108699573
+        1108699573,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -443,11 +444,12 @@
             "country_id":85632509,
             "county_id":1108699573,
             "locality_id":890443913,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":890443913,
-    "wof:lastmodified":1690851764,
+    "wof:lastmodified":1795733694,
     "wof:name":"Surigao",
     "wof:parent_id":1108699573,
     "wof:placetype":"locality",

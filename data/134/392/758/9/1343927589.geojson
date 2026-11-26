@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676111,
-        1108698359
+        1108698359,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108698359,
             "locality_id":1343927589,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1343927589,
-    "wof:lastmodified":1566679533,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tubo",
     "wof:parent_id":1108698359,
     "wof:placetype":"locality",

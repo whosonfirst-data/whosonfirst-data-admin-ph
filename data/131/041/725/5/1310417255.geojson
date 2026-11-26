@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676093,
-        1108699095
+        1108699095,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699095,
             "locality_id":1310417255,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":1310417255,
-    "wof:lastmodified":1566681285,
+    "wof:lastmodified":1795733694,
     "wof:name":"East Calaguiman",
     "wof:parent_id":1108699095,
     "wof:placetype":"locality",

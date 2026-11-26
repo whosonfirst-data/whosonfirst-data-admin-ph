@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676209,
-        1108698017
+        1108698017,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698017,
             "locality_id":1310491545,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1310491545,
-    "wof:lastmodified":1566681319,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paco",
     "wof:parent_id":1108698017,
     "wof:placetype":"locality",

@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676057,
-        1108696933
+        1108696933,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108696933,
             "locality_id":1210019943,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1210019943,
-    "wof:lastmodified":1566680829,
+    "wof:lastmodified":1795733694,
     "wof:name":"Payas",
     "wof:parent_id":1108696933,
     "wof:placetype":"locality",

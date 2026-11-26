@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676149,
-        1108697025
+        1108697025,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697025,
             "locality_id":1260009337,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1260009337,
-    "wof:lastmodified":1566680989,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pili",
     "wof:parent_id":1108697025,
     "wof:placetype":"locality",

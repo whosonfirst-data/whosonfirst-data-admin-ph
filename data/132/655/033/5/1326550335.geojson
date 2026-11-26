@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675933,
-        1108698107
+        1108698107,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698107,
             "locality_id":1326550335,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1326550335,
-    "wof:lastmodified":1566679193,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sukgan",
     "wof:parent_id":1108698107,
     "wof:placetype":"locality",

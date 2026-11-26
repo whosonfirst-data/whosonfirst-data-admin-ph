@@ -96,7 +96,8 @@
         102191569,
         85632509,
         85676047,
-        1108699423
+        1108699423,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108699423,
             "locality_id":1293100981,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1293100981,
-    "wof:lastmodified":1566680048,
+    "wof:lastmodified":1795733694,
     "wof:name":"Campo",
     "wof:parent_id":1108699423,
     "wof:placetype":"locality",

@@ -53,7 +53,8 @@
         102191569,
         85632509,
         85676197,
-        1108699809
+        1108699809,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +71,12 @@
             "country_id":85632509,
             "county_id":1108699809,
             "localadmin_id":890436259,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":890436259,
-    "wof:lastmodified":1566681978,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tunga",
     "wof:parent_id":1108699809,
     "wof:placetype":"localadmin",

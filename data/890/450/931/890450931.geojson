@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676217,
-        1108696985
+        1108696985,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108696985,
             "locality_id":890450931,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":890450931,
-    "wof:lastmodified":1566682185,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maygatasan",
     "wof:parent_id":1108696985,
     "wof:placetype":"locality",

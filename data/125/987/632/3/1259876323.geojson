@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676201,
-        1108697221
+        1108697221,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108697221,
             "locality_id":1259876323,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1259876323,
-    "wof:lastmodified":1636501230,
+    "wof:lastmodified":1795733694,
     "wof:name":"Roxas",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675947,
-        1108698661
+        1108698661,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698661,
             "locality_id":1242597871,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1242597871,
-    "wof:lastmodified":1566682452,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canlumantang",
     "wof:parent_id":1108698661,
     "wof:placetype":"locality",

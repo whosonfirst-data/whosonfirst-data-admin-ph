@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676183,
-        1108698747
+        1108698747,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698747,
             "localadmin_id":1125412689,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1125412689,
-    "wof:lastmodified":1566682291,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palimbang",
     "wof:parent_id":1108698747,
     "wof:placetype":"localadmin",

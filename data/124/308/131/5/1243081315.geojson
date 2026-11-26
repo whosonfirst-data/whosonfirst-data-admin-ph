@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108697125
+        1108697125,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697125,
             "locality_id":1243081315,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1243081315,
-    "wof:lastmodified":1566682367,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buduan",
     "wof:parent_id":1108697125,
     "wof:placetype":"locality",

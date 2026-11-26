@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676169,
-        1108699077
+        1108699077,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108699077,
             "localadmin_id":890436611,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":890436611,
-    "wof:lastmodified":1566681978,
+    "wof:lastmodified":1795733694,
     "wof:name":"Saguiaran",
     "wof:parent_id":1108699077,
     "wof:placetype":"localadmin",

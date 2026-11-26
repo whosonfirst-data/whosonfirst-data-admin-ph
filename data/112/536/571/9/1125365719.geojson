@@ -49,7 +49,8 @@
         102191569,
         85632509,
         85676003,
-        1108696799
+        1108696799,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108696799,
             "localadmin_id":1125365719,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1125365719,
-    "wof:lastmodified":1566682279,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balabac",
     "wof:parent_id":1108696799,
     "wof:placetype":"localadmin",

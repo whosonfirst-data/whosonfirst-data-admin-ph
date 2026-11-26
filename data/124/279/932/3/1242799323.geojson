@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675981,
-        1108696655
+        1108696655,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696655,
             "locality_id":1242799323,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1242799323,
-    "wof:lastmodified":1566682585,
+    "wof:lastmodified":1795733694,
     "wof:name":"Linangpaca",
     "wof:parent_id":1108696655,
     "wof:placetype":"locality",

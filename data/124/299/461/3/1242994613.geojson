@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85675985,
-        1108698841
+        1108698841,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698841,
             "locality_id":1242994613,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1242994613,
-    "wof:lastmodified":1566682638,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tello",
     "wof:parent_id":1108698841,
     "wof:placetype":"locality",

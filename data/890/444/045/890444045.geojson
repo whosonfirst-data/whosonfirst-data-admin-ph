@@ -203,7 +203,8 @@
         102191569,
         85632509,
         85675967,
-        1108697939
+        1108697939,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -222,11 +223,12 @@
             "country_id":85632509,
             "county_id":1108697939,
             "locality_id":890444045,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890444045,
-    "wof:lastmodified":1690851748,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dipolo",
     "wof:parent_id":1108697939,
     "wof:placetype":"locality",

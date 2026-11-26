@@ -321,7 +321,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675945
+        85675945,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -339,11 +340,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":421180733,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":421180733,
-    "wof:lastmodified":1690851454,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guihulngan",
     "wof:parent_id":85675945,
     "wof:placetype":"locality",

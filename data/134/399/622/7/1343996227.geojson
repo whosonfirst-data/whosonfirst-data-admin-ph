@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676161,
-        1108698137
+        1108698137,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698137,
             "locality_id":1343996227,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1343996227,
-    "wof:lastmodified":1566679357,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abang",
     "wof:parent_id":1108698137,
     "wof:placetype":"locality",

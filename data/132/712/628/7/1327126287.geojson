@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85675985,
-        1108699833
+        1108699833,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699833,
             "locality_id":1327126287,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1327126287,
-    "wof:lastmodified":1566679079,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buri",
     "wof:parent_id":1108699833,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675947,
-        1108698035
+        1108698035,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698035,
             "locality_id":1360204895,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1360204895,
-    "wof:lastmodified":1566681599,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nagerong",
     "wof:parent_id":1108698035,
     "wof:placetype":"locality",

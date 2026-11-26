@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676101,
-        1108698029
+        1108698029,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698029,
             "locality_id":1259795111,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1259795111,
-    "wof:lastmodified":1566682805,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panaulo",
     "wof:parent_id":1108698029,
     "wof:placetype":"locality",

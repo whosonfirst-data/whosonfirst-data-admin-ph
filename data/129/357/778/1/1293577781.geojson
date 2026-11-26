@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676221,
-        1108697757
+        1108697757,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697757,
             "locality_id":1293577781,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1293577781,
-    "wof:lastmodified":1566679910,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guihian",
     "wof:parent_id":1108697757,
     "wof:placetype":"locality",

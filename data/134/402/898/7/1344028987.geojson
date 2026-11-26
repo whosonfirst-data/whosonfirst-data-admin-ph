@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676213,
-        1108698019
+        1108698019,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698019,
             "locality_id":1344028987,
+            "macroregion_id":9895008403,
             "region_id":85676213
         }
     ],
     "wof:id":1344028987,
-    "wof:lastmodified":1566679606,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ambakon",
     "wof:parent_id":1108698019,
     "wof:placetype":"locality",

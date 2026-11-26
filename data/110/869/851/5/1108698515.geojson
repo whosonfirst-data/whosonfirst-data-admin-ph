@@ -96,7 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676161
+        85676161,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,11 +112,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698515,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1108698515,
-    "wof:lastmodified":1695886676,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mulanay",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

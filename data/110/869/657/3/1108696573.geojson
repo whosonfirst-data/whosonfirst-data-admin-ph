@@ -108,7 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676123
+        85676123,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,11 +124,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696573,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1108696573,
-    "wof:lastmodified":1695886677,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aguilar",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

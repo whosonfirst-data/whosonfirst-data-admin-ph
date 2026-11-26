@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676003,
-        1108697393
+        1108697393,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697393,
             "locality_id":1226475051,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1226475051,
-    "wof:lastmodified":1566683208,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kilkil",
     "wof:parent_id":1108697393,
     "wof:placetype":"locality",

@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676225,
-        1108698267
+        1108698267,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -245,11 +246,12 @@
             "country_id":85632509,
             "county_id":1108698267,
             "localadmin_id":890451057,
+            "macroregion_id":9895008400,
             "region_id":85676225
         }
     ],
     "wof:id":890451057,
-    "wof:lastmodified":1690851821,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahinog",
     "wof:parent_id":1108698267,
     "wof:placetype":"localadmin",

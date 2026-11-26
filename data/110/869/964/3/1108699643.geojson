@@ -96,7 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676131
+        85676131,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,11 +112,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699643,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1108699643,
-    "wof:lastmodified":1695886670,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talisay",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

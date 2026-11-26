@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675951,
-        1108699853
+        1108699853,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699853,
             "locality_id":1277107505,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1277107505,
-    "wof:lastmodified":1566680448,
+    "wof:lastmodified":1795733694,
     "wof:name":"Etreno",
     "wof:parent_id":1108699853,
     "wof:placetype":"locality",

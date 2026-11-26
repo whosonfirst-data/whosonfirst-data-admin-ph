@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85675939,
-        1108697429
+        1108697429,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697429,
             "locality_id":1226640257,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1226640257,
-    "wof:lastmodified":1566683268,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balisong",
     "wof:parent_id":1108697429,
     "wof:placetype":"locality",

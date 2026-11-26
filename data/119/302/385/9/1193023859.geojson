@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676089,
-        1108697473
+        1108697473,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697473,
             "locality_id":1193023859,
+            "macroregion_id":9895008391,
             "region_id":85676089
         }
     ],
     "wof:id":1193023859,
-    "wof:lastmodified":1566680910,
+    "wof:lastmodified":1795733694,
     "wof:name":"Placido",
     "wof:parent_id":1108697473,
     "wof:placetype":"locality",

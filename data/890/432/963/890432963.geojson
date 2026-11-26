@@ -235,7 +235,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676003
+        85676003,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "localadmin_id":890432963,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890432963,
-    "wof:lastmodified":1690851884,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cagayancillo",
     "wof:parent_id":85676003,
     "wof:placetype":"localadmin",

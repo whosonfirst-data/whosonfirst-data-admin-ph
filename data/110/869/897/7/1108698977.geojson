@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676331
+        85676331,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698977,
+            "macroregion_id":9895008394,
             "region_id":85676331
         }
     ],
     "wof:id":1108698977,
-    "wof:lastmodified":1695886387,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puerto Princesa City",
     "wof:parent_id":85676331,
     "wof:placetype":"county",

@@ -316,7 +316,8 @@
         102191569,
         85632509,
         85675945,
-        890415287
+        890415287,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -335,11 +336,12 @@
             "country_id":85632509,
             "county_id":890415287,
             "locality_id":421204427,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":421204427,
-    "wof:lastmodified":1690851420,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canlaon",
     "wof:parent_id":890415287,
     "wof:placetype":"locality",

@@ -62,7 +62,8 @@
         102191569,
         85632509,
         85676113,
-        1108697065
+        1108697065,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697065,
             "locality_id":890450863,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":890450863,
-    "wof:lastmodified":1566682215,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panan",
     "wof:parent_id":1108697065,
     "wof:placetype":"locality",

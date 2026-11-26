@@ -347,7 +347,8 @@
         102191569,
         85632509,
         85676169,
-        1108698387
+        1108698387,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -366,11 +367,12 @@
             "country_id":85632509,
             "county_id":1108698387,
             "locality_id":421175265,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":421175265,
-    "wof:lastmodified":1690851492,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marawi City",
     "wof:parent_id":1108698387,
     "wof:placetype":"locality",

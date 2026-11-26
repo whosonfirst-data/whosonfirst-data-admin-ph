@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85675993,
-        1108696935
+        1108696935,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108696935,
             "locality_id":1310326595,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1310326595,
-    "wof:lastmodified":1566681481,
+    "wof:lastmodified":1795733694,
     "wof:name":"Salang",
     "wof:parent_id":1108696935,
     "wof:placetype":"locality",

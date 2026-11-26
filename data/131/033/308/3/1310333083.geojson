@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675945,
-        1108699843
+        1108699843,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699843,
             "locality_id":1310333083,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1310333083,
-    "wof:lastmodified":1566681514,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bayog",
     "wof:parent_id":1108699843,
     "wof:placetype":"locality",

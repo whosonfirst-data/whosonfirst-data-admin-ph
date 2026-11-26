@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108699169
+        1108699169,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699169,
             "locality_id":1259693003,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1259693003,
-    "wof:lastmodified":1566682915,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dasay",
     "wof:parent_id":1108699169,
     "wof:placetype":"locality",

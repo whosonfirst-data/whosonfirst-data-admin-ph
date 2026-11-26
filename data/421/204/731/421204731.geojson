@@ -254,7 +254,8 @@
         102191569,
         85632509,
         85676165,
-        1108699783
+        1108699783,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -273,11 +274,12 @@
             "country_id":85632509,
             "county_id":1108699783,
             "locality_id":421204731,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":421204731,
-    "wof:lastmodified":1690851418,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tubod",
     "wof:parent_id":1108699783,
     "wof:placetype":"locality",

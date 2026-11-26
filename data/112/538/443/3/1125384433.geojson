@@ -658,7 +658,8 @@
         102191569,
         85632509,
         85675999,
-        1108697837
+        1108697837,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -674,11 +675,12 @@
             "country_id":85632509,
             "county_id":1108697837,
             "localadmin_id":1125384433,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":1125384433,
-    "wof:lastmodified":1566682276,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jordan",
     "wof:parent_id":1108697837,
     "wof:placetype":"localadmin",

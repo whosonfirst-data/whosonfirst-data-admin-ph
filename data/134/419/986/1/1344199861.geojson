@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676131,
-        1108697195
+        1108697195,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697195,
             "locality_id":1344199861,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1344199861,
-    "wof:lastmodified":1566679581,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dacanlao",
     "wof:parent_id":1108697195,
     "wof:placetype":"locality",

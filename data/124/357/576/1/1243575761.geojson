@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85675993,
-        1108697585
+        1108697585,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697585,
             "locality_id":1243575761,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1243575761,
-    "wof:lastmodified":1566682533,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pani-an",
     "wof:parent_id":1108697585,
     "wof:placetype":"locality",

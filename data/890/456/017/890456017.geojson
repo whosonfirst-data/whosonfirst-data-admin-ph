@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676197,
-        1108697817
+        1108697817,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108697817,
             "locality_id":890456017,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":890456017,
-    "wof:lastmodified":1566682117,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bugho",
     "wof:parent_id":1108697817,
     "wof:placetype":"locality",

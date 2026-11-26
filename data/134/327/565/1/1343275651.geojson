@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108698677
+        1108698677,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698677,
             "locality_id":1343275651,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1343275651,
-    "wof:lastmodified":1566679617,
+    "wof:lastmodified":1795733694,
     "wof:name":"Padsan",
     "wof:parent_id":1108698677,
     "wof:placetype":"locality",

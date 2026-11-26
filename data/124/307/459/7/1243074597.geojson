@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676135,
-        1108697101
+        1108697101,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697101,
             "locality_id":1243074597,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1243074597,
-    "wof:lastmodified":1566682327,
+    "wof:lastmodified":1795733694,
     "wof:name":"Matungao",
     "wof:parent_id":1108697101,
     "wof:placetype":"locality",

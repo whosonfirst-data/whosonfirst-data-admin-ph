@@ -226,7 +226,8 @@
         102191569,
         85632509,
         85676165,
-        1108696855
+        1108696855,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,11 +245,12 @@
             "country_id":85632509,
             "county_id":1108696855,
             "locality_id":890452643,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":890452643,
-    "wof:lastmodified":1690851666,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mamungan",
     "wof:parent_id":1108696855,
     "wof:placetype":"locality",

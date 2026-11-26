@@ -74,7 +74,8 @@
         102191569,
         85632509,
         85675963,
-        1108697863
+        1108697863,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108697863,
             "locality_id":890434573,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":890434573,
-    "wof:lastmodified":1566682152,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batu",
     "wof:parent_id":1108697863,
     "wof:placetype":"locality",

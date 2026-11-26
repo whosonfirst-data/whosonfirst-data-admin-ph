@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85675993,
-        1108698575
+        1108698575,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108698575,
             "locality_id":1226434417,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1226434417,
-    "wof:lastmodified":1636501237,
+    "wof:lastmodified":1795733694,
     "wof:name":"Daga",
     "wof:parent_id":1108698575,
     "wof:placetype":"locality",

@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676079,
-        1108696991
+        1108696991,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696991,
             "locality_id":1343244855,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1343244855,
-    "wof:lastmodified":1566679484,
+    "wof:lastmodified":1795733694,
     "wof:name":"Poblacion",
     "wof:parent_id":1108696991,
     "wof:placetype":"locality",

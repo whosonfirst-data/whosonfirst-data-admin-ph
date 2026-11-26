@@ -375,7 +375,8 @@
         102191569,
         85632509,
         85676141,
-        1108698087
+        1108698087,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -389,11 +390,12 @@
             "country_id":85632509,
             "county_id":1108698087,
             "locality_id":1242924725,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1242924725,
-    "wof:lastmodified":1566682442,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malabo",
     "wof:parent_id":1108698087,
     "wof:placetype":"locality",

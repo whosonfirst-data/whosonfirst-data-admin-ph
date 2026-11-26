@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676361,
-        1108698693
+        1108698693,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698693,
             "locality_id":421189451,
+            "macroregion_id":9895008392,
             "region_id":85676361
         }
     ],
     "wof:id":421189451,
-    "wof:lastmodified":1566681829,
+    "wof:lastmodified":1795733694,
     "wof:name":"Olongapo City",
     "wof:parent_id":1108698693,
     "wof:placetype":"locality",

@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85675945,
-        1108697461
+        1108697461,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697461,
             "locality_id":1293417957,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1293417957,
-    "wof:lastmodified":1566679805,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anjauan",
     "wof:parent_id":1108697461,
     "wof:placetype":"locality",

@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85675939,
-        1108699589
+        1108699589,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108699589,
             "locality_id":1344242707,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1344242707,
-    "wof:lastmodified":1566679424,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tangub",
     "wof:parent_id":1108699589,
     "wof:placetype":"locality",

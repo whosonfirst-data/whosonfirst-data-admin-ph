@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108696561
+        1108696561,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696561,
             "locality_id":1209968053,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1209968053,
-    "wof:lastmodified":1566680496,
+    "wof:lastmodified":1795733694,
     "wof:name":"Inaclagan",
     "wof:parent_id":1108696561,
     "wof:placetype":"locality",

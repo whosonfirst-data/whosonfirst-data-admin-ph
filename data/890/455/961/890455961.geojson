@@ -52,7 +52,8 @@
         102191569,
         85632509,
         85676073,
-        1108697605
+        1108697605,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,11 +80,12 @@
             "country_id":85632509,
             "county_id":1108697605,
             "locality_id":890455961,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890455961,
-    "wof:lastmodified":1706240585,
+    "wof:lastmodified":1795733694,
     "wof:name":"Upi",
     "wof:parent_id":1108697605,
     "wof:placetype":"locality",

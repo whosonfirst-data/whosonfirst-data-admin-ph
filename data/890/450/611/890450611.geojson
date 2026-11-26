@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        1159397243
+        1159397243,
+        9895008389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +64,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890450611,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
     "wof:id":890450611,
-    "wof:lastmodified":1566682194,
+    "wof:lastmodified":1795733694,
     "wof:name":"Del Monte",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

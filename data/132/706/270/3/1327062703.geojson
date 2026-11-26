@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676003,
-        1108696577
+        1108696577,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696577,
             "locality_id":1327062703,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1327062703,
-    "wof:lastmodified":1566678926,
+    "wof:lastmodified":1795733694,
     "wof:name":"Villasol",
     "wof:parent_id":1108696577,
     "wof:placetype":"locality",

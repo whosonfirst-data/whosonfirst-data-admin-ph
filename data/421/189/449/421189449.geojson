@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676021,
-        1108698479
+        1108698479,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698479,
             "locality_id":421189449,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":421189449,
-    "wof:lastmodified":1566681826,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naga City",
     "wof:parent_id":1108698479,
     "wof:placetype":"locality",

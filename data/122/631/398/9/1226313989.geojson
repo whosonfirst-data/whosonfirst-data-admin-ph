@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676243,
-        1108697185
+        1108697185,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697185,
             "locality_id":1226313989,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":1226313989,
-    "wof:lastmodified":1566683326,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bitaogan",
     "wof:parent_id":1108697185,
     "wof:placetype":"locality",

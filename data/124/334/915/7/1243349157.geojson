@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676287,
-        1108698349
+        1108698349,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698349,
             "locality_id":1243349157,
+            "macroregion_id":9895008397,
             "region_id":85676287
         }
     ],
     "wof:id":1243349157,
-    "wof:lastmodified":1566682557,
+    "wof:lastmodified":1795733694,
     "wof:name":"Islade Palma",
     "wof:parent_id":1108698349,
     "wof:placetype":"locality",

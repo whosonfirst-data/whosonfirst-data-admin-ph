@@ -69,7 +69,8 @@
         102191569,
         85632509,
         85676141,
-        1108699349
+        1108699349,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632509,
             "county_id":1108699349,
             "locality_id":1310255927,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1310255927,
-    "wof:lastmodified":1566681310,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palasa",
     "wof:parent_id":1108699349,
     "wof:placetype":"locality",

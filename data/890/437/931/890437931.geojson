@@ -82,7 +82,8 @@
         102191569,
         85632509,
         85675985,
-        1108697705
+        1108697705,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108697705,
             "localadmin_id":890437931,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":890437931,
-    "wof:lastmodified":1566681947,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hamtic",
     "wof:parent_id":1108697705,
     "wof:placetype":"localadmin",

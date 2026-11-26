@@ -120,7 +120,8 @@
         102191569,
         85632509,
         85676035,
-        1108697315
+        1108697315,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,11 +135,12 @@
             "country_id":85632509,
             "county_id":1108697315,
             "locality_id":1293685273,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":1293685273,
-    "wof:lastmodified":1636500890,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bunga",
     "wof:parent_id":1108697315,
     "wof:placetype":"locality",

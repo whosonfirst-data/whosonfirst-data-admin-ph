@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676203,
-        1108699219
+        1108699219,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108699219,
             "locality_id":1225829861,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1225829861,
-    "wof:lastmodified":1566683339,
+    "wof:lastmodified":1795733694,
     "wof:name":"Garrido",
     "wof:parent_id":1108699219,
     "wof:placetype":"locality",

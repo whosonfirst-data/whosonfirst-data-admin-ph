@@ -537,7 +537,8 @@
         102191569,
         85632509,
         85675933,
-        1108697761
+        1108697761,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -551,11 +552,12 @@
             "country_id":85632509,
             "county_id":1108697761,
             "locality_id":1343381403,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1343381403,
-    "wof:lastmodified":1566679309,
+    "wof:lastmodified":1795733694,
     "wof:name":"Carbon",
     "wof:parent_id":1108697761,
     "wof:placetype":"locality",

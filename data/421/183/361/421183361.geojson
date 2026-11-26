@@ -249,7 +249,8 @@
         102191569,
         85632509,
         85675981,
-        1108696655
+        1108696655,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,11 +269,12 @@
             "country_id":85632509,
             "county_id":1108696655,
             "locality_id":421183361,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":421183361,
-    "wof:lastmodified":1690851556,
+    "wof:lastmodified":1795733694,
     "wof:name":"Altavas",
     "wof:parent_id":1108696655,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676209,
-        1108696643
+        1108696643,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696643,
             "locality_id":1226232205,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1226232205,
-    "wof:lastmodified":1566683215,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calarayar",
     "wof:parent_id":1108696643,
     "wof:placetype":"locality",

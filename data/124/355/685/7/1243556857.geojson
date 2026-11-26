@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676083,
-        1108696705
+        1108696705,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108696705,
             "locality_id":1243556857,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1243556857,
-    "wof:lastmodified":1566682387,
+    "wof:lastmodified":1795733694,
     "wof:name":"Beti",
     "wof:parent_id":1108696705,
     "wof:placetype":"locality",

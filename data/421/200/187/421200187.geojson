@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676003,
-        1108699709
+        1108699709,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108699709,
             "locality_id":421200187,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":421200187,
-    "wof:lastmodified":1566681855,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calauag",
     "wof:parent_id":1108699709,
     "wof:placetype":"locality",

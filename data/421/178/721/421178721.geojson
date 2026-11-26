@@ -246,7 +246,8 @@
         102191569,
         85632509,
         85676191,
-        1108698105
+        1108698105,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,11 +266,12 @@
             "country_id":85632509,
             "county_id":1108698105,
             "locality_id":421178721,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":421178721,
-    "wof:lastmodified":1690851585,
+    "wof:lastmodified":1795733694,
     "wof:name":"Llorente",
     "wof:parent_id":1108698105,
     "wof:placetype":"locality",

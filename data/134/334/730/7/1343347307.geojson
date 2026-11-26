@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675933,
-        1108699261
+        1108699261,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699261,
             "locality_id":1343347307,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1343347307,
-    "wof:lastmodified":1566679571,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camanaga",
     "wof:parent_id":1108699261,
     "wof:placetype":"locality",

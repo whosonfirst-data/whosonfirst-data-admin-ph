@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676119,
-        1108696703
+        1108696703,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696703,
             "locality_id":890430119,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890430119,
-    "wof:lastmodified":1566681941,
+    "wof:lastmodified":1795733694,
     "wof:name":"Halog West",
     "wof:parent_id":1108696703,
     "wof:placetype":"locality",

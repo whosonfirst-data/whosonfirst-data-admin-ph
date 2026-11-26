@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675951,
-        1108697575
+        1108697575,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697575,
             "locality_id":890450977,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890450977,
-    "wof:lastmodified":1566682198,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maquiling",
     "wof:parent_id":1108697575,
     "wof:placetype":"locality",

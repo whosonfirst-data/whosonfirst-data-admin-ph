@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676141,
-        1108698197
+        1108698197,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698197,
             "locality_id":1310255917,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1310255917,
-    "wof:lastmodified":1566681311,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amuyong",
     "wof:parent_id":1108698197,
     "wof:placetype":"locality",

@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676335,
-        1108698707
+        1108698707,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698707,
             "locality_id":890415751,
+            "macroregion_id":9895008398,
             "region_id":85676335
         }
     ],
     "wof:id":890415751,
-    "wof:lastmodified":1566681921,
+    "wof:lastmodified":1795733694,
     "wof:name":"Margen",
     "wof:parent_id":1108698707,
     "wof:placetype":"locality",

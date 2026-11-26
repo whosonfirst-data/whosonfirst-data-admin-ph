@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676113,
-        1108699253
+        1108699253,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699253,
             "locality_id":1292914735,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1292914735,
-    "wof:lastmodified":1566679965,
+    "wof:lastmodified":1795733694,
     "wof:name":"Leley",
     "wof:parent_id":1108699253,
     "wof:placetype":"locality",

@@ -111,7 +111,8 @@
         102191569,
         85632509,
         85675945,
-        890451429
+        890451429,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,11 +126,12 @@
             "country_id":85632509,
             "county_id":890451429,
             "locality_id":1344089271,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1344089271,
-    "wof:lastmodified":1566679439,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dewey",
     "wof:parent_id":890451429,
     "wof:placetype":"locality",

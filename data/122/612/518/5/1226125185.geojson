@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676111,
-        1108699779
+        1108699779,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699779,
             "locality_id":1226125185,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1226125185,
-    "wof:lastmodified":1566683233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pihao",
     "wof:parent_id":1108699779,
     "wof:placetype":"locality",

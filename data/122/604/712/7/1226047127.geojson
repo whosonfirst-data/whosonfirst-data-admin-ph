@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676021,
-        1108697613
+        1108697613,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697613,
             "locality_id":1226047127,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1226047127,
-    "wof:lastmodified":1566683117,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ason",
     "wof:parent_id":1108697613,
     "wof:placetype":"locality",

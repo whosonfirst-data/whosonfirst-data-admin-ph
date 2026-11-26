@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676057,
-        1108696773
+        1108696773,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108696773,
             "localadmin_id":890443813,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890443813,
-    "wof:lastmodified":1690851771,
+    "wof:lastmodified":1795733694,
     "wof:name":"Badoc",
     "wof:parent_id":1108696773,
     "wof:placetype":"localadmin",

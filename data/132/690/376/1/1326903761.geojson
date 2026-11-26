@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675975,
-        1108697885
+        1108697885,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697885,
             "locality_id":1326903761,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1326903761,
-    "wof:lastmodified":1566679208,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cottab",
     "wof:parent_id":1108697885,
     "wof:placetype":"locality",

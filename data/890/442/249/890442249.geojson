@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85676065,
-        1108698393
+        1108698393,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698393,
             "localadmin_id":890442249,
+            "macroregion_id":9895008392,
             "region_id":85676065
         }
     ],
     "wof:id":890442249,
-    "wof:lastmodified":1566682113,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maria Aurora",
     "wof:parent_id":1108698393,
     "wof:placetype":"localadmin",

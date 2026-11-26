@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676079,
-        1108699069
+        1108699069,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108699069,
             "localadmin_id":890443633,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":890443633,
-    "wof:lastmodified":1690851759,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sagada",
     "wof:parent_id":1108699069,
     "wof:placetype":"localadmin",

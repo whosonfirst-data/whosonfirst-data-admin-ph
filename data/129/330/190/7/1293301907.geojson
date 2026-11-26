@@ -105,7 +105,8 @@
         102191569,
         85632509,
         85676061,
-        1108699177
+        1108699177,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108699177,
             "locality_id":1293301907,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293301907,
-    "wof:lastmodified":1636500875,
+    "wof:lastmodified":1795733694,
     "wof:name":"Belen",
     "wof:parent_id":1108699177,
     "wof:placetype":"locality",

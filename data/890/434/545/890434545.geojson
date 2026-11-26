@@ -37,7 +37,8 @@
         102191569,
         85632509,
         85676047,
-        1108699763
+        1108699763,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699763,
             "locality_id":890434545,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":890434545,
-    "wof:lastmodified":1566682151,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alabug",
     "wof:parent_id":1108699763,
     "wof:placetype":"locality",

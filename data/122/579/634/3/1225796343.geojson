@@ -129,7 +129,8 @@
         102191569,
         85632509,
         85676161,
-        1108698729
+        1108698729,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,11 +144,12 @@
             "country_id":85632509,
             "county_id":1108698729,
             "locality_id":1225796343,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1225796343,
-    "wof:lastmodified":1566683348,
+    "wof:lastmodified":1795733694,
     "wof:name":"Antipolo",
     "wof:parent_id":1108698729,
     "wof:placetype":"locality",

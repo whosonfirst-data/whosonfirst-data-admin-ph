@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108699077
+        1108699077,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699077,
             "locality_id":1260050331,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1260050331,
-    "wof:lastmodified":1566681089,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gakop",
     "wof:parent_id":1108699077,
     "wof:placetype":"locality",

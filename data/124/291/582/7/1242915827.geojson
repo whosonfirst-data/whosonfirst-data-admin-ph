@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676161,
-        1108698205
+        1108698205,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698205,
             "locality_id":1242915827,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1242915827,
-    "wof:lastmodified":1566682619,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ibabang Soliyao",
     "wof:parent_id":1108698205,
     "wof:placetype":"locality",

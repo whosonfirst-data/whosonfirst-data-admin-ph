@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85675961,
-        1108699027
+        1108699027,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699027,
             "locality_id":1276569893,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1276569893,
-    "wof:lastmodified":1566680231,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nangka",
     "wof:parent_id":1108699027,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676061,
-        1108699373
+        1108699373,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699373,
             "locality_id":1327143531,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1327143531,
-    "wof:lastmodified":1566679066,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bul-bul-luacan",
     "wof:parent_id":1108699373,
     "wof:placetype":"locality",

@@ -164,7 +164,8 @@
         102191569,
         85632509,
         85675961,
-        1108699511
+        1108699511,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,11 +179,12 @@
             "country_id":85632509,
             "county_id":1108699511,
             "locality_id":1243051899,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1243051899,
-    "wof:lastmodified":1636501195,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108699511,
     "wof:placetype":"locality",

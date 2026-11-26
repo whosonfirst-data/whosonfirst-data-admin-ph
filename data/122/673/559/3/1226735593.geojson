@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675947,
-        1108698015
+        1108698015,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698015,
             "locality_id":1226735593,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1226735593,
-    "wof:lastmodified":1566683052,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sandugan",
     "wof:parent_id":1108698015,
     "wof:placetype":"locality",

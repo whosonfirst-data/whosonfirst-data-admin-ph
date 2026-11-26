@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676113,
-        1108698415
+        1108698415,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698415,
             "locality_id":1310705329,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":1310705329,
-    "wof:lastmodified":1566681295,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pulangi",
     "wof:parent_id":1108698415,
     "wof:placetype":"locality",

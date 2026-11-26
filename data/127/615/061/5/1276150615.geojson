@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676159,
-        1108699053
+        1108699053,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699053,
             "locality_id":1276150615,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1276150615,
-    "wof:lastmodified":1566680337,
+    "wof:lastmodified":1795733694,
     "wof:name":"Trozo",
     "wof:parent_id":1108699053,
     "wof:placetype":"locality",

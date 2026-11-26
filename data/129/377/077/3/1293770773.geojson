@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676179,
-        1108698871
+        1108698871,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698871,
             "locality_id":1293770773,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1293770773,
-    "wof:lastmodified":1566679808,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calawag",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

@@ -311,7 +311,8 @@
         102191569,
         85632509,
         85676035,
-        890455201
+        890455201,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -334,11 +335,12 @@
             "country_id":85632509,
             "county_id":890455201,
             "locality_id":890425747,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890425747,
-    "wof:lastmodified":1690851617,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sorsogon",
     "wof:parent_id":890455201,
     "wof:placetype":"locality",

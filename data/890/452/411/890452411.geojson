@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676153,
-        1108698253
+        1108698253,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698253,
             "locality_id":890452411,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":890452411,
-    "wof:lastmodified":1566681968,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paclolo",
     "wof:parent_id":1108698253,
     "wof:placetype":"locality",

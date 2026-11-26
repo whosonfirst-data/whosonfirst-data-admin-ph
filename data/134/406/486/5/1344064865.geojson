@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676073,
-        1108698547
+        1108698547,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698547,
             "locality_id":1344064865,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1344064865,
-    "wof:lastmodified":1566679434,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nabaculan",
     "wof:parent_id":1108698547,
     "wof:placetype":"locality",

@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676025,
-        1108697645
+        1108697645,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697645,
             "locality_id":1276327005,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":1276327005,
-    "wof:lastmodified":1566680243,
+    "wof:lastmodified":1795733694,
     "wof:name":"Biong",
     "wof:parent_id":1108697645,
     "wof:placetype":"locality",

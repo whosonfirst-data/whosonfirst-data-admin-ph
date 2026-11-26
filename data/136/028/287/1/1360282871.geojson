@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676201,
-        1108697221
+        1108697221,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697221,
             "locality_id":1360282871,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1360282871,
-    "wof:lastmodified":1566681635,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palonosa",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

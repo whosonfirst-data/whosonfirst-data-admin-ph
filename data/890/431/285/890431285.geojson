@@ -77,7 +77,8 @@
         102191569,
         85632509,
         85676165,
-        1108699093
+        1108699093,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +95,12 @@
             "country_id":85632509,
             "county_id":1108699093,
             "localadmin_id":890431285,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":890431285,
-    "wof:lastmodified":1566682001,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Salvador",
     "wof:parent_id":1108699093,
     "wof:placetype":"localadmin",

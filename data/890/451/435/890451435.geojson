@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675981,
-        1108696829
+        1108696829,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108696829,
             "locality_id":890451435,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":890451435,
-    "wof:lastmodified":1566682136,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aranas Sur",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",

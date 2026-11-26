@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676135,
-        1108697029
+        1108697029,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697029,
             "locality_id":1293488477,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1293488477,
-    "wof:lastmodified":1566679820,
+    "wof:lastmodified":1795733694,
     "wof:name":"Silangan",
     "wof:parent_id":1108697029,
     "wof:placetype":"locality",

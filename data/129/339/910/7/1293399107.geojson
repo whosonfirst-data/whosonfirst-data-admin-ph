@@ -117,7 +117,8 @@
         102191569,
         85632509,
         85676123,
-        1108698351
+        1108698351,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,11 +132,12 @@
             "country_id":85632509,
             "county_id":1108698351,
             "locality_id":1293399107,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1293399107,
-    "wof:lastmodified":1566679773,
+    "wof:lastmodified":1795733694,
     "wof:name":"Landas",
     "wof:parent_id":1108698351,
     "wof:placetype":"locality",

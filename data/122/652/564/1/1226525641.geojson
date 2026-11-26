@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676173,
-        1108697459
+        1108697459,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697459,
             "locality_id":1226525641,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1226525641,
-    "wof:lastmodified":1566683263,
+    "wof:lastmodified":1795733694,
     "wof:name":"Boyan",
     "wof:parent_id":1108697459,
     "wof:placetype":"locality",

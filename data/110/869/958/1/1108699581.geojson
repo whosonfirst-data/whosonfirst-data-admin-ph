@@ -108,7 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676011
+        85676011,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,11 +124,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699581,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1108699581,
-    "wof:lastmodified":1695886682,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabaco",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

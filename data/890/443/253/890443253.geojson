@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85676159,
-        1108698895
+        1108698895,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +45,12 @@
             "country_id":85632509,
             "county_id":1108698895,
             "localadmin_id":890443253,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":890443253,
-    "wof:lastmodified":1566682076,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pinamalayan",
     "wof:parent_id":1108698895,
     "wof:placetype":"localadmin",

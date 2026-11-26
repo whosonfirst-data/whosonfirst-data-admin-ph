@@ -32,7 +32,8 @@
         102191569,
         85632509,
         85676255,
-        1108697667
+        1108697667,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697667,
             "locality_id":890442337,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":890442337,
-    "wof:lastmodified":1566682106,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nangan",
     "wof:parent_id":1108697667,
     "wof:placetype":"locality",

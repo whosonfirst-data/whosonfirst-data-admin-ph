@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85675971,
-        1108696835
+        1108696835,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108696835,
             "locality_id":421196653,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":421196653,
-    "wof:lastmodified":1566681844,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bato",
     "wof:parent_id":1108696835,
     "wof:placetype":"locality",

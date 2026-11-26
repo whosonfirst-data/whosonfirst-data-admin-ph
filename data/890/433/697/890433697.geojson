@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676111,
-        1108699765
+        1108699765,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699765,
             "locality_id":890433697,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":890433697,
-    "wof:lastmodified":1566682180,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabaan",
     "wof:parent_id":1108699765,
     "wof:placetype":"locality",

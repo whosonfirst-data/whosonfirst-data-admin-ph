@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675933,
-        1108699635
+        1108699635,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699635,
             "locality_id":1242860101,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1242860101,
-    "wof:lastmodified":1566682416,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puerto San Pedro",
     "wof:parent_id":1108699635,
     "wof:placetype":"locality",

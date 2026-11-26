@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676313
+        85676313,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697635,
+            "macroregion_id":9895008402,
             "region_id":85676313
         }
     ],
     "wof:id":1108697635,
-    "wof:lastmodified":1695886295,
+    "wof:lastmodified":1795733694,
     "wof:name":"General Santos City",
     "wof:parent_id":85676313,
     "wof:placetype":"county",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676131,
-        1108699039
+        1108699039,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108699039,
             "locality_id":1326868375,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1326868375,
-    "wof:lastmodified":1566678954,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nasi",
     "wof:parent_id":1108699039,
     "wof:placetype":"locality",

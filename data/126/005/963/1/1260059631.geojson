@@ -96,7 +96,8 @@
         102191569,
         85632509,
         85676183,
-        1108698959
+        1108698959,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108698959,
             "locality_id":1260059631,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1260059631,
-    "wof:lastmodified":1566681085,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tina",
     "wof:parent_id":1108698959,
     "wof:placetype":"locality",

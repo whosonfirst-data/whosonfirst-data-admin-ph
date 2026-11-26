@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676061,
-        1108699087
+        1108699087,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699087,
             "locality_id":1343265239,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1343265239,
-    "wof:lastmodified":1566679645,
+    "wof:lastmodified":1795733694,
     "wof:name":"Arangin-Dinaratan",
     "wof:parent_id":1108699087,
     "wof:placetype":"locality",

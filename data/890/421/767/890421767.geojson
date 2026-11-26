@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676187,
-        1108698407
+        1108698407,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108698407,
             "localadmin_id":890421767,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":890421767,
-    "wof:lastmodified":1690851732,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maripipi",
     "wof:parent_id":1108698407,
     "wof:placetype":"localadmin",

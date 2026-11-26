@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676213,
-        1108698557
+        1108698557,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698557,
             "locality_id":1243342401,
+            "macroregion_id":9895008403,
             "region_id":85676213
         }
     ],
     "wof:id":1243342401,
-    "wof:lastmodified":1566682558,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magoon",
     "wof:parent_id":1108698557,
     "wof:placetype":"locality",

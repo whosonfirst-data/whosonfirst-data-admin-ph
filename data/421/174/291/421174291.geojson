@@ -242,7 +242,8 @@
         102191569,
         85632509,
         85676073,
-        1108698999
+        1108698999,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,11 +261,12 @@
             "country_id":85632509,
             "county_id":1108698999,
             "locality_id":421174291,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":421174291,
-    "wof:lastmodified":1690851449,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Mateo",
     "wof:parent_id":1108698999,
     "wof:placetype":"locality",

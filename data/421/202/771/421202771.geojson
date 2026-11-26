@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85675993,
-        1108698041
+        1108698041,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108698041,
             "locality_id":421202771,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":421202771,
-    "wof:lastmodified":1690851429,
+    "wof:lastmodified":1795733694,
     "wof:name":"Leganes",
     "wof:parent_id":1108698041,
     "wof:placetype":"locality",

@@ -56,7 +56,8 @@
         102191569,
         85632509,
         85676209,
-        1108697021
+        1108697021,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,11 +74,12 @@
             "country_id":85632509,
             "county_id":1108697021,
             "localadmin_id":890451401,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":890451401,
-    "wof:lastmodified":1566682123,
+    "wof:lastmodified":1795733694,
     "wof:name":"Biri",
     "wof:parent_id":1108697021,
     "wof:placetype":"localadmin",

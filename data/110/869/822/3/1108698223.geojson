@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676089
+        85676089,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698223,
+            "macroregion_id":9895008391,
             "region_id":85676089
         }
     ],
     "wof:id":1108698223,
-    "wof:lastmodified":1695886342,
+    "wof:lastmodified":1795733694,
     "wof:name":"Madella",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

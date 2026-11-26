@@ -243,7 +243,8 @@
         102191569,
         85632509,
         85676221,
-        1108697437
+        1108697437,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,11 +262,12 @@
             "country_id":85632509,
             "county_id":1108697437,
             "locality_id":421196621,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":421196621,
-    "wof:lastmodified":1690851502,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dangcagan",
     "wof:parent_id":1108697437,
     "wof:placetype":"locality",

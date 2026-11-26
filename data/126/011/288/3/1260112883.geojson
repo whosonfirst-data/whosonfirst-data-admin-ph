@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675945,
-        1108699465
+        1108699465,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699465,
             "locality_id":1260112883,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1260112883,
-    "wof:lastmodified":1566681036,
+    "wof:lastmodified":1795733694,
     "wof:name":"Judio",
     "wof:parent_id":1108699465,
     "wof:placetype":"locality",

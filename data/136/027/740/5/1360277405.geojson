@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675999,
-        1108697837
+        1108697837,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697837,
             "locality_id":1360277405,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":1360277405,
-    "wof:lastmodified":1566681601,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sibario",
     "wof:parent_id":1108697837,
     "wof:placetype":"locality",

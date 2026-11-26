@@ -249,7 +249,8 @@
         102191569,
         85632509,
         85676161,
-        1108697695
+        1108697695,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -267,11 +268,12 @@
             "country_id":85632509,
             "county_id":1108697695,
             "locality_id":421197427,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":421197427,
-    "wof:lastmodified":1690851519,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gumaca",
     "wof:parent_id":1108697695,
     "wof:placetype":"locality",

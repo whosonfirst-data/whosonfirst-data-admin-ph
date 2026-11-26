@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675985,
-        1108698025
+        1108698025,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108698025,
             "locality_id":890451295,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":890451295,
-    "wof:lastmodified":1566682124,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guisijan",
     "wof:parent_id":1108698025,
     "wof:placetype":"locality",

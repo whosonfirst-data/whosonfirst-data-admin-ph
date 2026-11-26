@@ -218,7 +218,8 @@
         102191569,
         85632509,
         85675967,
-        1108698265
+        1108698265,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -236,11 +237,12 @@
             "country_id":85632509,
             "county_id":1108698265,
             "localadmin_id":890443021,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890443021,
-    "wof:lastmodified":1690851771,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Mahayag",
     "wof:parent_id":1108698265,
     "wof:placetype":"localadmin",

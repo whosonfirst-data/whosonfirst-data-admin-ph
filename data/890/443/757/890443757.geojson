@@ -76,7 +76,8 @@
         102191569,
         85632509,
         85676131,
-        1108697213
+        1108697213,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108697213,
             "localadmin_id":890443757,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890443757,
-    "wof:lastmodified":1566682071,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calatagan",
     "wof:parent_id":1108697213,
     "wof:placetype":"localadmin",

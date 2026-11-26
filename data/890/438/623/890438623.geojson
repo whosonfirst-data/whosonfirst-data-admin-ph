@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676029,
-        1108698347
+        1108698347,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "country_id":85632509,
             "county_id":1108698347,
             "locality_id":890438623,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890438623,
-    "wof:lastmodified":1706240582,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lantangan",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",

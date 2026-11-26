@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85675955,
-        1108698325
+        1108698325,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108698325,
             "locality_id":890451023,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":890451023,
-    "wof:lastmodified":1690851812,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maluso",
     "wof:parent_id":1108698325,
     "wof:placetype":"locality",

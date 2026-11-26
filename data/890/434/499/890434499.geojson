@@ -273,7 +273,8 @@
         102191569,
         85632509,
         85675945,
-        890451429
+        890451429,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -291,11 +292,12 @@
             "country_id":85632509,
             "county_id":890451429,
             "locality_id":890434499,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890434499,
-    "wof:lastmodified":1690851831,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bais",
     "wof:parent_id":890451429,
     "wof:placetype":"locality",

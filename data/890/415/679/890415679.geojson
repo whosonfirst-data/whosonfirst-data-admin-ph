@@ -411,7 +411,8 @@
         102191569,
         85632509,
         85675971,
-        890429659
+        890429659,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -429,11 +430,12 @@
             "country_id":85632509,
             "county_id":890429659,
             "locality_id":890415679,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":890415679,
-    "wof:lastmodified":1690851640,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ozamiz City",
     "wof:parent_id":890429659,
     "wof:placetype":"locality",

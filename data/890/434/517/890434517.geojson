@@ -259,7 +259,8 @@
         102191569,
         85632509,
         85675961,
-        1108696767
+        1108696767,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -277,11 +278,12 @@
             "country_id":85632509,
             "county_id":1108696767,
             "locality_id":890434517,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":890434517,
-    "wof:lastmodified":1690851833,
+    "wof:lastmodified":1795733694,
     "wof:name":"Leon Postigo",
     "wof:parent_id":1108696767,
     "wof:placetype":"locality",

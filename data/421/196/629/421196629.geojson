@@ -237,7 +237,8 @@
         102191569,
         85632509,
         85675967,
-        1108697847
+        1108697847,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,11 +256,12 @@
             "country_id":85632509,
             "county_id":1108697847,
             "locality_id":421196629,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":421196629,
-    "wof:lastmodified":1690851503,
+    "wof:lastmodified":1795733694,
     "wof:name":"Josefina",
     "wof:parent_id":1108697847,
     "wof:placetype":"locality",

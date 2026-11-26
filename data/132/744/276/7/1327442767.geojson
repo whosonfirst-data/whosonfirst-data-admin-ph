@@ -69,7 +69,8 @@
         102191569,
         85632509,
         85676101,
-        1108699235
+        1108699235,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632509,
             "county_id":1108699235,
             "locality_id":1327442767,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1327442767,
-    "wof:lastmodified":1566679254,
+    "wof:lastmodified":1795733694,
     "wof:name":"Castellano",
     "wof:parent_id":1108699235,
     "wof:placetype":"locality",

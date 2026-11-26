@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676159,
-        1108698365
+        1108698365,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698365,
             "locality_id":1326763159,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1326763159,
-    "wof:lastmodified":1566679149,
+    "wof:lastmodified":1795733694,
     "wof:name":"Labote",
     "wof:parent_id":1108698365,
     "wof:placetype":"locality",

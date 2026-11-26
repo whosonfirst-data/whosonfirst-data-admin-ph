@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676161,
-        1108698121
+        1108698121,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698121,
             "locality_id":1309844229,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1309844229,
-    "wof:lastmodified":1566681700,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahayod-hayod",
     "wof:parent_id":1108698121,
     "wof:placetype":"locality",

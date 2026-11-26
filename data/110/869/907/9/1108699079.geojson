@@ -72,7 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676203
+        85676203,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,11 +88,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699079,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1108699079,
-    "wof:lastmodified":1695886667,
+    "wof:lastmodified":1795733694,
     "wof:name":"Saint Bernard",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

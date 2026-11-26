@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676021,
-        1108698069
+        1108698069,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698069,
             "locality_id":1210015049,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1210015049,
-    "wof:lastmodified":1566680823,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bigaho Norte",
     "wof:parent_id":1108698069,
     "wof:placetype":"locality",

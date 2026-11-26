@@ -115,7 +115,8 @@
         85632509,
         85676145,
         1108697285,
-        85676141
+        85676141,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,6 +130,7 @@
             "country_id":85632509,
             "county_id":1108697285,
             "locality_id":1243605259,
+            "macroregion_id":9895008393,
             "region_id":85676145
         },
         {
@@ -136,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108697285,
             "locality_id":1243605259,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1243605259,
-    "wof:lastmodified":1566682554,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tuna",
     "wof:parent_id":1108697285,
     "wof:placetype":"locality",

@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85675951,
-        1108699135
+        1108699135,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,11 +80,12 @@
             "country_id":85632509,
             "county_id":1108699135,
             "locality_id":890437821,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890437821,
-    "wof:lastmodified":1706240582,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baliwagan",
     "wof:parent_id":1108699135,
     "wof:placetype":"locality",

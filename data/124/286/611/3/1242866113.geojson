@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85675981,
-        1108697135
+        1108697135,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697135,
             "locality_id":1242866113,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1242866113,
-    "wof:lastmodified":1566682412,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alegria",
     "wof:parent_id":1108697135,
     "wof:placetype":"locality",

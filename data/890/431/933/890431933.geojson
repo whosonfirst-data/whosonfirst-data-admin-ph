@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85675945,
-        1108698357
+        1108698357,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +46,12 @@
             "country_id":85632509,
             "county_id":1108698357,
             "locality_id":890431933,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890431933,
-    "wof:lastmodified":1566681999,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bolisong",
     "wof:parent_id":1108698357,
     "wof:placetype":"locality",

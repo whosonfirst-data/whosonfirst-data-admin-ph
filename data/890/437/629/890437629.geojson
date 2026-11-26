@@ -71,7 +71,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676029
+        85676029,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":890437629,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890437629,
-    "wof:lastmodified":1695886384,
+    "wof:lastmodified":1795733694,
     "wof:name":"Province of Masbate",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

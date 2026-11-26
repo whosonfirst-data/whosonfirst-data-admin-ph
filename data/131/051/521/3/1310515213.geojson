@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108696739
+        1108696739,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696739,
             "locality_id":1310515213,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1310515213,
-    "wof:lastmodified":1566681527,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabruan",
     "wof:parent_id":1108696739,
     "wof:placetype":"locality",

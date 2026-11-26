@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676165,
-        1108697983
+        1108697983,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108697983,
             "localadmin_id":890437571,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":890437571,
-    "wof:lastmodified":1690851664,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municipality of Lala",
     "wof:parent_id":1108697983,
     "wof:placetype":"localadmin",

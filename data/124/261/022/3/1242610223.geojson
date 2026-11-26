@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676153,
-        1108698333
+        1108698333,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698333,
             "locality_id":1242610223,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1242610223,
-    "wof:lastmodified":1566682453,
+    "wof:lastmodified":1795733694,
     "wof:name":"Banaquit",
     "wof:parent_id":1108698333,
     "wof:placetype":"locality",

@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676201,
-        1108696927
+        1108696927,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108696927,
             "locality_id":1343659337,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1343659337,
-    "wof:lastmodified":1566679326,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paras",
     "wof:parent_id":1108696927,
     "wof:placetype":"locality",

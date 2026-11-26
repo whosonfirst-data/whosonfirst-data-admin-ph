@@ -127,7 +127,8 @@
         102191569,
         85632509,
         85675933,
-        1108697079
+        1108697079,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,11 +148,12 @@
             "country_id":85632509,
             "county_id":1108697079,
             "locality_id":1259379479,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1259379479,
-    "wof:lastmodified":1706240587,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buenavista",
     "wof:parent_id":1108697079,
     "wof:placetype":"locality",

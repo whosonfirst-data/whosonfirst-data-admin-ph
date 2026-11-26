@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676029
+        85676029,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +47,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890442331,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890442331,
-    "wof:lastmodified":1566682105,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panguiranan",
     "wof:parent_id":85676029,
     "wof:placetype":"locality",

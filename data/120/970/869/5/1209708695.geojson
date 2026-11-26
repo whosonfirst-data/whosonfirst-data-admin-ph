@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676029,
-        1108699153
+        1108699153,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699153,
             "locality_id":1209708695,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1209708695,
-    "wof:lastmodified":1566680563,
+    "wof:lastmodified":1795733694,
     "wof:name":"Matanbito",
     "wof:parent_id":1108699153,
     "wof:placetype":"locality",

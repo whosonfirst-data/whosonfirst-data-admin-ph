@@ -88,7 +88,8 @@
         102191569,
         85632509,
         85676061,
-        1108698555
+        1108698555,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108698555,
             "localadmin_id":1125376507,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1125376507,
-    "wof:lastmodified":1566682269,
+    "wof:lastmodified":1795733694,
     "wof:name":"Narvacan",
     "wof:parent_id":1108698555,
     "wof:placetype":"localadmin",

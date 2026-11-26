@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85675989,
-        1108697809
+        1108697809,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108697809,
             "locality_id":1226643283,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1226643283,
-    "wof:lastmodified":1636501267,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Vicente",
     "wof:parent_id":1108697809,
     "wof:placetype":"locality",

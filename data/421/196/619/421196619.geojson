@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676025,
-        1108697275
+        1108697275,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108697275,
             "locality_id":421196619,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":421196619,
-    "wof:lastmodified":1690851502,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caramoran",
     "wof:parent_id":1108697275,
     "wof:placetype":"locality",

@@ -295,7 +295,8 @@
         102191569,
         85632509,
         85676057,
-        1108696933
+        1108696933,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -313,11 +314,12 @@
             "country_id":85632509,
             "county_id":1108696933,
             "locality_id":890454059,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890454059,
-    "wof:lastmodified":1690851720,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batac City",
     "wof:parent_id":1108696933,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676191,
-        1108699297
+        1108699297,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699297,
             "locality_id":1276652001,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1276652001,
-    "wof:lastmodified":1566680411,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bahay",
     "wof:parent_id":1108699297,
     "wof:placetype":"locality",

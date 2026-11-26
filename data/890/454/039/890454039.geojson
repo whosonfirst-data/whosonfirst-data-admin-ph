@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676263,
-        1108699657
+        1108699657,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699657,
             "locality_id":890454039,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890454039,
-    "wof:lastmodified":1566682024,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lampitak",
     "wof:parent_id":1108699657,
     "wof:placetype":"locality",

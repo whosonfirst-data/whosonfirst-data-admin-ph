@@ -69,7 +69,8 @@
         102191569,
         85632509,
         85675945,
-        1108699477
+        1108699477,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632509,
             "county_id":1108699477,
             "locality_id":1260009353,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1260009353,
-    "wof:lastmodified":1566680988,
+    "wof:lastmodified":1795733694,
     "wof:name":"Look",
     "wof:parent_id":1108699477,
     "wof:placetype":"locality",

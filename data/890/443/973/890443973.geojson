@@ -188,7 +188,8 @@
         102191569,
         85632509,
         85676011,
-        1108699417
+        1108699417,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +207,12 @@
             "country_id":85632509,
             "county_id":1108699417,
             "locality_id":890443973,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":890443973,
-    "wof:lastmodified":1566682080,
+    "wof:lastmodified":1795733694,
     "wof:name":"Padang",
     "wof:parent_id":1108699417,
     "wof:placetype":"locality",

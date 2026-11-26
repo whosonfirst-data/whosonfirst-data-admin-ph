@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85675929,
-        1108696841
+        1108696841,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +45,12 @@
             "country_id":85632509,
             "county_id":1108696841,
             "locality_id":890416373,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":890416373,
-    "wof:lastmodified":1566682102,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ungus-Ungus",
     "wof:parent_id":1108696841,
     "wof:placetype":"locality",

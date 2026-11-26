@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676201,
-        1108697451
+        1108697451,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697451,
             "locality_id":1343445665,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1343445665,
-    "wof:lastmodified":1566679657,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sua",
     "wof:parent_id":1108697451,
     "wof:placetype":"locality",

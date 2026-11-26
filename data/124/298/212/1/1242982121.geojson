@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676097,
-        1108698445
+        1108698445,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698445,
             "locality_id":1242982121,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1242982121,
-    "wof:lastmodified":1566682607,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calabtangan",
     "wof:parent_id":1108698445,
     "wof:placetype":"locality",

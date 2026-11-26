@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676197,
-        1108697853
+        1108697853,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697853,
             "locality_id":1344141593,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1344141593,
-    "wof:lastmodified":1566679401,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calbasag",
     "wof:parent_id":1108697853,
     "wof:placetype":"locality",

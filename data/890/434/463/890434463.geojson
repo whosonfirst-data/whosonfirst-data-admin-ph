@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676021,
-        1108697043
+        1108697043,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,11 +247,12 @@
             "country_id":85632509,
             "county_id":1108697043,
             "locality_id":890434463,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890434463,
-    "wof:lastmodified":1690851830,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bombon",
     "wof:parent_id":1108697043,
     "wof:placetype":"locality",

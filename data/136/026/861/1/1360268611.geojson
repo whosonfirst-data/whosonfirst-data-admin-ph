@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675955,
-        1108697989
+        1108697989,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697989,
             "locality_id":1360268611,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":1360268611,
-    "wof:lastmodified":1566681647,
+    "wof:lastmodified":1795733694,
     "wof:name":"Monebal",
     "wof:parent_id":1108697989,
     "wof:placetype":"locality",

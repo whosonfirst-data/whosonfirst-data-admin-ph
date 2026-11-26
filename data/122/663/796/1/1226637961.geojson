@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675985,
-        1108698025
+        1108698025,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698025,
             "locality_id":1226637961,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1226637961,
-    "wof:lastmodified":1566683277,
+    "wof:lastmodified":1795733694,
     "wof:name":"Intao",
     "wof:parent_id":1108698025,
     "wof:placetype":"locality",

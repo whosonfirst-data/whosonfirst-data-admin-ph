@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676135,
-        1108697101
+        1108697101,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697101,
             "locality_id":890431895,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":890431895,
-    "wof:lastmodified":1566681991,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sulucan",
     "wof:parent_id":1108697101,
     "wof:placetype":"locality",

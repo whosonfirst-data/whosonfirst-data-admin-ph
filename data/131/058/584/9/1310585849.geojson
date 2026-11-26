@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676203,
-        1108697729
+        1108697729,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697729,
             "locality_id":1310585849,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1310585849,
-    "wof:lastmodified":1566681539,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canipa-an",
     "wof:parent_id":1108697729,
     "wof:placetype":"locality",

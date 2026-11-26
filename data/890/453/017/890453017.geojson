@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676161,
-        1108699611
+        1108699611,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108699611,
             "localadmin_id":890453017,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890453017,
-    "wof:lastmodified":1690851724,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagkawayan",
     "wof:parent_id":1108699611,
     "wof:placetype":"localadmin",

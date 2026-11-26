@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85676235,
-        1108698193
+        1108698193,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +59,12 @@
             "country_id":85632509,
             "county_id":1108698193,
             "locality_id":1310093413,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":1310093413,
-    "wof:lastmodified":1566681359,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tangnanan",
     "wof:parent_id":1108698193,
     "wof:placetype":"locality",

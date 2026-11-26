@@ -237,7 +237,8 @@
         102191569,
         85632509,
         85676079,
-        1108698815
+        1108698815,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -256,11 +257,12 @@
             "country_id":85632509,
             "county_id":1108698815,
             "locality_id":421181823,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":421181823,
-    "wof:lastmodified":1690851483,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paracelis",
     "wof:parent_id":1108698815,
     "wof:placetype":"locality",

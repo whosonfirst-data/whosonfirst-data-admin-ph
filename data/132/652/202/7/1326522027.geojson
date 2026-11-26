@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675993,
-        1108698827
+        1108698827,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698827,
             "locality_id":1326522027,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1326522027,
-    "wof:lastmodified":1566679198,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gebunauan",
     "wof:parent_id":1108698827,
     "wof:placetype":"locality",

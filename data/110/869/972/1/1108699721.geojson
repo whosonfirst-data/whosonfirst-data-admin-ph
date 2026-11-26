@@ -117,7 +117,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676127
+        85676127,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,11 +133,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699721,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1108699721,
-    "wof:lastmodified":1695886775,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ternate",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676239,
-        1108697631
+        1108697631,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697631,
             "locality_id":1310580195,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1310580195,
-    "wof:lastmodified":1566681538,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabalawan",
     "wof:parent_id":1108697631,
     "wof:placetype":"locality",

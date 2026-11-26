@@ -192,7 +192,8 @@
         102191569,
         85632509,
         85676111,
-        1108697095
+        1108697095,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +207,12 @@
             "country_id":85632509,
             "county_id":1108697095,
             "locality_id":1343433611,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1343433611,
-    "wof:lastmodified":1566679661,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bulbul",
     "wof:parent_id":1108697095,
     "wof:placetype":"locality",

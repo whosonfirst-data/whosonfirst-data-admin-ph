@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676365,
-        1108697017
+        1108697017,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108697017,
             "localadmin_id":890422117,
+            "macroregion_id":9895008390,
             "region_id":85676365
         }
     ],
     "wof:id":890422117,
-    "wof:lastmodified":1566681893,
+    "wof:lastmodified":1795733694,
     "wof:name":"Binmaley",
     "wof:parent_id":1108697017,
     "wof:placetype":"localadmin",

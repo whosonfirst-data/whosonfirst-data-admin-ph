@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676203,
-        1108698717
+        1108698717,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698717,
             "locality_id":1343848055,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1343848055,
-    "wof:lastmodified":1636500821,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tambo",
     "wof:parent_id":1108698717,
     "wof:placetype":"locality",

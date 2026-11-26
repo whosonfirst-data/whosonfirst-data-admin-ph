@@ -242,7 +242,8 @@
         102191569,
         85632509,
         85676309,
-        1108698611
+        1108698611,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,11 +262,12 @@
             "country_id":85632509,
             "county_id":1108698611,
             "locality_id":890422167,
+            "macroregion_id":9895008401,
             "region_id":85676309
         }
     ],
     "wof:id":890422167,
-    "wof:lastmodified":1690851611,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sarangani",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",

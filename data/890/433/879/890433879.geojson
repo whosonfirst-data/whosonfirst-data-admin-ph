@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675951,
-        1108697575
+        1108697575,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697575,
             "locality_id":890433879,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890433879,
-    "wof:lastmodified":1566682177,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tamlang",
     "wof:parent_id":1108697575,
     "wof:placetype":"locality",

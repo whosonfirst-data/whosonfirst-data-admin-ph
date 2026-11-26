@@ -252,7 +252,8 @@
         102191569,
         85632509,
         85676191,
-        1108697627
+        1108697627,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -271,11 +272,12 @@
             "country_id":85632509,
             "county_id":1108697627,
             "locality_id":421177259,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":421177259,
-    "wof:lastmodified":1690851550,
+    "wof:lastmodified":1795733694,
     "wof:name":"General MacArthur",
     "wof:parent_id":1108697627,
     "wof:placetype":"locality",

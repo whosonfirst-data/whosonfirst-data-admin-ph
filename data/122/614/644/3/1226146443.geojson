@@ -108,7 +108,8 @@
         102191569,
         85632509,
         85676057,
-        1108698901
+        1108698901,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,11 +123,12 @@
             "country_id":85632509,
             "county_id":1108698901,
             "locality_id":1226146443,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1226146443,
-    "wof:lastmodified":1636501255,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santo Tomas",
     "wof:parent_id":1108698901,
     "wof:placetype":"locality",

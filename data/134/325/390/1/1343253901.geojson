@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675989,
-        1108698881
+        1108698881,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698881,
             "locality_id":1343253901,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1343253901,
-    "wof:lastmodified":1566679520,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quinalcalan",
     "wof:parent_id":1108698881,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676017,
-        1108698461
+        1108698461,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698461,
             "locality_id":1360078085,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1360078085,
-    "wof:lastmodified":1566681566,
+    "wof:lastmodified":1795733694,
     "wof:name":"Manbungalon",
     "wof:parent_id":1108698461,
     "wof:placetype":"locality",

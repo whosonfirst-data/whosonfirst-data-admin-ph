@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675989,
-        890415145
+        890415145,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":890415145,
             "locality_id":890455967,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":890455967,
-    "wof:lastmodified":1566681974,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sibaguan",
     "wof:parent_id":890415145,
     "wof:placetype":"locality",

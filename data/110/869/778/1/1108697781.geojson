@@ -114,7 +114,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676277
+        85676277,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,11 +133,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697781,
+            "macroregion_id":9895008399,
             "region_id":85676277
         }
     ],
     "wof:id":1108697781,
-    "wof:lastmodified":1695886768,
+    "wof:lastmodified":1795733694,
     "wof:name":"Isabela",
     "wof:parent_id":85676277,
     "wof:placetype":"county",

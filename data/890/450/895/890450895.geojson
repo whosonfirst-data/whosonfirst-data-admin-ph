@@ -668,7 +668,8 @@
         102191569,
         85632509,
         85676003,
-        1108696699
+        1108696699,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -686,11 +687,12 @@
             "country_id":85632509,
             "county_id":1108696699,
             "locality_id":890450895,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890450895,
-    "wof:lastmodified":1566682194,
+    "wof:lastmodified":1795733694,
     "wof:name":"Osme\u00f1a",
     "wof:parent_id":1108696699,
     "wof:placetype":"locality",

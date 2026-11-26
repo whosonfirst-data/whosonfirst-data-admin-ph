@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676259,
-        1108698295
+        1108698295,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108698295,
             "locality_id":890436857,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":890436857,
-    "wof:lastmodified":1566681978,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lun Peque\u00f1o",
     "wof:parent_id":1108698295,
     "wof:placetype":"locality",

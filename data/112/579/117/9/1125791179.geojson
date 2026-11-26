@@ -241,7 +241,8 @@
         102191569,
         85632509,
         85676161,
-        1108698515
+        1108698515,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108698515,
             "locality_id":1125791179,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1125791179,
-    "wof:lastmodified":1690851927,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mulanay",
     "wof:parent_id":1108698515,
     "wof:placetype":"locality",

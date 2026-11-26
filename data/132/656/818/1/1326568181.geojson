@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676141,
-        1108698541
+        1108698541,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698541,
             "locality_id":1326568181,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1326568181,
-    "wof:lastmodified":1566679002,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kanluran Napapatid",
     "wof:parent_id":1108698541,
     "wof:placetype":"locality",

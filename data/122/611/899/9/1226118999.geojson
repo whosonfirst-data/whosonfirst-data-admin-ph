@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676263,
-        1108697937
+        1108697937,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697937,
             "locality_id":1226118999,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":1226118999,
-    "wof:lastmodified":1566683070,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marbel Walo",
     "wof:parent_id":1108697937,
     "wof:placetype":"locality",

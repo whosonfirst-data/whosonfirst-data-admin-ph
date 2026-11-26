@@ -49,7 +49,8 @@
         102191569,
         85632509,
         85675947,
-        1108698015
+        1108698015,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +64,12 @@
             "country_id":85632509,
             "county_id":1108698015,
             "locality_id":1259873965,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":1259873965,
-    "wof:lastmodified":1566682925,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basak",
     "wof:parent_id":1108698015,
     "wof:placetype":"locality",

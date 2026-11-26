@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676017,
-        1108699359
+        1108699359,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699359,
             "locality_id":1360177651,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1360177651,
-    "wof:lastmodified":1566681629,
+    "wof:lastmodified":1795733694,
     "wof:name":"Makahadok",
     "wof:parent_id":1108699359,
     "wof:placetype":"locality",

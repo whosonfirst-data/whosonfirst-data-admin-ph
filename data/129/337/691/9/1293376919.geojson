@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676179,
-        1108698245
+        1108698245,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698245,
             "locality_id":1293376919,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1293376919,
-    "wof:lastmodified":1566679756,
+    "wof:lastmodified":1795733694,
     "wof:name":"Midsungan",
     "wof:parent_id":1108698245,
     "wof:placetype":"locality",

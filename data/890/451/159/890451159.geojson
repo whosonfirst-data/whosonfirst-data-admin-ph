@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675975
+        85675975,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +46,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890451159,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890451159,
-    "wof:lastmodified":1566682118,
+    "wof:lastmodified":1795733694,
     "wof:name":"Latung",
     "wof:parent_id":85675975,
     "wof:placetype":"locality",

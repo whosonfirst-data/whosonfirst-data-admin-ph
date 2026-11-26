@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85675971,
-        1108697357
+        1108697357,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108697357,
             "locality_id":1243056323,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1243056323,
-    "wof:lastmodified":1566682564,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gata",
     "wof:parent_id":1108697357,
     "wof:placetype":"locality",

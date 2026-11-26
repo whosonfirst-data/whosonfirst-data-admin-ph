@@ -226,7 +226,8 @@
         102191569,
         85632509,
         85675989,
-        1108698335
+        1108698335,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,11 +245,12 @@
             "country_id":85632509,
             "county_id":1108698335,
             "locality_id":890415789,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":890415789,
-    "wof:lastmodified":1690851644,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mambusao",
     "wof:parent_id":1108698335,
     "wof:placetype":"locality",

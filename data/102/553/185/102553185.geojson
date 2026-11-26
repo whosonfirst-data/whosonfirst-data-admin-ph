@@ -40,7 +40,8 @@
     },
     "wof:belongsto":[
         85632509,
-        85676101
+        85676101,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
         {
             "campus_id":102553185,
             "country_id":85632509,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":102553185,
-    "wof:lastmodified":1631750247,
+    "wof:lastmodified":1795733694,
     "wof:name":"Fort Magsaysay Airport",
     "wof:parent_id":85676101,
     "wof:placetype":"campus",

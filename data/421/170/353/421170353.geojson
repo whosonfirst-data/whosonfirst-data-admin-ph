@@ -249,7 +249,8 @@
         102191569,
         85632509,
         85676197,
-        1108698449
+        1108698449,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,11 +269,12 @@
             "country_id":85632509,
             "county_id":1108698449,
             "locality_id":421170353,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":421170353,
-    "wof:lastmodified":1690851545,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mayorga",
     "wof:parent_id":1108698449,
     "wof:placetype":"locality",

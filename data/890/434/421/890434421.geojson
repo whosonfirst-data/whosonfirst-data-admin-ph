@@ -223,7 +223,8 @@
         102191569,
         85632509,
         85676017,
-        1108697261
+        1108697261,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,11 +242,12 @@
             "country_id":85632509,
             "county_id":1108697261,
             "locality_id":890434421,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":890434421,
-    "wof:lastmodified":1690851838,
+    "wof:lastmodified":1795733694,
     "wof:name":"Capalonga",
     "wof:parent_id":1108697261,
     "wof:placetype":"locality",

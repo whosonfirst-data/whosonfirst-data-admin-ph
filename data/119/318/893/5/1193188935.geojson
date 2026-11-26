@@ -105,7 +105,8 @@
         102191569,
         85632509,
         85676145,
-        1108697287
+        1108697287,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108697287,
             "locality_id":1193188935,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1193188935,
-    "wof:lastmodified":1566680922,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Roque",
     "wof:parent_id":1108697287,
     "wof:placetype":"locality",

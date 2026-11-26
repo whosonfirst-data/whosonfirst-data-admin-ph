@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676161,
-        1108699099
+        1108699099,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699099,
             "locality_id":1276590607,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1276590607,
-    "wof:lastmodified":1566680250,
+    "wof:lastmodified":1795733694,
     "wof:name":"Remedios I",
     "wof:parent_id":1108699099,
     "wof:placetype":"locality",

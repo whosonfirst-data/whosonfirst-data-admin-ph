@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676061,
-        1108699347
+        1108699347,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699347,
             "locality_id":1293797639,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1293797639,
-    "wof:lastmodified":1566679796,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nagtengga",
     "wof:parent_id":1108699347,
     "wof:placetype":"locality",

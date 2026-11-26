@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675993,
-        1108697163
+        1108697163,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697163,
             "locality_id":1327331029,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1327331029,
-    "wof:lastmodified":1566679123,
+    "wof:lastmodified":1795733694,
     "wof:name":"Suiayan",
     "wof:parent_id":1108697163,
     "wof:placetype":"locality",

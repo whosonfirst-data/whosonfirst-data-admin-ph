@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676083,
-        1108697915
+        1108697915,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697915,
             "locality_id":1344259175,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1344259175,
-    "wof:lastmodified":1566679395,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panaitan",
     "wof:parent_id":1108697915,
     "wof:placetype":"locality",

@@ -86,7 +86,8 @@
         102191569,
         85632509,
         85676249,
-        1108697649
+        1108697649,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,11 +104,12 @@
             "country_id":85632509,
             "county_id":1108697649,
             "locality_id":421201135,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":421201135,
-    "wof:lastmodified":1566681858,
+    "wof:lastmodified":1795733694,
     "wof:name":"Odiongan",
     "wof:parent_id":1108697649,
     "wof:placetype":"locality",

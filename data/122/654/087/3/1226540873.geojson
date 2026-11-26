@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676097,
-        1108698791
+        1108698791,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698791,
             "locality_id":1226540873,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1226540873,
-    "wof:lastmodified":1566683318,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Gregorio",
     "wof:parent_id":1108698791,
     "wof:placetype":"locality",

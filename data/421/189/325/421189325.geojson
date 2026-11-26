@@ -242,7 +242,8 @@
         102191569,
         85632509,
         85675933,
-        1108699761
+        1108699761,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,11 +261,12 @@
             "country_id":85632509,
             "county_id":1108699761,
             "locality_id":421189325,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":421189325,
-    "wof:lastmodified":1690851470,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abuyog",
     "wof:parent_id":1108699761,
     "wof:placetype":"locality",

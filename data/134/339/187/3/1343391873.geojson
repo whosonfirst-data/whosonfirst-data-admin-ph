@@ -162,7 +162,8 @@
         102191569,
         85632509,
         85676153,
-        1108696551
+        1108696551,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,11 +177,12 @@
             "country_id":85632509,
             "county_id":1108696551,
             "locality_id":1343391873,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1343391873,
-    "wof:lastmodified":1636500812,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tara",
     "wof:parent_id":1108696551,
     "wof:placetype":"locality",

@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85676079,
-        1108698565
+        1108698565,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,11 +254,12 @@
             "country_id":85632509,
             "county_id":1108698565,
             "locality_id":421191875,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":421191875,
-    "wof:lastmodified":1690851511,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tinglayan",
     "wof:parent_id":1108698565,
     "wof:placetype":"locality",

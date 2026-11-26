@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676123,
-        1108696881
+        1108696881,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696881,
             "locality_id":1344270871,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1344270871,
-    "wof:lastmodified":1566679599,
+    "wof:lastmodified":1795733694,
     "wof:name":"Quinaoayanan",
     "wof:parent_id":1108696881,
     "wof:placetype":"locality",

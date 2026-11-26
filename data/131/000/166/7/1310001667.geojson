@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675967,
-        1108698391
+        1108698391,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698391,
             "locality_id":1310001667,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1310001667,
-    "wof:lastmodified":1566681351,
+    "wof:lastmodified":1795733694,
     "wof:name":"Samal",
     "wof:parent_id":1108698391,
     "wof:placetype":"locality",

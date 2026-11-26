@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676097,
-        1108698791
+        1108698791,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698791,
             "locality_id":1310702687,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1310702687,
-    "wof:lastmodified":1566681297,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Juan de Milla",
     "wof:parent_id":1108698791,
     "wof:placetype":"locality",

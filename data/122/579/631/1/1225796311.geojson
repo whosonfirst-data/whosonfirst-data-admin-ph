@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676145,
-        1108699719
+        1108699719,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699719,
             "locality_id":1225796311,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1225796311,
-    "wof:lastmodified":1566683349,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagumbayan",
     "wof:parent_id":1108699719,
     "wof:placetype":"locality",

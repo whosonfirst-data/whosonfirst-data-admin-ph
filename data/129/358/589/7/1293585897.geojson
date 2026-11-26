@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85675939,
-        890432909
+        890432909,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":890432909,
             "locality_id":1293585897,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1293585897,
-    "wof:lastmodified":1566679936,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camiling",
     "wof:parent_id":890432909,
     "wof:placetype":"locality",

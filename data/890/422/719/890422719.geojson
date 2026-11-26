@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85675989,
-        1108698177
+        1108698177,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,11 +244,12 @@
             "country_id":85632509,
             "county_id":1108698177,
             "locality_id":890422719,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":890422719,
-    "wof:lastmodified":1690851616,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maayon",
     "wof:parent_id":1108698177,
     "wof:placetype":"locality",

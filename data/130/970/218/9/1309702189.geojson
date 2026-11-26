@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676209,
-        1108698739
+        1108698739,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698739,
             "locality_id":1309702189,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1309702189,
-    "wof:lastmodified":1566681704,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tikiruhan",
     "wof:parent_id":1108698739,
     "wof:placetype":"locality",

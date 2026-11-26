@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676209,
-        1108698641
+        1108698641,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698641,
             "locality_id":1276748207,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":1276748207,
-    "wof:lastmodified":1566680187,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pagsang-an",
     "wof:parent_id":1108698641,
     "wof:placetype":"locality",

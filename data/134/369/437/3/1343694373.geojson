@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676003,
-        1108697545
+        1108697545,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697545,
             "locality_id":1343694373,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1343694373,
-    "wof:lastmodified":1566679551,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calasag",
     "wof:parent_id":1108697545,
     "wof:placetype":"locality",

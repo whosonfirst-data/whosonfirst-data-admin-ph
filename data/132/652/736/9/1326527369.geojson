@@ -141,7 +141,8 @@
         102191569,
         85632509,
         85675993,
-        1108697527
+        1108697527,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,11 +156,12 @@
             "country_id":85632509,
             "county_id":1108697527,
             "locality_id":1326527369,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1326527369,
-    "wof:lastmodified":1636500796,
+    "wof:lastmodified":1795733694,
     "wof:name":"Romblon",
     "wof:parent_id":1108697527,
     "wof:placetype":"locality",

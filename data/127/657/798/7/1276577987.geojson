@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676149,
-        1108698491
+        1108698491,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698491,
             "locality_id":1276577987,
+            "macroregion_id":9895008394,
             "region_id":85676149
         }
     ],
     "wof:id":1276577987,
-    "wof:lastmodified":1566680265,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ino",
     "wof:parent_id":1108698491,
     "wof:placetype":"locality",

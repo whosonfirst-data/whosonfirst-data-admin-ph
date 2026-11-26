@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676061,
-        1108699553
+        1108699553,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699553,
             "locality_id":1360198243,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1360198243,
-    "wof:lastmodified":1566681653,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dalipey",
     "wof:parent_id":1108699553,
     "wof:placetype":"locality",

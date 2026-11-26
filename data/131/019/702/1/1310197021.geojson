@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675993,
-        1108699269
+        1108699269,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699269,
             "locality_id":1310197021,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1310197021,
-    "wof:lastmodified":1566681467,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sulong",
     "wof:parent_id":1108699269,
     "wof:placetype":"locality",

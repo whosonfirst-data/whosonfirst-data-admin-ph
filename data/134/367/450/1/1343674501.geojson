@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676083,
-        1108697915
+        1108697915,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697915,
             "locality_id":1343674501,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1343674501,
-    "wof:lastmodified":1566679562,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nansiakan",
     "wof:parent_id":1108697915,
     "wof:placetype":"locality",

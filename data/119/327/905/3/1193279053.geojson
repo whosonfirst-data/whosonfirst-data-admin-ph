@@ -64,7 +64,8 @@
         102191569,
         85632509,
         85676061,
-        1108699575
+        1108699575,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "country_id":85632509,
             "county_id":1108699575,
             "locality_id":1193279053,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1193279053,
-    "wof:lastmodified":1566680932,
+    "wof:lastmodified":1795733694,
     "wof:name":"Oso",
     "wof:parent_id":1108699575,
     "wof:placetype":"locality",

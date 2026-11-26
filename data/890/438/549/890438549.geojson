@@ -85,7 +85,8 @@
         102191569,
         85632509,
         85676217,
-        1108697117
+        1108697117,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,11 +102,12 @@
             "country_id":85632509,
             "county_id":1108697117,
             "localadmin_id":890438549,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":890438549,
-    "wof:lastmodified":1566682020,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bunawan",
     "wof:parent_id":1108697117,
     "wof:placetype":"localadmin",

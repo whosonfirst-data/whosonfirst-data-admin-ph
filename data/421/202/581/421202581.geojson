@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676183,
-        1108698171
+        1108698171,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108698171,
             "locality_id":421202581,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":421202581,
-    "wof:lastmodified":1690851428,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lutayan",
     "wof:parent_id":1108698171,
     "wof:placetype":"locality",

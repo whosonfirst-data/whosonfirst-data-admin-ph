@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676029,
-        1108697479
+        1108697479,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108697479,
             "locality_id":890440265,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890440265,
-    "wof:lastmodified":1566681888,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balucawi",
     "wof:parent_id":1108697479,
     "wof:placetype":"locality",

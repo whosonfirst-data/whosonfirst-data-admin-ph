@@ -223,7 +223,8 @@
         102191569,
         85632509,
         85676021,
-        1108698601
+        1108698601,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,11 +242,12 @@
             "country_id":85632509,
             "county_id":1108698601,
             "locality_id":890431773,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890431773,
-    "wof:lastmodified":1690851700,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tinambac",
     "wof:parent_id":1108698601,
     "wof:placetype":"locality",

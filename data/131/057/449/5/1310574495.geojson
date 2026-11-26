@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108698631
+        1108698631,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698631,
             "locality_id":1310574495,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1310574495,
-    "wof:lastmodified":1566681502,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magonaya",
     "wof:parent_id":1108698631,
     "wof:placetype":"locality",

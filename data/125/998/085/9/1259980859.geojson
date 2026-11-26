@@ -111,7 +111,8 @@
         102191569,
         85632509,
         85676107,
-        1108697595
+        1108697595,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,11 +126,12 @@
             "country_id":85632509,
             "county_id":1108697595,
             "locality_id":1259980859,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1259980859,
-    "wof:lastmodified":1636501213,
+    "wof:lastmodified":1795733694,
     "wof:name":"Valdez",
     "wof:parent_id":1108697595,
     "wof:placetype":"locality",

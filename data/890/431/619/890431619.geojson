@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676029,
-        1108699295
+        1108699295,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108699295,
             "locality_id":890431619,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890431619,
-    "wof:lastmodified":1690851688,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Pascual",
     "wof:parent_id":1108699295,
     "wof:placetype":"locality",

@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676061
+        85676061,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +47,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890443961,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":890443961,
-    "wof:lastmodified":1566682069,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puro Pinget",
     "wof:parent_id":85676061,
     "wof:placetype":"locality",

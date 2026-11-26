@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675945,
-        1108699681
+        1108699681,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699681,
             "locality_id":1243099929,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1243099929,
-    "wof:lastmodified":1566682343,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malatapay",
     "wof:parent_id":1108699681,
     "wof:placetype":"locality",

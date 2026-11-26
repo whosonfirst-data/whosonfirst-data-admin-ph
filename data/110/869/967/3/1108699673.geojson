@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675929
+        85675929,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699673,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":1108699673,
-    "wof:lastmodified":1695886409,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tandubas",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

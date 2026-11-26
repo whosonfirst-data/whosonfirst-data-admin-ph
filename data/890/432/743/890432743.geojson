@@ -92,7 +92,8 @@
         102191569,
         85632509,
         85676165,
-        1108698799
+        1108698799,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,11 +110,12 @@
             "country_id":85632509,
             "county_id":1108698799,
             "localadmin_id":890432743,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":890432743,
-    "wof:lastmodified":1566682246,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pantar",
     "wof:parent_id":1108698799,
     "wof:placetype":"localadmin",

@@ -153,7 +153,8 @@
         102191569,
         85632509,
         85676217,
-        1108699625
+        1108699625,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,11 +168,12 @@
             "country_id":85632509,
             "county_id":1108699625,
             "locality_id":1243433263,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":1243433263,
-    "wof:lastmodified":1636501211,
+    "wof:lastmodified":1795733694,
     "wof:name":"Zamora",
     "wof:parent_id":1108699625,
     "wof:placetype":"locality",

@@ -445,7 +445,8 @@
         102191569,
         85632509,
         85676341,
-        1108697785
+        1108697785,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -463,11 +464,12 @@
             "country_id":85632509,
             "county_id":1108697785,
             "locality_id":421189465,
+            "macroregion_id":9895008398,
             "region_id":85676341
         }
     ],
     "wof:id":421189465,
-    "wof:lastmodified":1690851469,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tacloban City",
     "wof:parent_id":1108697785,
     "wof:placetype":"locality",

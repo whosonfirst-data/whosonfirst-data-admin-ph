@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676203,
-        1108697731
+        1108697731,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108697731,
             "locality_id":1310289757,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1310289757,
-    "wof:lastmodified":1566681455,
+    "wof:lastmodified":1795733694,
     "wof:name":"Plaridel",
     "wof:parent_id":1108697731,
     "wof:placetype":"locality",

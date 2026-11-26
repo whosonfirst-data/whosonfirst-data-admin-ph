@@ -39,7 +39,8 @@
         102191569,
         85632509,
         1108810255,
-        1108697839
+        1108697839,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697839,
             "locality_id":1193258645,
+            "macroregion_id":9895008401,
             "region_id":1108810255
         }
     ],
     "wof:id":1193258645,
-    "wof:lastmodified":1566680900,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malalan",
     "wof:parent_id":1108697839,
     "wof:placetype":"locality",

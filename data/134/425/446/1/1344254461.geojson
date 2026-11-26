@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675985,
-        1108696901
+        1108696901,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696901,
             "locality_id":1344254461,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1344254461,
-    "wof:lastmodified":1566679388,
+    "wof:lastmodified":1795733694,
     "wof:name":"Latason",
     "wof:parent_id":1108696901,
     "wof:placetype":"locality",

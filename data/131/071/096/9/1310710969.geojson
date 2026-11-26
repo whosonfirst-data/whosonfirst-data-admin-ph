@@ -132,7 +132,8 @@
         102191569,
         85632509,
         85676119,
-        1108699151
+        1108699151,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,11 +147,12 @@
             "country_id":85632509,
             "county_id":1108699151,
             "locality_id":1310710969,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1310710969,
-    "wof:lastmodified":1636501048,
+    "wof:lastmodified":1795733694,
     "wof:name":"Negro",
     "wof:parent_id":1108699151,
     "wof:placetype":"locality",

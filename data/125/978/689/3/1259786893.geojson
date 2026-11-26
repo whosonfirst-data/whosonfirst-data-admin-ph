@@ -85,7 +85,8 @@
         102191569,
         85632509,
         85676061,
-        1108697669
+        1108697669,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,11 +101,12 @@
             "country_id":85632509,
             "county_id":1108697669,
             "locality_id":1259786893,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1259786893,
-    "wof:lastmodified":1566682819,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gregorio del Pilar",
     "wof:parent_id":1108697669,
     "wof:placetype":"locality",

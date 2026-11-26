@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676047,
-        1108697745
+        1108697745,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697745,
             "locality_id":1276241059,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1276241059,
-    "wof:lastmodified":1566680326,
+    "wof:lastmodified":1795733694,
     "wof:name":"Manaoag",
     "wof:parent_id":1108697745,
     "wof:placetype":"locality",

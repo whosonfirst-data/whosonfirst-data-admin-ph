@@ -37,7 +37,8 @@
         102191569,
         85632509,
         85676073,
-        1108697129
+        1108697129,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697129,
             "locality_id":890415255,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890415255,
-    "wof:lastmodified":1566681929,
+    "wof:lastmodified":1795733694,
     "wof:name":"Collalabo",
     "wof:parent_id":1108697129,
     "wof:placetype":"locality",

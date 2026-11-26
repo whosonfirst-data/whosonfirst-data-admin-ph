@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675971,
-        1108699503
+        1108699503,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699503,
             "locality_id":1310495271,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1310495271,
-    "wof:lastmodified":1566681318,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sungan",
     "wof:parent_id":1108699503,
     "wof:placetype":"locality",

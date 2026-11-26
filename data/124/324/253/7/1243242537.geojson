@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676217,
-        1108699037
+        1108699037,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699037,
             "locality_id":1243242537,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":1243242537,
-    "wof:lastmodified":1566682500,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mabtay",
     "wof:parent_id":1108699037,
     "wof:placetype":"locality",

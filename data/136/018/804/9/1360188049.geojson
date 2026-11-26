@@ -132,7 +132,8 @@
         102191569,
         85632509,
         85676061,
-        1108697253
+        1108697253,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,11 +147,12 @@
             "country_id":85632509,
             "county_id":1108697253,
             "locality_id":1360188049,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1360188049,
-    "wof:lastmodified":1566681608,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abaya",
     "wof:parent_id":1108697253,
     "wof:placetype":"locality",

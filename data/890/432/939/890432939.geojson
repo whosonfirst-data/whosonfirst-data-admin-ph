@@ -217,7 +217,8 @@
         102191569,
         85632509,
         85676021,
-        1108697237
+        1108697237,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,11 +236,12 @@
             "country_id":85632509,
             "county_id":1108697237,
             "locality_id":890432939,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890432939,
-    "wof:lastmodified":1690851883,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canaman",
     "wof:parent_id":1108697237,
     "wof:placetype":"locality",

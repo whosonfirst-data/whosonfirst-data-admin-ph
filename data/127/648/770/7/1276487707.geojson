@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676161,
-        1108698931
+        1108698931,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698931,
             "locality_id":1276487707,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1276487707,
-    "wof:lastmodified":1566680358,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tamulaya-Anitong",
     "wof:parent_id":1108698931,
     "wof:placetype":"locality",

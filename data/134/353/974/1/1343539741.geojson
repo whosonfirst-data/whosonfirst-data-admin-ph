@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676249,
-        1108697975
+        1108697975,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697975,
             "locality_id":1343539741,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":1343539741,
-    "wof:lastmodified":1566679347,
+    "wof:lastmodified":1795733694,
     "wof:name":"Umagos",
     "wof:parent_id":1108697975,
     "wof:placetype":"locality",

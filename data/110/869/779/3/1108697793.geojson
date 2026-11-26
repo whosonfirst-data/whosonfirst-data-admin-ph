@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676111
+        85676111,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697793,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1108697793,
-    "wof:lastmodified":1695886307,
+    "wof:lastmodified":1795733694,
     "wof:name":"Itogon",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

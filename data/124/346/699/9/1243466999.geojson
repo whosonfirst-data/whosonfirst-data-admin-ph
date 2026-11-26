@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676083,
-        1108696621
+        1108696621,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696621,
             "locality_id":1243466999,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1243466999,
-    "wof:lastmodified":1566682491,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paduk",
     "wof:parent_id":1108696621,
     "wof:placetype":"locality",

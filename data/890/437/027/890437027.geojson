@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676259,
-        1108698659
+        1108698659,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698659,
             "locality_id":890437027,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":890437027,
-    "wof:lastmodified":1566681955,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lumazal",
     "wof:parent_id":1108698659,
     "wof:placetype":"locality",

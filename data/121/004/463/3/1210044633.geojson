@@ -102,7 +102,8 @@
         102191569,
         85632509,
         85675945,
-        1108696973
+        1108696973,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,11 +117,12 @@
             "country_id":85632509,
             "county_id":1108696973,
             "locality_id":1210044633,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1210044633,
-    "wof:lastmodified":1636500984,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Ramon",
     "wof:parent_id":1108696973,
     "wof:placetype":"locality",

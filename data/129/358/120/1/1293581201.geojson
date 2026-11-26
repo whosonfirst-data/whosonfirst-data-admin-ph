@@ -609,7 +609,8 @@
         102191569,
         85632509,
         85675993,
-        1108696917
+        1108696917,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -623,11 +624,12 @@
             "country_id":85632509,
             "county_id":1108696917,
             "locality_id":1293581201,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1293581201,
-    "wof:lastmodified":1566679935,
+    "wof:lastmodified":1795733694,
     "wof:name":"California",
     "wof:parent_id":1108696917,
     "wof:placetype":"locality",

@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676057
+        85676057,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,11 +115,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696739,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1108696739,
-    "wof:lastmodified":1695886673,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacarra",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

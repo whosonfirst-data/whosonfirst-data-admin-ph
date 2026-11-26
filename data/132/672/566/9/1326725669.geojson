@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676197,
-        1108698051
+        1108698051,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698051,
             "locality_id":1326725669,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1326725669,
-    "wof:lastmodified":1566678955,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sambulawa",
     "wof:parent_id":1108698051,
     "wof:placetype":"locality",

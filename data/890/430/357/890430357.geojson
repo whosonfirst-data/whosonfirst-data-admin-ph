@@ -76,7 +76,8 @@
         102191569,
         85632509,
         85676191,
-        1108696811
+        1108696811,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108696811,
             "localadmin_id":890430357,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":890430357,
-    "wof:lastmodified":1566681942,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balangkayan",
     "wof:parent_id":1108696811,
     "wof:placetype":"localadmin",

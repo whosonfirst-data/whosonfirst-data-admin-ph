@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676127,
-        1108697453
+        1108697453,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697453,
             "locality_id":1344099039,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1344099039,
-    "wof:lastmodified":1566679441,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Lorenzo Ruiz Segundo",
     "wof:parent_id":1108697453,
     "wof:placetype":"locality",

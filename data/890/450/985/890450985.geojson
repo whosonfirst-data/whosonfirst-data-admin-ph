@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676127,
-        1108696623
+        1108696623,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108696623,
             "locality_id":890450985,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890450985,
-    "wof:lastmodified":1566682201,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mangas",
     "wof:parent_id":1108696623,
     "wof:placetype":"locality",

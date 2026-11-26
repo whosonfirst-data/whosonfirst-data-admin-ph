@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675975,
-        1108698837
+        1108698837,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698837,
             "locality_id":1310078855,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1310078855,
-    "wof:lastmodified":1566681349,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sanda",
     "wof:parent_id":1108698837,
     "wof:placetype":"locality",

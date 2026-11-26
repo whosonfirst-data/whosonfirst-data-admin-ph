@@ -64,7 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676169
+        85676169,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,11 +80,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697899,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1108697899,
-    "wof:lastmodified":1695886693,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kapatagan",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

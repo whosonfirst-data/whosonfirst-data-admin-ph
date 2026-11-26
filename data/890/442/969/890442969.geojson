@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676235,
-        1108698571
+        1108698571,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108698571,
             "localadmin_id":890442969,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":890442969,
-    "wof:lastmodified":1566682112,
+    "wof:lastmodified":1795733694,
     "wof:name":"New Bataan",
     "wof:parent_id":1108698571,
     "wof:placetype":"localadmin",

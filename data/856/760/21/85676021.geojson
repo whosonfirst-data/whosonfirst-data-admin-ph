@@ -343,7 +343,8 @@
     "wd:wordcount":2278,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -366,6 +367,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
@@ -385,9 +387,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884878,
+    "wof:lastmodified":1795733694,
     "wof:name":"Camarines Sur",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008395,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:shortcode":"CS",

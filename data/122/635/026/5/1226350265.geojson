@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676047,
-        1108696665
+        1108696665,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108696665,
             "locality_id":1226350265,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1226350265,
-    "wof:lastmodified":1566683133,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bakring Sur",
     "wof:parent_id":1108696665,
     "wof:placetype":"locality",

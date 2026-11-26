@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676263,
-        1108699683
+        1108699683,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108699683,
             "locality_id":890434445,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890434445,
-    "wof:lastmodified":1566682158,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bucay Pait",
     "wof:parent_id":1108699683,
     "wof:placetype":"locality",

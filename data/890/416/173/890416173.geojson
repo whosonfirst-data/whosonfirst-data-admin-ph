@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676161,
-        1108699451
+        1108699451,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699451,
             "locality_id":890416173,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890416173,
-    "wof:lastmodified":1566682094,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bignay Uno",
     "wof:parent_id":1108699451,
     "wof:placetype":"locality",

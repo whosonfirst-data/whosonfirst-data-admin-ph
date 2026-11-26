@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676221,
-        1108699565
+        1108699565,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108699565,
             "locality_id":890440455,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":890440455,
-    "wof:lastmodified":1690851605,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sumilao",
     "wof:parent_id":1108699565,
     "wof:placetype":"locality",

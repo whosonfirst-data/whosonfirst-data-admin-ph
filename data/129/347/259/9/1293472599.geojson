@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676079,
-        1108699069
+        1108699069,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699069,
             "locality_id":1293472599,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1293472599,
-    "wof:lastmodified":1566679861,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nacagang",
     "wof:parent_id":1108699069,
     "wof:placetype":"locality",

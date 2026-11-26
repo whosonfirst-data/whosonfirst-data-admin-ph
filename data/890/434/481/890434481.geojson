@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676277,
-        1108697781
+        1108697781,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697781,
             "locality_id":890434481,
+            "macroregion_id":9895008399,
             "region_id":85676277
         }
     ],
     "wof:id":890434481,
-    "wof:lastmodified":1566682156,
+    "wof:lastmodified":1795733694,
     "wof:name":"Begang",
     "wof:parent_id":1108697781,
     "wof:placetype":"locality",

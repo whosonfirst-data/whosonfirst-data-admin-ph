@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85676187,
-        1108696647
+        1108696647,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +59,12 @@
             "country_id":85632509,
             "county_id":1108696647,
             "locality_id":1327318435,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":1327318435,
-    "wof:lastmodified":1566678940,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jamoraon",
     "wof:parent_id":1108696647,
     "wof:placetype":"locality",

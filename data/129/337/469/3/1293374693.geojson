@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676201,
-        1108697609
+        1108697609,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108697609,
             "locality_id":1293374693,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1293374693,
-    "wof:lastmodified":1566679756,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jazimines",
     "wof:parent_id":1108697609,
     "wof:placetype":"locality",

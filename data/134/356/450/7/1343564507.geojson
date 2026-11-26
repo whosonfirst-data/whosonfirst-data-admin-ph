@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108699229
+        1108699229,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699229,
             "locality_id":1343564507,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1343564507,
-    "wof:lastmodified":1566679556,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pacpacac",
     "wof:parent_id":1108699229,
     "wof:placetype":"locality",

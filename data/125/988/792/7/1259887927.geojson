@@ -50,7 +50,8 @@
         102191569,
         85632509,
         85676073,
-        1108696595
+        1108696595,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632509,
             "county_id":1108696595,
             "locality_id":1259887927,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1259887927,
-    "wof:lastmodified":1566682948,
+    "wof:lastmodified":1795733694,
     "wof:name":"Fusi",
     "wof:parent_id":1108696595,
     "wof:placetype":"locality",

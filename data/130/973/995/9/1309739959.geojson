@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676153,
-        1108698643
+        1108698643,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698643,
             "locality_id":1309739959,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1309739959,
-    "wof:lastmodified":1566681752,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guiod",
     "wof:parent_id":1108698643,
     "wof:placetype":"locality",

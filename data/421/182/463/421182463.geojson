@@ -282,7 +282,8 @@
         102191569,
         85632509,
         85676187,
-        1108696997
+        1108696997,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -300,11 +301,12 @@
             "country_id":85632509,
             "county_id":1108696997,
             "locality_id":421182463,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":421182463,
-    "wof:lastmodified":1690851591,
+    "wof:lastmodified":1795733694,
     "wof:name":"Biliran",
     "wof:parent_id":1108696997,
     "wof:placetype":"locality",

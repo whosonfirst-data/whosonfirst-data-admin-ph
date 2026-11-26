@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676169,
-        1108697509
+        1108697509,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697509,
             "locality_id":1292984157,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1292984157,
-    "wof:lastmodified":1566679958,
+    "wof:lastmodified":1795733694,
     "wof:name":"Disuun",
     "wof:parent_id":1108697509,
     "wof:placetype":"locality",

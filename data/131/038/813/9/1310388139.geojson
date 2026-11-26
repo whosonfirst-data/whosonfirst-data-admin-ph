@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676079,
-        1108696911
+        1108696911,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696911,
             "locality_id":1310388139,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1310388139,
-    "wof:lastmodified":1566681347,
+    "wof:lastmodified":1795733694,
     "wof:name":"Macalenna",
     "wof:parent_id":1108696911,
     "wof:placetype":"locality",

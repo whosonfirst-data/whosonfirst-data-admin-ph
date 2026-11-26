@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676083,
-        1108696705
+        1108696705,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -245,11 +246,12 @@
             "country_id":85632509,
             "county_id":1108696705,
             "localadmin_id":890442263,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":890442263,
-    "wof:lastmodified":1690851807,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aritao",
     "wof:parent_id":1108696705,
     "wof:placetype":"localadmin",

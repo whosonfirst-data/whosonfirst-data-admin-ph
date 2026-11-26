@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676029,
-        1108697479
+        1108697479,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697479,
             "locality_id":1243553027,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1243553027,
-    "wof:lastmodified":1566682386,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bantigue",
     "wof:parent_id":1108697479,
     "wof:placetype":"locality",

@@ -202,7 +202,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676253
+        85676253,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -217,11 +218,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699345,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1108699345,
-    "wof:lastmodified":1695886772,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85676253,
     "wof:placetype":"county",

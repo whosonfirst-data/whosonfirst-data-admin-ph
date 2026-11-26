@@ -339,7 +339,8 @@
         102191569,
         85632509,
         85676323,
-        1108697181
+        1108697181,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -353,11 +354,12 @@
             "country_id":85632509,
             "county_id":1108697181,
             "locality_id":1293383621,
+            "macroregion_id":9895008400,
             "region_id":85676323
         }
     ],
     "wof:id":1293383621,
-    "wof:lastmodified":1566679704,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nazareth",
     "wof:parent_id":1108697181,
     "wof:placetype":"locality",

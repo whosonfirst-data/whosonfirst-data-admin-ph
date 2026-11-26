@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85676263,
-        1108698675
+        1108698675,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +45,12 @@
             "country_id":85632509,
             "county_id":1108698675,
             "localadmin_id":890440485,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890440485,
-    "wof:lastmodified":1566681884,
+    "wof:lastmodified":1795733694,
     "wof:name":"Norala",
     "wof:parent_id":1108698675,
     "wof:placetype":"localadmin",

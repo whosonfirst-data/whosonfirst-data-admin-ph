@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676197,
-        1108699863
+        1108699863,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699863,
             "locality_id":1226630917,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1226630917,
-    "wof:lastmodified":1566683277,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hibuluangan",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

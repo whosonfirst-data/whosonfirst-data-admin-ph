@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675951,
-        1108697343
+        1108697343,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697343,
             "locality_id":1344185309,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1344185309,
-    "wof:lastmodified":1566679597,
+    "wof:lastmodified":1795733694,
     "wof:name":"Eliban",
     "wof:parent_id":1108697343,
     "wof:placetype":"locality",

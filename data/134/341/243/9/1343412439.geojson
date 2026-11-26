@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676161,
-        1108698121
+        1108698121,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108698121,
             "locality_id":1343412439,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1343412439,
-    "wof:lastmodified":1566679458,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Brigida",
     "wof:parent_id":1108698121,
     "wof:placetype":"locality",

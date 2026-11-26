@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676179,
-        1108698245
+        1108698245,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698245,
             "locality_id":1225824827,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1225824827,
-    "wof:lastmodified":1566683335,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kiab",
     "wof:parent_id":1108698245,
     "wof:placetype":"locality",

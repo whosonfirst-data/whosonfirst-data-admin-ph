@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676153,
-        1108698753
+        1108698753,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698753,
             "localadmin_id":1125412687,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1125412687,
-    "wof:lastmodified":1566682292,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paluan",
     "wof:parent_id":1108698753,
     "wof:placetype":"localadmin",

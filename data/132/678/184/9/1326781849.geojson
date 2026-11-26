@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676145,
-        1108696691
+        1108696691,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696691,
             "locality_id":1326781849,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1326781849,
-    "wof:lastmodified":1566679168,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lumbangan",
     "wof:parent_id":1108696691,
     "wof:placetype":"locality",

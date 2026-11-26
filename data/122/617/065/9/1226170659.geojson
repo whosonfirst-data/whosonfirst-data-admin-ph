@@ -49,7 +49,8 @@
         102191569,
         85632509,
         85675951,
-        1108697727
+        1108697727,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +64,12 @@
             "country_id":85632509,
             "county_id":1108697727,
             "locality_id":1226170659,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1226170659,
-    "wof:lastmodified":1566683021,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pook",
     "wof:parent_id":1108697727,
     "wof:placetype":"locality",

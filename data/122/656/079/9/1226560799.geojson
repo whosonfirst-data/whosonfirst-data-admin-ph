@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85675961,
-        1108699507
+        1108699507,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699507,
             "locality_id":1226560799,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1226560799,
-    "wof:lastmodified":1566683102,
+    "wof:lastmodified":1795733694,
     "wof:name":"Siayong",
     "wof:parent_id":1108699507,
     "wof:placetype":"locality",

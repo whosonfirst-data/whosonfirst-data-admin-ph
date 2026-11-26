@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676119,
-        1108696745
+        1108696745,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696745,
             "locality_id":1310308411,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1310308411,
-    "wof:lastmodified":1566681385,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maragayap West",
     "wof:parent_id":1108696745,
     "wof:placetype":"locality",

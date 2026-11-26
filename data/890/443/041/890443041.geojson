@@ -257,7 +257,8 @@
         102191569,
         85632509,
         85675955,
-        1108697989
+        1108697989,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -275,11 +276,12 @@
             "country_id":85632509,
             "county_id":1108697989,
             "localadmin_id":890443041,
+            "macroregion_id":9895008405,
             "region_id":85675955
         }
     ],
     "wof:id":890443041,
-    "wof:lastmodified":1690851755,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lamitan",
     "wof:parent_id":1108697989,
     "wof:placetype":"localadmin",

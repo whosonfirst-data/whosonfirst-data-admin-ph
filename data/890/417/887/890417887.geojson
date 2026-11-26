@@ -56,7 +56,8 @@
         102191569,
         85632509,
         85676079,
-        1108697055
+        1108697055,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,11 +74,12 @@
             "country_id":85632509,
             "county_id":1108697055,
             "localadmin_id":890417887,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":890417887,
-    "wof:lastmodified":1566682047,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bontoc",
     "wof:parent_id":1108697055,
     "wof:placetype":"localadmin",

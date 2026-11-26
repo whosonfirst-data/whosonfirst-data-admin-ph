@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676231,
-        1108699097
+        1108699097,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108699097,
             "locality_id":1343349997,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":1343349997,
-    "wof:lastmodified":1566679571,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagtanawan",
     "wof:parent_id":1108699097,
     "wof:placetype":"locality",

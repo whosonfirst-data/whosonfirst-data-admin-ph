@@ -87,7 +87,8 @@
         102191569,
         85632509,
         85676173,
-        1108698235
+        1108698235,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,11 +102,12 @@
             "country_id":85632509,
             "county_id":1108698235,
             "locality_id":1225914643,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1225914643,
-    "wof:lastmodified":1566683167,
+    "wof:lastmodified":1795733694,
     "wof:name":"Atos",
     "wof:parent_id":1108698235,
     "wof:placetype":"locality",

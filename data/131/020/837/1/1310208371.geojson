@@ -144,7 +144,8 @@
         102191569,
         85632509,
         85676057,
-        1108696773
+        1108696773,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,11 +159,12 @@
             "country_id":85632509,
             "county_id":1108696773,
             "locality_id":1310208371,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1310208371,
-    "wof:lastmodified":1636501060,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Carlos",
     "wof:parent_id":1108696773,
     "wof:placetype":"locality",

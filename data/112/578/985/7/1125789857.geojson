@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85676221,
-        1108697431
+        1108697431,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108697431,
             "locality_id":1125789857,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1125789857,
-    "wof:lastmodified":1690851925,
+    "wof:lastmodified":1795733694,
     "wof:name":"Damulog",
     "wof:parent_id":1108697431,
     "wof:placetype":"locality",

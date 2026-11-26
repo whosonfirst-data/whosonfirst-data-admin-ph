@@ -84,7 +84,8 @@
         102191569,
         85632509,
         85676029,
-        1108697321
+        1108697321,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108697321,
             "locality_id":1293582259,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1293582259,
-    "wof:lastmodified":1566679937,
+    "wof:lastmodified":1795733694,
     "wof:name":"Madamba",
     "wof:parent_id":1108697321,
     "wof:placetype":"locality",

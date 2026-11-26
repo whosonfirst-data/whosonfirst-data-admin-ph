@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676107,
-        1108697671
+        1108697671,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697671,
             "locality_id":1209722465,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1209722465,
-    "wof:lastmodified":1566680810,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cotod",
     "wof:parent_id":1108697671,
     "wof:placetype":"locality",

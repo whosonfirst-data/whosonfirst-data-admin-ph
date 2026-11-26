@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676073,
-        1108697561
+        1108697561,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697561,
             "locality_id":1310018559,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1310018559,
-    "wof:lastmodified":1566681400,
+    "wof:lastmodified":1795733694,
     "wof:name":"Diasan",
     "wof:parent_id":1108697561,
     "wof:placetype":"locality",

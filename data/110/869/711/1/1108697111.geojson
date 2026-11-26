@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676173
+        85676173,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697111,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1108697111,
-    "wof:lastmodified":1695886270,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buluan",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

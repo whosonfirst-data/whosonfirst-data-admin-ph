@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676043,
-        1108697791
+        1108697791,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697791,
             "locality_id":1259892527,
+            "macroregion_id":9895008391,
             "region_id":85676043
         }
     ],
     "wof:id":1259892527,
-    "wof:lastmodified":1566682936,
+    "wof:lastmodified":1795733694,
     "wof:name":"Raele",
     "wof:parent_id":1108697791,
     "wof:placetype":"locality",

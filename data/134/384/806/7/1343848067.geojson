@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676203,
-        1108697057
+        1108697057,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,11 +94,12 @@
             "country_id":85632509,
             "county_id":1108697057,
             "locality_id":1343848067,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1343848067,
-    "wof:lastmodified":1566679481,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bontoc",
     "wof:parent_id":1108697057,
     "wof:placetype":"locality",

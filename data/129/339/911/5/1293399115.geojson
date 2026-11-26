@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108696957
+        1108696957,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696957,
             "locality_id":1293399115,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1293399115,
-    "wof:lastmodified":1566679772,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nagrebcan",
     "wof:parent_id":1108696957,
     "wof:placetype":"locality",

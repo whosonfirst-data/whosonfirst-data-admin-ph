@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676203,
-        1108696667
+        1108696667,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696667,
             "locality_id":1210011821,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1210011821,
-    "wof:lastmodified":1566680833,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kaguingkingan",
     "wof:parent_id":1108696667,
     "wof:placetype":"locality",

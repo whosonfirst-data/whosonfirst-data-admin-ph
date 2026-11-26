@@ -95,7 +95,8 @@
         102191569,
         85632509,
         85676243,
-        1108696913
+        1108696913,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,11 +114,12 @@
             "country_id":85632509,
             "county_id":1108696913,
             "locality_id":890452687,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":890452687,
-    "wof:lastmodified":1566681962,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amaga",
     "wof:parent_id":1108696913,
     "wof:placetype":"locality",

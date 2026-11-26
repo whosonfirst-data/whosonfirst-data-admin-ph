@@ -633,7 +633,8 @@
         102191569,
         85632509,
         85675975,
-        1108698789
+        1108698789,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -647,11 +648,12 @@
             "country_id":85632509,
             "county_id":1108698789,
             "locality_id":1343831273,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1343831273,
-    "wof:lastmodified":1566679460,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gabon",
     "wof:parent_id":1108698789,
     "wof:placetype":"locality",

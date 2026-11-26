@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676169,
-        1108698155
+        1108698155,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698155,
             "locality_id":1242647729,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1242647729,
-    "wof:lastmodified":1566682623,
+    "wof:lastmodified":1795733694,
     "wof:name":"Macadar",
     "wof:parent_id":1108698155,
     "wof:placetype":"locality",

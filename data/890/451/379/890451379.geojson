@@ -223,7 +223,8 @@
         102191569,
         85632509,
         85676029,
-        1108697479
+        1108697479,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,11 +242,12 @@
             "country_id":85632509,
             "county_id":1108697479,
             "locality_id":890451379,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890451379,
-    "wof:lastmodified":1690851816,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dimasalang",
     "wof:parent_id":1108697479,
     "wof:placetype":"locality",

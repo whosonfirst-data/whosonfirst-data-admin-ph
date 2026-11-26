@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675975,
-        1108698143
+        1108698143,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698143,
             "locality_id":1310078851,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1310078851,
-    "wof:lastmodified":1566681349,
+    "wof:lastmodified":1795733694,
     "wof:name":"Larap",
     "wof:parent_id":1108698143,
     "wof:placetype":"locality",

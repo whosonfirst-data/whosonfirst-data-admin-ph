@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676141,
-        1108698627
+        1108698627,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698627,
             "locality_id":1260222715,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1260222715,
-    "wof:lastmodified":1566680969,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kinaboogan",
     "wof:parent_id":1108698627,
     "wof:placetype":"locality",

@@ -246,7 +246,8 @@
         102191569,
         85632509,
         85676165,
-        1108699441
+        1108699441,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,11 +269,12 @@
             "country_id":85632509,
             "county_id":1108699441,
             "locality_id":421191609,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":421191609,
-    "wof:lastmodified":1690851514,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sapad",
     "wof:parent_id":1108699441,
     "wof:placetype":"locality",

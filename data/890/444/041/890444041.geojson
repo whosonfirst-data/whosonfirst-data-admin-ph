@@ -214,7 +214,8 @@
         102191569,
         85632509,
         85675963,
-        1108698293
+        1108698293,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -232,11 +233,12 @@
             "country_id":85632509,
             "county_id":1108698293,
             "locality_id":890444041,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":890444041,
-    "wof:lastmodified":1690851744,
+    "wof:lastmodified":1795733694,
     "wof:name":"Diplahan",
     "wof:parent_id":1108698293,
     "wof:placetype":"locality",

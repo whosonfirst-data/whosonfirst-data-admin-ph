@@ -141,7 +141,8 @@
         102191569,
         85632509,
         85676161,
-        1108698121
+        1108698121,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,11 +156,12 @@
             "country_id":85632509,
             "county_id":1108698121,
             "locality_id":1259918149,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1259918149,
-    "wof:lastmodified":1636501214,
+    "wof:lastmodified":1795733694,
     "wof:name":"Rizal",
     "wof:parent_id":1108698121,
     "wof:placetype":"locality",

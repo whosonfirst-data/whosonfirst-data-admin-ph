@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675993,
-        1108698711
+        1108698711,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698711,
             "locality_id":1276759471,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1276759471,
-    "wof:lastmodified":1566680133,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kabolo-an",
     "wof:parent_id":1108698711,
     "wof:placetype":"locality",

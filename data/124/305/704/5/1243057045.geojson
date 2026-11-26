@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675961,
-        1108697699
+        1108697699,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697699,
             "locality_id":1243057045,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1243057045,
-    "wof:lastmodified":1566682566,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pitawi",
     "wof:parent_id":1108697699,
     "wof:placetype":"locality",

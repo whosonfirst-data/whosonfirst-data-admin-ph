@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676003,
-        1108699325
+        1108699325,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108699325,
             "locality_id":421195055,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":421195055,
-    "wof:lastmodified":1566681792,
+    "wof:lastmodified":1795733694,
     "wof:name":"Inandeng",
     "wof:parent_id":1108699325,
     "wof:placetype":"locality",

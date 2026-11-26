@@ -663,7 +663,8 @@
         102191569,
         85632509,
         85676047,
-        1108697567
+        1108697567,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -677,11 +678,12 @@
             "country_id":85632509,
             "county_id":1108697567,
             "locality_id":1360192469,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1360192469,
-    "wof:lastmodified":1636501082,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jerusalem",
     "wof:parent_id":1108697567,
     "wof:placetype":"locality",

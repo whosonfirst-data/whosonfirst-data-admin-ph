@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676107,
-        1108699393
+        1108699393,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699393,
             "locality_id":1260291729,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1260291729,
-    "wof:lastmodified":1566681044,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Ines",
     "wof:parent_id":1108699393,
     "wof:placetype":"locality",

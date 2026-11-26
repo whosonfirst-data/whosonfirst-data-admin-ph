@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676131,
-        1108699643
+        1108699643,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108699643,
             "locality_id":1243114481,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1243114481,
-    "wof:lastmodified":1566682656,
+    "wof:lastmodified":1795733694,
     "wof:name":"Banga",
     "wof:parent_id":1108699643,
     "wof:placetype":"locality",

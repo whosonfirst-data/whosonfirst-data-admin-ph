@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676111,
-        1108696721
+        1108696721,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,11 +248,12 @@
             "country_id":85632509,
             "county_id":1108696721,
             "locality_id":890416257,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":890416257,
-    "wof:lastmodified":1690851786,
+    "wof:lastmodified":1795733694,
     "wof:name":"Atok",
     "wof:parent_id":1108696721,
     "wof:placetype":"locality",

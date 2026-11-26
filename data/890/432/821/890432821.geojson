@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676003,
-        1108697563
+        1108697563,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108697563,
             "localadmin_id":890432821,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890432821,
-    "wof:lastmodified":1690851887,
+    "wof:lastmodified":1795733694,
     "wof:name":"Linapacan",
     "wof:parent_id":1108697563,
     "wof:placetype":"localadmin",

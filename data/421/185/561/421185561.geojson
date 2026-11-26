@@ -275,7 +275,8 @@
         102191569,
         85632509,
         85676141,
-        1108698541
+        1108698541,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,11 +294,12 @@
             "country_id":85632509,
             "county_id":1108698541,
             "locality_id":421185561,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":421185561,
-    "wof:lastmodified":1690851601,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabuyao",
     "wof:parent_id":1108698541,
     "wof:placetype":"locality",

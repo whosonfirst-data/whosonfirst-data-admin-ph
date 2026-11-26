@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676153,
-        1108699061
+        1108699061,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699061,
             "locality_id":1243583671,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1243583671,
-    "wof:lastmodified":1566682554,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pandaitan",
     "wof:parent_id":1108699061,
     "wof:placetype":"locality",

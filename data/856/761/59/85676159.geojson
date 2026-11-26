@@ -345,7 +345,8 @@
     "unlc:subdivision":"PH-MDR",
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -371,6 +372,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
@@ -390,9 +392,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884879,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mindoro Oriental",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008394,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
     "wof:population":785602,

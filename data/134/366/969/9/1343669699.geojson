@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676073,
-        1108697387
+        1108697387,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697387,
             "locality_id":1343669699,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1343669699,
-    "wof:lastmodified":1566679537,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caperperiwan",
     "wof:parent_id":1108697387,
     "wof:placetype":"locality",

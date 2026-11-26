@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85675967,
-        1108699291
+        1108699291,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699291,
             "locality_id":1343645531,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1343645531,
-    "wof:lastmodified":1566679379,
+    "wof:lastmodified":1795733694,
     "wof:name":"Senior",
     "wof:parent_id":1108699291,
     "wof:placetype":"locality",

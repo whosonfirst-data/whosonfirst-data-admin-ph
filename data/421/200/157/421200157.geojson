@@ -246,7 +246,8 @@
         102191569,
         85632509,
         85676169,
-        1108698221
+        1108698221,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,11 +266,12 @@
             "country_id":85632509,
             "county_id":1108698221,
             "locality_id":421200157,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":421200157,
-    "wof:lastmodified":1690851529,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ganassi",
     "wof:parent_id":1108698221,
     "wof:placetype":"locality",

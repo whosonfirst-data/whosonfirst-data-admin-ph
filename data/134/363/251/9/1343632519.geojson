@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676239,
-        1108699167
+        1108699167,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699167,
             "locality_id":1343632519,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1343632519,
-    "wof:lastmodified":1566679372,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magtangali",
     "wof:parent_id":1108699167,
     "wof:placetype":"locality",

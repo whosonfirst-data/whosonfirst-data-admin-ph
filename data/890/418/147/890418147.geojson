@@ -50,7 +50,8 @@
         102191569,
         85632509,
         85676153,
-        1108699061
+        1108699061,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,11 +70,12 @@
             "country_id":85632509,
             "county_id":1108699061,
             "locality_id":890418147,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":890418147,
-    "wof:lastmodified":1690851796,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ligaya",
     "wof:parent_id":1108699061,
     "wof:placetype":"locality",

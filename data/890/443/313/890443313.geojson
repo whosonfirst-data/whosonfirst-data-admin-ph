@@ -68,7 +68,8 @@
         102191569,
         85632509,
         85676029,
-        1108698503
+        1108698503,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,11 +86,12 @@
             "country_id":85632509,
             "county_id":1108698503,
             "localadmin_id":890443313,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890443313,
-    "wof:lastmodified":1566682068,
+    "wof:lastmodified":1795733694,
     "wof:name":"Monreal",
     "wof:parent_id":1108698503,
     "wof:placetype":"localadmin",

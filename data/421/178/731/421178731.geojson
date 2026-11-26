@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676017,
-        1108697755
+        1108697755,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697755,
             "locality_id":421178731,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":421178731,
-    "wof:lastmodified":1566681868,
+    "wof:lastmodified":1795733694,
     "wof:name":"Imelda",
     "wof:parent_id":1108697755,
     "wof:placetype":"locality",

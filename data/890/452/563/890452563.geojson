@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85676191,
-        1108697515
+        1108697515,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697515,
             "locality_id":890452563,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":890452563,
-    "wof:lastmodified":1566681967,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dapdap",
     "wof:parent_id":1108697515,
     "wof:placetype":"locality",

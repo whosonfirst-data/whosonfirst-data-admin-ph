@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676201,
-        1108697329
+        1108697329,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632509,
             "county_id":1108697329,
             "locality_id":1193008161,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1193008161,
-    "wof:lastmodified":1636500985,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mercedes",
     "wof:parent_id":1108697329,
     "wof:placetype":"locality",

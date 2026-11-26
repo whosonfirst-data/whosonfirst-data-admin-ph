@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676249,
-        1108698697
+        1108698697,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108698697,
             "locality_id":1293195559,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":1293195559,
-    "wof:lastmodified":1566680059,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Simon",
     "wof:parent_id":1108698697,
     "wof:placetype":"locality",

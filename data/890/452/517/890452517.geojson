@@ -71,7 +71,8 @@
         102191569,
         85632509,
         85675933,
-        1108696627
+        1108696627,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696627,
             "locality_id":890452517,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":890452517,
-    "wof:lastmodified":1566681965,
+    "wof:lastmodified":1795733694,
     "wof:name":"La Hacienda",
     "wof:parent_id":1108696627,
     "wof:placetype":"locality",

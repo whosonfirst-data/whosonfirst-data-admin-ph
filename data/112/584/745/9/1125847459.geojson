@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85675951,
-        1108699649
+        1108699649,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699649,
             "locality_id":1125847459,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1125847459,
-    "wof:lastmodified":1566682319,
+    "wof:lastmodified":1795733694,
     "wof:name":"Minuyan",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

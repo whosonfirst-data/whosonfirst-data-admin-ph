@@ -253,7 +253,8 @@
         102191569,
         85632509,
         85676187,
-        1108696647
+        1108696647,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -270,11 +271,12 @@
             "country_id":85632509,
             "county_id":1108696647,
             "localadmin_id":890433097,
+            "macroregion_id":9895008398,
             "region_id":85676187
         }
     ],
     "wof:id":890433097,
-    "wof:lastmodified":1566682171,
+    "wof:lastmodified":1795733694,
     "wof:name":"Almeria",
     "wof:parent_id":1108696647,
     "wof:placetype":"localadmin",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676235,
-        890432905
+        890432905,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":890432905,
             "locality_id":1360262465,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":1360262465,
-    "wof:lastmodified":1566681648,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taali",
     "wof:parent_id":890432905,
     "wof:placetype":"locality",

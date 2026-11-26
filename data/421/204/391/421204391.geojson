@@ -451,7 +451,8 @@
         102191569,
         85632509,
         85676345,
-        1108698535
+        1108698535,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -470,11 +471,12 @@
             "country_id":85632509,
             "county_id":1108698535,
             "locality_id":421204391,
+            "macroregion_id":9895008395,
             "region_id":85676345
         }
     ],
     "wof:id":421204391,
-    "wof:lastmodified":1690851417,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naga",
     "wof:parent_id":1108698535,
     "wof:placetype":"locality",

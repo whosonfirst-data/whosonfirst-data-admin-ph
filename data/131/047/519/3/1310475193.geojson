@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675975,
-        1108698767
+        1108698767,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698767,
             "locality_id":1310475193,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1310475193,
-    "wof:lastmodified":1566681332,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tiptipon",
     "wof:parent_id":1108698767,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676179,
-        1108698871
+        1108698871,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698871,
             "locality_id":1259766493,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1259766493,
-    "wof:lastmodified":1566682851,
+    "wof:lastmodified":1795733694,
     "wof:name":"Angkupan",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

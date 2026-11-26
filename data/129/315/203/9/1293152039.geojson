@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676127,
-        1108697759
+        1108697759,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697759,
             "locality_id":1293152039,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1293152039,
-    "wof:lastmodified":1566679829,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tanzang Luma",
     "wof:parent_id":1108697759,
     "wof:placetype":"locality",

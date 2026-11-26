@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676039,
-        1108697969
+        1108697969,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108697969,
             "localadmin_id":890441513,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":890441513,
-    "wof:lastmodified":1690851621,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lagangilang",
     "wof:parent_id":1108697969,
     "wof:placetype":"localadmin",

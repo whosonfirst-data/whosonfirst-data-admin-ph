@@ -141,7 +141,8 @@
         102191569,
         85632509,
         85675993,
-        1108698481
+        1108698481,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,11 +156,12 @@
             "country_id":85632509,
             "county_id":1108698481,
             "locality_id":1310693413,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1310693413,
-    "wof:lastmodified":1636501069,
+    "wof:lastmodified":1795733694,
     "wof:name":"Loreto",
     "wof:parent_id":1108698481,
     "wof:placetype":"locality",

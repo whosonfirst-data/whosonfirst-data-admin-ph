@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676169,
-        1108699559
+        1108699559,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699559,
             "locality_id":1327013123,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1327013123,
-    "wof:lastmodified":1566678920,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maladi",
     "wof:parent_id":1108699559,
     "wof:placetype":"locality",

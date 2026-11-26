@@ -246,7 +246,8 @@
         102191569,
         85632509,
         85676057,
-        1108698833
+        1108698833,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -269,11 +270,12 @@
             "country_id":85632509,
             "county_id":1108698833,
             "locality_id":421189457,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":421189457,
-    "wof:lastmodified":1690851471,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pasuquin",
     "wof:parent_id":1108698833,
     "wof:placetype":"locality",

@@ -361,7 +361,8 @@
         102191569,
         85632509,
         85676231,
-        1108696733
+        1108696733,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -379,11 +380,12 @@
             "country_id":85632509,
             "county_id":1108696733,
             "locality_id":890432399,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":890432399,
-    "wof:lastmodified":1566682222,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Antonio",
     "wof:parent_id":1108696733,
     "wof:placetype":"locality",

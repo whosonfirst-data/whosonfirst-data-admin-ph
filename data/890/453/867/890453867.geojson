@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676221,
-        1108698783
+        1108698783,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108698783,
             "localadmin_id":890453867,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":890453867,
-    "wof:lastmodified":1566682028,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kalilangan",
     "wof:parent_id":1108698783,
     "wof:placetype":"localadmin",

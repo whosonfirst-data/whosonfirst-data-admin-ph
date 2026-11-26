@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676113,
-        1108699143
+        1108699143,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699143,
             "locality_id":421168609,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":421168609,
-    "wof:lastmodified":1566681787,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maloma",
     "wof:parent_id":1108699143,
     "wof:placetype":"locality",

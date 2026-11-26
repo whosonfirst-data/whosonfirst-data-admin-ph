@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675951,
-        1108697783
+        1108697783,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697783,
             "locality_id":1326763147,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1326763147,
-    "wof:lastmodified":1566679149,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tarog",
     "wof:parent_id":1108697783,
     "wof:placetype":"locality",

@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675951,
-        1108699865
+        1108699865,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699865,
             "locality_id":890416327,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890416327,
-    "wof:lastmodified":1566682101,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alijis",
     "wof:parent_id":1108699865,
     "wof:placetype":"locality",

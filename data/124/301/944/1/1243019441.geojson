@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676127,
-        1108697765
+        1108697765,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697765,
             "locality_id":1243019441,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1243019441,
-    "wof:lastmodified":1566682369,
+    "wof:lastmodified":1795733694,
     "wof:name":"East Tambu",
     "wof:parent_id":1108697765,
     "wof:placetype":"locality",

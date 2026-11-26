@@ -229,7 +229,8 @@
         102191569,
         85632509,
         85676201,
-        1108698375
+        1108698375,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108698375,
             "locality_id":421195245,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":421195245,
-    "wof:lastmodified":1690851386,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marabut",
     "wof:parent_id":1108698375,
     "wof:placetype":"locality",

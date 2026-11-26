@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676197,
-        1108696921
+        1108696921,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696921,
             "locality_id":1243156881,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1243156881,
-    "wof:lastmodified":1566682504,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canisak",
     "wof:parent_id":1108696921,
     "wof:placetype":"locality",

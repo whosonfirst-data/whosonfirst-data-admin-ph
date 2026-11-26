@@ -120,7 +120,8 @@
         102191569,
         85632509,
         85676007,
-        1108699159
+        1108699159,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,11 +136,12 @@
             "country_id":85632509,
             "county_id":1108699159,
             "locality_id":1344084749,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1344084749,
-    "wof:lastmodified":1636500818,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Fernando",
     "wof:parent_id":1108699159,
     "wof:placetype":"locality",

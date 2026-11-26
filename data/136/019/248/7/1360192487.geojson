@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676083,
-        1108696621
+        1108696621,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108696621,
             "locality_id":1360192487,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":1360192487,
-    "wof:lastmodified":1566681652,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naya",
     "wof:parent_id":1108696621,
     "wof:placetype":"locality",

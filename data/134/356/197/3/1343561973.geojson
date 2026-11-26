@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676097,
-        1108696863
+        1108696863,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696863,
             "locality_id":1343561973,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1343561973,
-    "wof:lastmodified":1566679555,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anupul",
     "wof:parent_id":1108696863,
     "wof:placetype":"locality",

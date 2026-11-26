@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85675951,
-        1108697783
+        1108697783,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108697783,
             "locality_id":1260319385,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1260319385,
-    "wof:lastmodified":1566680995,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tinongan",
     "wof:parent_id":1108697783,
     "wof:placetype":"locality",

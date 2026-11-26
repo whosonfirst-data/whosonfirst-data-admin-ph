@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676127,
-        890438385
+        890438385,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":890438385,
             "locality_id":1243019425,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1243019425,
-    "wof:lastmodified":1566682369,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hugo Perez",
     "wof:parent_id":890438385,
     "wof:placetype":"locality",

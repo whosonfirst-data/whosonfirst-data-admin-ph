@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85675945,
-        1108697461
+        1108697461,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108697461,
             "localadmin_id":890430409,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890430409,
-    "wof:lastmodified":1690851651,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dauin",
     "wof:parent_id":1108697461,
     "wof:placetype":"localadmin",

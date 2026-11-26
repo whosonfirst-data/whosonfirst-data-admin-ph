@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676141,
-        1108697177
+        1108697177,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108697177,
             "locality_id":1209858083,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1209858083,
-    "wof:lastmodified":1566680610,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tres",
     "wof:parent_id":1108697177,
     "wof:placetype":"locality",

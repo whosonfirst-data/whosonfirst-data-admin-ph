@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676127,
-        1108699721
+        1108699721,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699721,
             "locality_id":1193183677,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1193183677,
-    "wof:lastmodified":1566680923,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caynipa",
     "wof:parent_id":1108699721,
     "wof:placetype":"locality",

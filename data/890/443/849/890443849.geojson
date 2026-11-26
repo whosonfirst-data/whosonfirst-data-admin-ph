@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676161,
-        1108698715
+        1108698715,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108698715,
             "localadmin_id":890443849,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890443849,
-    "wof:lastmodified":1690851770,
+    "wof:lastmodified":1795733694,
     "wof:name":"Agdangan",
     "wof:parent_id":1108698715,
     "wof:placetype":"localadmin",

@@ -266,7 +266,8 @@
         102191569,
         85632509,
         85676123,
-        1108698099
+        1108698099,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,11 +285,12 @@
             "country_id":85632509,
             "county_id":1108698099,
             "locality_id":890438615,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890438615,
-    "wof:lastmodified":1690851713,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lingayen",
     "wof:parent_id":1108698099,
     "wof:placetype":"locality",

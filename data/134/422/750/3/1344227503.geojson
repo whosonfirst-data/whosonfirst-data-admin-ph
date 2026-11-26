@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85675929,
-        1108698667
+        1108698667,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698667,
             "locality_id":1344227503,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":1344227503,
-    "wof:lastmodified":1566679386,
+    "wof:lastmodified":1795733694,
     "wof:name":"Likud Sikubung",
     "wof:parent_id":1108698667,
     "wof:placetype":"locality",

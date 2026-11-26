@@ -223,7 +223,8 @@
         102191569,
         85632509,
         85675989,
-        1108697797
+        1108697797,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,11 +242,12 @@
             "country_id":85632509,
             "county_id":1108697797,
             "locality_id":890451271,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":890451271,
-    "wof:lastmodified":1690851820,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ivisan",
     "wof:parent_id":1108697797,
     "wof:placetype":"locality",

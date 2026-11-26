@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676035,
-        1108697851
+        1108697851,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108697851,
             "locality_id":890434281,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890434281,
-    "wof:lastmodified":1566682146,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lajong",
     "wof:parent_id":1108697851,
     "wof:placetype":"locality",

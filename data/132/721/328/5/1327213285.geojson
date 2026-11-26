@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676173,
-        1108697457
+        1108697457,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697457,
             "locality_id":1327213285,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1327213285,
-    "wof:lastmodified":1566679273,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lomoyan",
     "wof:parent_id":1108697457,
     "wof:placetype":"locality",

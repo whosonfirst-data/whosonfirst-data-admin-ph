@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676127,
-        1108697765
+        1108697765,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108697765,
             "locality_id":1193216393,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1193216393,
-    "wof:lastmodified":1566680961,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kaytambog",
     "wof:parent_id":1108697765,
     "wof:placetype":"locality",

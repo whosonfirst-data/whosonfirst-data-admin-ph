@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676239,
-        1108698125
+        1108698125,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698125,
             "locality_id":1327212695,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1327212695,
-    "wof:lastmodified":1566679268,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panama-on",
     "wof:parent_id":1108698125,
     "wof:placetype":"locality",

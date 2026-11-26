@@ -245,7 +245,8 @@
         102191569,
         85632509,
         85675981,
-        1108698311
+        1108698311,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,11 +265,12 @@
             "country_id":85632509,
             "county_id":1108698311,
             "locality_id":421202773,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":421202773,
-    "wof:lastmodified":1690851432,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malinao",
     "wof:parent_id":1108698311,
     "wof:placetype":"locality",

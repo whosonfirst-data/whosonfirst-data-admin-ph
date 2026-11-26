@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675939,
-        1108697415
+        1108697415,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108697415,
             "locality_id":890444139,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890444139,
-    "wof:lastmodified":1566682054,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bachauan",
     "wof:parent_id":1108697415,
     "wof:placetype":"locality",

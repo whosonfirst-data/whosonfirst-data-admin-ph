@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676141,
-        1108697345
+        1108697345,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697345,
             "locality_id":1259821799,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1259821799,
-    "wof:lastmodified":1566682846,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cansuso",
     "wof:parent_id":1108697345,
     "wof:placetype":"locality",

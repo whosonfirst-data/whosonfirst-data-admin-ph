@@ -279,7 +279,8 @@
         102191569,
         85632509,
         85676179,
-        1108698869
+        1108698869,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -297,11 +298,12 @@
             "country_id":85632509,
             "county_id":1108698869,
             "locality_id":421181247,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":421181247,
-    "wof:lastmodified":1690851483,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pigkawayan",
     "wof:parent_id":1108698869,
     "wof:placetype":"locality",

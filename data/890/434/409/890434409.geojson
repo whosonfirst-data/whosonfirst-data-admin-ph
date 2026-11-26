@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676123,
-        1108699871
+        1108699871,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699871,
             "locality_id":890434409,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890434409,
-    "wof:lastmodified":1566682148,
+    "wof:lastmodified":1795733694,
     "wof:name":"Capulaan",
     "wof:parent_id":1108699871,
     "wof:placetype":"locality",

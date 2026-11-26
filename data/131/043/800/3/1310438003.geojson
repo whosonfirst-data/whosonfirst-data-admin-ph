@@ -38,7 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        1159397243
+        1159397243,
+        9895008389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":1310438003,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
     "wof:id":1310438003,
-    "wof:lastmodified":1566681448,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagong Silang",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

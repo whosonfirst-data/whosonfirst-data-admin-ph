@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676047,
-        1108699327
+        1108699327,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699327,
             "locality_id":1276988775,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1276988775,
-    "wof:lastmodified":1566680419,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dammang",
     "wof:parent_id":1108699327,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675981,
-        1108698529
+        1108698529,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698529,
             "locality_id":1277071793,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1277071793,
-    "wof:lastmodified":1566680120,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buena Suerte",
     "wof:parent_id":1108698529,
     "wof:placetype":"locality",

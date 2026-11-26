@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676029,
-        1108698487
+        1108698487,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698487,
             "locality_id":1276225841,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1276225841,
-    "wof:lastmodified":1566680300,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pinamalatican",
     "wof:parent_id":1108698487,
     "wof:placetype":"locality",

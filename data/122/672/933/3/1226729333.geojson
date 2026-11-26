@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676183,
-        1108697367
+        1108697367,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697367,
             "locality_id":1226729333,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1226729333,
-    "wof:lastmodified":1566682996,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kolondatal",
     "wof:parent_id":1108697367,
     "wof:placetype":"locality",

@@ -105,7 +105,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676073
+        85676073,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,11 +121,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696595,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1108696595,
-    "wof:lastmodified":1695886676,
+    "wof:lastmodified":1795733694,
     "wof:name":"Albano",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

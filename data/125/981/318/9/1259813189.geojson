@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676003,
-        1108696799
+        1108696799,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696799,
             "locality_id":1259813189,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":1259813189,
-    "wof:lastmodified":1566682954,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gugupuan",
     "wof:parent_id":1108696799,
     "wof:placetype":"locality",

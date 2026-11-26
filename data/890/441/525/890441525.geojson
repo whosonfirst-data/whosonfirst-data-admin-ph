@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676153,
-        1108697227
+        1108697227,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108697227,
             "locality_id":890441525,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":890441525,
-    "wof:lastmodified":1566681904,
+    "wof:lastmodified":1795733694,
     "wof:name":"Irirum",
     "wof:parent_id":1108697227,
     "wof:placetype":"locality",

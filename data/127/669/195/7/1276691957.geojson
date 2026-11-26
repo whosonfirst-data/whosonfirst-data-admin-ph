@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85675945,
-        1108696729
+        1108696729,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696729,
             "locality_id":1276691957,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1276691957,
-    "wof:lastmodified":1566680226,
+    "wof:lastmodified":1795733694,
     "wof:name":"Luzuriaga",
     "wof:parent_id":1108696729,
     "wof:placetype":"locality",

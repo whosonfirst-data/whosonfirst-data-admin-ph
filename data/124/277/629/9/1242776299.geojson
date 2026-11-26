@@ -49,7 +49,8 @@
         102191569,
         85632509,
         85676029,
-        1108696825
+        1108696825,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +64,12 @@
             "country_id":85632509,
             "county_id":1108696825,
             "locality_id":1242776299,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1242776299,
-    "wof:lastmodified":1566682575,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panal",
     "wof:parent_id":1108696825,
     "wof:placetype":"locality",

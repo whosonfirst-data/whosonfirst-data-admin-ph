@@ -165,7 +165,8 @@
         102191569,
         85632509,
         85676191,
-        1108697627
+        1108697627,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,11 +180,12 @@
             "country_id":85632509,
             "county_id":1108697627,
             "locality_id":1344141577,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1344141577,
-    "wof:lastmodified":1566679400,
+    "wof:lastmodified":1795733694,
     "wof:name":"Vigan",
     "wof:parent_id":1108697627,
     "wof:placetype":"locality",

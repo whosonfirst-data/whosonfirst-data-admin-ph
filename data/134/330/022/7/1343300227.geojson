@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676131,
-        1108699293
+        1108699293,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699293,
             "locality_id":1343300227,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1343300227,
-    "wof:lastmodified":1566679349,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ilat",
     "wof:parent_id":1108699293,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676253,
-        1108696885
+        1108696885,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108696885,
             "locality_id":1277055631,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1277055631,
-    "wof:lastmodified":1566680278,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ocasiones",
     "wof:parent_id":1108696885,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676203,
-        1108698089
+        1108698089,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698089,
             "locality_id":1343351513,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1343351513,
-    "wof:lastmodified":1566679547,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maugok",
     "wof:parent_id":1108698089,
     "wof:placetype":"locality",

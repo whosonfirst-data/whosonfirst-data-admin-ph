@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676093,
-        1108698509
+        1108698509,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698509,
             "locality_id":890443947,
+            "macroregion_id":9895008392,
             "region_id":85676093
         }
     ],
     "wof:id":890443947,
-    "wof:lastmodified":1566682068,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sabang",
     "wof:parent_id":1108698509,
     "wof:placetype":"locality",

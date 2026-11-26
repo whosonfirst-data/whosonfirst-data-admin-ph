@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675993,
-        1108698623
+        1108698623,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698623,
             "locality_id":1209911447,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1209911447,
-    "wof:lastmodified":1566680492,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tenigban",
     "wof:parent_id":1108698623,
     "wof:placetype":"locality",

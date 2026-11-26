@@ -242,7 +242,8 @@
         102191569,
         85632509,
         85676263,
-        1108699571
+        1108699571,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,11 +261,12 @@
             "country_id":85632509,
             "county_id":1108699571,
             "locality_id":421199427,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":421199427,
-    "wof:lastmodified":1690851527,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ba\u00f1ga",
     "wof:parent_id":1108699571,
     "wof:placetype":"locality",

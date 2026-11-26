@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85676057,
-        1108698863
+        1108698863,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108698863,
             "localadmin_id":890443261,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890443261,
-    "wof:lastmodified":1690851759,
+    "wof:lastmodified":1795733694,
     "wof:name":"Piddig",
     "wof:parent_id":1108698863,
     "wof:placetype":"localadmin",

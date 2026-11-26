@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676065,
-        1108697311
+        1108697311,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697311,
             "locality_id":1310211955,
+            "macroregion_id":9895008392,
             "region_id":85676065
         }
     ],
     "wof:id":1310211955,
-    "wof:lastmodified":1566681469,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dakoid",
     "wof:parent_id":1108697311,
     "wof:placetype":"locality",

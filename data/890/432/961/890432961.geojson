@@ -30,7 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676239
+        85676239,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +46,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "localadmin_id":890432961,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":890432961,
-    "wof:lastmodified":1566682235,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cagdianao",
     "wof:parent_id":85676239,
     "wof:placetype":"localadmin",

@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676231,
-        1108698573
+        1108698573,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108698573,
             "localadmin_id":890441479,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":890441479,
-    "wof:lastmodified":1566681899,
+    "wof:lastmodified":1795733694,
     "wof:name":"New Corella",
     "wof:parent_id":1108698573,
     "wof:placetype":"localadmin",

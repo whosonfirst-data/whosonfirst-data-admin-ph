@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676269,
-        1108699019
+        1108699019,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699019,
             "locality_id":1344064879,
+            "macroregion_id":9895008404,
             "region_id":85676269
         }
     ],
     "wof:id":1344064879,
-    "wof:lastmodified":1566679435,
+    "wof:lastmodified":1795733694,
     "wof:name":"Liwan Sur",
     "wof:parent_id":1108699019,
     "wof:placetype":"locality",

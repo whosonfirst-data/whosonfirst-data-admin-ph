@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676079,
-        1108696991
+        1108696991,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108696991,
             "locality_id":1209885873,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1209885873,
-    "wof:lastmodified":1566680791,
+    "wof:lastmodified":1795733694,
     "wof:name":"Liang",
     "wof:parent_id":1108696991,
     "wof:placetype":"locality",

@@ -85,7 +85,8 @@
         102191569,
         85632509,
         85676191,
-        1108698033
+        1108698033,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,11 +100,12 @@
             "country_id":85632509,
             "county_id":1108698033,
             "locality_id":1276222463,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1276222463,
-    "wof:lastmodified":1566680298,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magallanes",
     "wof:parent_id":1108698033,
     "wof:placetype":"locality",

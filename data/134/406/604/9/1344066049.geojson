@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676057,
-        1108698389
+        1108698389,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698389,
             "locality_id":1344066049,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1344066049,
-    "wof:lastmodified":1566679430,
+    "wof:lastmodified":1795733694,
     "wof:name":"Capitan",
     "wof:parent_id":1108698389,
     "wof:placetype":"locality",

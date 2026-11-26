@@ -105,7 +105,8 @@
         102191569,
         85632509,
         85676253,
-        1108699557
+        1108699557,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "country_id":85632509,
             "county_id":1108699557,
             "locality_id":1310382845,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1310382845,
-    "wof:lastmodified":1636501051,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talas",
     "wof:parent_id":1108699557,
     "wof:placetype":"locality",

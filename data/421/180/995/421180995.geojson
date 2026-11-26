@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676097,
-        1108697263
+        1108697263,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108697263,
             "locality_id":421180995,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":421180995,
-    "wof:lastmodified":1566681821,
+    "wof:lastmodified":1795733694,
     "wof:name":"O'Donnell",
     "wof:parent_id":1108697263,
     "wof:placetype":"locality",

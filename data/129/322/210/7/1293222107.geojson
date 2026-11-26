@@ -90,7 +90,8 @@
         102191569,
         85632509,
         85675981,
-        1108698281
+        1108698281,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108698281,
             "locality_id":1293222107,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1293222107,
-    "wof:lastmodified":1566679878,
+    "wof:lastmodified":1795733694,
     "wof:name":"Castillo",
     "wof:parent_id":1108698281,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676231,
-        1108697901
+        1108697901,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108697901,
             "locality_id":1260159323,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":1260159323,
-    "wof:lastmodified":1566680965,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cumaan",
     "wof:parent_id":1108697901,
     "wof:placetype":"locality",

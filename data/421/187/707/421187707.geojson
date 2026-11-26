@@ -318,7 +318,8 @@
         102191569,
         85632509,
         85676073,
-        1108697747
+        1108697747,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -337,11 +338,12 @@
             "country_id":85632509,
             "county_id":1108697747,
             "locality_id":421187707,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":421187707,
-    "wof:lastmodified":1690851459,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ilagan",
     "wof:parent_id":1108697747,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676007,
-        1108696895
+        1108696895,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696895,
             "locality_id":1343492099,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1343492099,
-    "wof:lastmodified":1566679511,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tongonan",
     "wof:parent_id":1108696895,
     "wof:placetype":"locality",

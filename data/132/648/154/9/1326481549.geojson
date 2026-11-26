@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676141,
-        1108697197
+        1108697197,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697197,
             "locality_id":1326481549,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1326481549,
-    "wof:lastmodified":1566679189,
+    "wof:lastmodified":1795733694,
     "wof:name":"Saimsim",
     "wof:parent_id":1108697197,
     "wof:placetype":"locality",

@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676127,
-        1108697765
+        1108697765,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -245,11 +246,12 @@
             "country_id":85632509,
             "county_id":1108697765,
             "localadmin_id":890436835,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890436835,
-    "wof:lastmodified":1690851680,
+    "wof:lastmodified":1795733694,
     "wof:name":"Indang",
     "wof:parent_id":1108697765,
     "wof:placetype":"localadmin",

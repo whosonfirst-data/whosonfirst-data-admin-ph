@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676061,
-        1108698997
+        1108698997,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698997,
             "locality_id":1226156713,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1226156713,
-    "wof:lastmodified":1566683240,
+    "wof:lastmodified":1795733694,
     "wof:name":"Namitput",
     "wof:parent_id":1108698997,
     "wof:placetype":"locality",

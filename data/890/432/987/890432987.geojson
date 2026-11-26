@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676113,
-        1108697065
+        1108697065,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108697065,
             "localadmin_id":890432987,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":890432987,
-    "wof:lastmodified":1690851905,
+    "wof:lastmodified":1795733694,
     "wof:name":"Botolan",
     "wof:parent_id":1108697065,
     "wof:placetype":"localadmin",

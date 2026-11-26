@@ -153,7 +153,8 @@
         102191569,
         85632509,
         85675985,
-        1108697705
+        1108697705,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,11 +168,12 @@
             "country_id":85632509,
             "county_id":1108697705,
             "locality_id":1243360925,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1243360925,
-    "wof:lastmodified":1636501177,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bariri",
     "wof:parent_id":1108697705,
     "wof:placetype":"locality",

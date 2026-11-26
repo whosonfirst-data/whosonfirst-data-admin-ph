@@ -298,7 +298,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        1159397243
+        1159397243,
+        9895008389
     ],
     "wof:breaches":[
         85676395
@@ -315,6 +316,7 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":1159397245,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
@@ -334,7 +336,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636501173,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caloocan",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

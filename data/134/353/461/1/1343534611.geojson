@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676173,
-        1108699541
+        1108699541,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108699541,
             "locality_id":1343534611,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1343534611,
-    "wof:lastmodified":1566679346,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bungo",
     "wof:parent_id":1108699541,
     "wof:placetype":"locality",

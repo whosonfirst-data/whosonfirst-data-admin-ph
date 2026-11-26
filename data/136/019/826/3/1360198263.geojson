@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108699871
+        1108699871,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699871,
             "locality_id":1360198263,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1360198263,
-    "wof:lastmodified":1566681651,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amanperez",
     "wof:parent_id":1108699871,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676079,
-        1108699067
+        1108699067,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108699067,
             "locality_id":1226821643,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1226821643,
-    "wof:lastmodified":1566683203,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baguang",
     "wof:parent_id":1108699067,
     "wof:placetype":"locality",

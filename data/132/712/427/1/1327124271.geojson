@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676191,
-        1108696711
+        1108696711,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696711,
             "locality_id":1327124271,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1327124271,
-    "wof:lastmodified":1566679083,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tandayon",
     "wof:parent_id":1108696711,
     "wof:placetype":"locality",

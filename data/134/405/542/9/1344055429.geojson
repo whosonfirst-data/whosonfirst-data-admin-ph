@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85676011,
-        1108698355
+        1108698355,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":1108698355,
             "locality_id":1344055429,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1344055429,
-    "wof:lastmodified":1566679601,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cavit",
     "wof:parent_id":1108698355,
     "wof:placetype":"locality",

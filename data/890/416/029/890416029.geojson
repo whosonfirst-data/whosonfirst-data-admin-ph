@@ -197,7 +197,8 @@
         102191569,
         85632509,
         85675951,
-        1108699123
+        1108699123,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -216,11 +217,12 @@
             "country_id":85632509,
             "county_id":1108699123,
             "locality_id":890416029,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890416029,
-    "wof:lastmodified":1690851790,
+    "wof:lastmodified":1795733694,
     "wof:name":"Codcod",
     "wof:parent_id":1108699123,
     "wof:placetype":"locality",

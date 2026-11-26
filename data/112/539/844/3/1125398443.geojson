@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676441,
-        1108698139
+        1108698139,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698139,
             "localadmin_id":1125398443,
+            "macroregion_id":9895008393,
             "region_id":85676441
         }
     ],
     "wof:id":1125398443,
-    "wof:lastmodified":1566682271,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lucena City",
     "wof:parent_id":1108698139,
     "wof:placetype":"localadmin",

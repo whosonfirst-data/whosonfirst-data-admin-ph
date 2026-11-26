@@ -72,7 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675933
+        85675933,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,11 +88,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696993,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1108696993,
-    "wof:lastmodified":1695886687,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bilar",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

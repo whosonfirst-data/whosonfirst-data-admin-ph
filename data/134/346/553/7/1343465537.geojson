@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676361,
-        1108699545
+        1108699545,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699545,
             "locality_id":1343465537,
+            "macroregion_id":9895008392,
             "region_id":85676361
         }
     ],
     "wof:id":1343465537,
-    "wof:lastmodified":1566679450,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lalayan",
     "wof:parent_id":1108699545,
     "wof:placetype":"locality",

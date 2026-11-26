@@ -141,7 +141,8 @@
         102191569,
         85632509,
         85676047,
-        1108697981
+        1108697981,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,11 +156,12 @@
             "country_id":85632509,
             "county_id":1108697981,
             "locality_id":1226658759,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1226658759,
-    "wof:lastmodified":1566683297,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jurisdiction",
     "wof:parent_id":1108697981,
     "wof:placetype":"locality",

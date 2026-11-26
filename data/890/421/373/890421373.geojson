@@ -65,7 +65,8 @@
         102191569,
         85632509,
         85675945,
-        1108699843
+        1108699843,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "country_id":85632509,
             "county_id":1108699843,
             "localadmin_id":890421373,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890421373,
-    "wof:lastmodified":1566682043,
+    "wof:lastmodified":1795733694,
     "wof:name":"Vallehermoso",
     "wof:parent_id":1108699843,
     "wof:placetype":"localadmin",

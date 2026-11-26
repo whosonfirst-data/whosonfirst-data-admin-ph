@@ -452,7 +452,8 @@
         102191569,
         85632509,
         85676107,
-        1108697671
+        1108697671,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -471,11 +472,12 @@
             "country_id":85632509,
             "county_id":1108697671,
             "locality_id":890432063,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":890432063,
-    "wof:lastmodified":1690851891,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108697671,
     "wof:placetype":"locality",

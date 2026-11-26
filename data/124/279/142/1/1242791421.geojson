@@ -80,7 +80,8 @@
         102191569,
         85632509,
         85676153,
-        1108698333
+        1108698333,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +95,12 @@
             "country_id":85632509,
             "county_id":1108698333,
             "locality_id":1242791421,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1242791421,
-    "wof:lastmodified":1566682584,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calabanga",
     "wof:parent_id":1108698333,
     "wof:placetype":"locality",

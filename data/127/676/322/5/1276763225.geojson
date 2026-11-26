@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676101,
-        1108697611
+        1108697611,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697611,
             "locality_id":1276763225,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1276763225,
-    "wof:lastmodified":1566680305,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balante",
     "wof:parent_id":1108697611,
     "wof:placetype":"locality",

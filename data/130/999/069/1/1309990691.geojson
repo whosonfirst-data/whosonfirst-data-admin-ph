@@ -387,7 +387,8 @@
         102191569,
         85632509,
         85676197,
-        1108696593
+        1108696593,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -401,11 +402,12 @@
             "country_id":85632509,
             "county_id":1108696593,
             "locality_id":1309990691,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1309990691,
-    "wof:lastmodified":1566681693,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Diego",
     "wof:parent_id":1108696593,
     "wof:placetype":"locality",

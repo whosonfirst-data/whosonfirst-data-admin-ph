@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108696591
+        1108696591,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696591,
             "locality_id":1242586671,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1242586671,
-    "wof:lastmodified":1566682474,
+    "wof:lastmodified":1795733694,
     "wof:name":"Magsaysay",
     "wof:parent_id":1108696591,
     "wof:placetype":"locality",

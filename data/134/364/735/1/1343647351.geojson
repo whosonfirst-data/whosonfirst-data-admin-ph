@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675939,
-        1108699747
+        1108699747,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699747,
             "locality_id":1343647351,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1343647351,
-    "wof:lastmodified":1566679378,
+    "wof:lastmodified":1795733694,
     "wof:name":"Campo Ocho",
     "wof:parent_id":1108699747,
     "wof:placetype":"locality",

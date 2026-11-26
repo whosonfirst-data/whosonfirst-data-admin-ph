@@ -74,7 +74,8 @@
         102191569,
         85632509,
         85676263,
-        1108699813
+        1108699813,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +92,12 @@
             "country_id":85632509,
             "county_id":1108699813,
             "localadmin_id":890438413,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890438413,
-    "wof:lastmodified":1566682010,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tupi",
     "wof:parent_id":1108699813,
     "wof:placetype":"localadmin",

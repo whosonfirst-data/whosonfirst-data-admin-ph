@@ -255,7 +255,8 @@
         102191569,
         85632509,
         85676021,
-        1108698479
+        1108698479,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,11 +275,12 @@
             "country_id":85632509,
             "county_id":1108698479,
             "locality_id":421205221,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":421205221,
-    "wof:lastmodified":1690851433,
+    "wof:lastmodified":1795733694,
     "wof:name":"Milaor",
     "wof:parent_id":1108698479,
     "wof:placetype":"locality",

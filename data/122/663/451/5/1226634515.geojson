@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676317,
-        1108697749
+        1108697749,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697749,
             "locality_id":1226634515,
+            "macroregion_id":9895008400,
             "region_id":85676317
         }
     ],
     "wof:id":1226634515,
-    "wof:lastmodified":1566683281,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahabowa",
     "wof:parent_id":1108697749,
     "wof:placetype":"locality",

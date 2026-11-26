@@ -239,7 +239,8 @@
         102191569,
         85632509,
         85675939,
-        1108699409
+        1108699409,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108699409,
             "locality_id":421177295,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":421177295,
-    "wof:lastmodified":1690851550,
+    "wof:lastmodified":1795733694,
     "wof:name":"Samboan",
     "wof:parent_id":1108699409,
     "wof:placetype":"locality",

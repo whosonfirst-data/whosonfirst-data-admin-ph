@@ -258,7 +258,8 @@
         102191569,
         85632509,
         85676173,
-        1108697111
+        1108697111,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -277,11 +278,12 @@
             "country_id":85632509,
             "county_id":1108697111,
             "locality_id":421180971,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":421180971,
-    "wof:lastmodified":1690851454,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buluan",
     "wof:parent_id":1108697111,
     "wof:placetype":"locality",

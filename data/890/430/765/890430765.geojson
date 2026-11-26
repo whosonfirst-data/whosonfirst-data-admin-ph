@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675967,
-        1108699585
+        1108699585,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699585,
             "localadmin_id":890430765,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890430765,
-    "wof:lastmodified":1566681936,
+    "wof:lastmodified":1795733694,
     "wof:name":"Municpality of Tabina",
     "wof:parent_id":1108699585,
     "wof:placetype":"localadmin",

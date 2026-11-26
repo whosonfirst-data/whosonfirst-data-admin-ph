@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676221,
-        1108697929
+        1108697929,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108697929,
             "localadmin_id":890432885,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":890432885,
-    "wof:lastmodified":1566682241,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dangcagan",
     "wof:parent_id":1108697929,
     "wof:placetype":"localadmin",

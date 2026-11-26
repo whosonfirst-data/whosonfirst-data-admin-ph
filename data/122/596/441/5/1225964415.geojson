@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85675933,
-        1108697421
+        1108697421,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +59,12 @@
             "country_id":85632509,
             "county_id":1108697421,
             "locality_id":1225964415,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1225964415,
-    "wof:lastmodified":1566683165,
+    "wof:lastmodified":1795733694,
     "wof:name":"Can-oling",
     "wof:parent_id":1108697421,
     "wof:placetype":"locality",

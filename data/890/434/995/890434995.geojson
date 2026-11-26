@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85675981,
-        1108699675
+        1108699675,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108699675,
             "localadmin_id":890434995,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":890434995,
-    "wof:lastmodified":1566682152,
+    "wof:lastmodified":1795733694,
     "wof:name":"Makato",
     "wof:parent_id":1108699675,
     "wof:placetype":"localadmin",

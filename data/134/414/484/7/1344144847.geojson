@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676253,
-        1108698323
+        1108698323,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698323,
             "locality_id":1344144847,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1344144847,
-    "wof:lastmodified":1566679403,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cogon-Malalag",
     "wof:parent_id":1108698323,
     "wof:placetype":"locality",

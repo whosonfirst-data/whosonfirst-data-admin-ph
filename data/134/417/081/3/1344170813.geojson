@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676057,
-        1108698677
+        1108698677,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108698677,
             "locality_id":1344170813,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1344170813,
-    "wof:lastmodified":1566679589,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bolinao",
     "wof:parent_id":1108698677,
     "wof:placetype":"locality",

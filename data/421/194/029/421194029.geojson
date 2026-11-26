@@ -288,7 +288,8 @@
         102191569,
         85632509,
         85676043,
-        1108696925
+        1108696925,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -307,11 +308,12 @@
             "country_id":85632509,
             "county_id":1108696925,
             "locality_id":421194029,
+            "macroregion_id":9895008391,
             "region_id":85676043
         }
     ],
     "wof:id":421194029,
-    "wof:lastmodified":1690851395,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basco",
     "wof:parent_id":1108696925,
     "wof:placetype":"locality",

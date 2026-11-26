@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676141,
-        1108697007
+        1108697007,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697007,
             "locality_id":1344108157,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1344108157,
-    "wof:lastmodified":1566679590,
+    "wof:lastmodified":1795733694,
     "wof:name":"Town and Country Southville",
     "wof:parent_id":1108697007,
     "wof:placetype":"locality",

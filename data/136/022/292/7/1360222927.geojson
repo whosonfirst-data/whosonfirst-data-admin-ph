@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676131,
-        1108698719
+        1108698719,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108698719,
             "locality_id":1360222927,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1360222927,
-    "wof:lastmodified":1566681555,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sampaguita",
     "wof:parent_id":1108698719,
     "wof:placetype":"locality",

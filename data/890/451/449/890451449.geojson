@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676127,
-        890438385
+        890438385,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":890438385,
             "locality_id":890451449,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890451449,
-    "wof:lastmodified":1566682121,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aliang",
     "wof:parent_id":890438385,
     "wof:placetype":"locality",

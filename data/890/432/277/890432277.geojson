@@ -149,7 +149,8 @@
         102191569,
         85632509,
         85676101,
-        1108699421
+        1108699421,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,11 +169,12 @@
             "country_id":85632509,
             "county_id":1108699421,
             "locality_id":890432277,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":890432277,
-    "wof:lastmodified":1690851899,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Rita",
     "wof:parent_id":1108699421,
     "wof:placetype":"locality",

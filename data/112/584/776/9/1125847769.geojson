@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85676249,
-        1108697771
+        1108697771,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697771,
             "locality_id":1125847769,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":1125847769,
-    "wof:lastmodified":1566682305,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gimampang",
     "wof:parent_id":1108697771,
     "wof:placetype":"locality",

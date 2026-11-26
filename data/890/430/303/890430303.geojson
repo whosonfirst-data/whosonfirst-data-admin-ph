@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675993,
-        1108696935
+        1108696935,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696935,
             "localadmin_id":890430303,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":890430303,
-    "wof:lastmodified":1566681942,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batad",
     "wof:parent_id":1108696935,
     "wof:placetype":"localadmin",

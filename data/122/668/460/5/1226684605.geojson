@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676127,
-        1108697911
+        1108697911,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697911,
             "locality_id":1226684605,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1226684605,
-    "wof:lastmodified":1566683145,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marulas",
     "wof:parent_id":1108697911,
     "wof:placetype":"locality",

@@ -383,7 +383,8 @@
         102191569,
         85632509,
         85675999,
-        1108698679
+        1108698679,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -401,11 +402,12 @@
             "country_id":85632509,
             "county_id":1108698679,
             "locality_id":890415887,
+            "macroregion_id":9895008396,
             "region_id":85675999
         }
     ],
     "wof:id":890415887,
-    "wof:lastmodified":1636501119,
+    "wof:lastmodified":1795733694,
     "wof:name":"La Paz",
     "wof:parent_id":1108698679,
     "wof:placetype":"locality",

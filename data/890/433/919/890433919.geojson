@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676253,
-        1108699345
+        1108699345,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699345,
             "locality_id":890433919,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":890433919,
-    "wof:lastmodified":1566682183,
+    "wof:lastmodified":1795733694,
     "wof:name":"Takub",
     "wof:parent_id":1108699345,
     "wof:placetype":"locality",

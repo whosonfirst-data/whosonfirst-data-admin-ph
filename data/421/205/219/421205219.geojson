@@ -231,7 +231,8 @@
         102191569,
         85632509,
         85676201,
-        1108698513
+        1108698513,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,11 +251,12 @@
             "country_id":85632509,
             "county_id":1108698513,
             "locality_id":421205219,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":421205219,
-    "wof:lastmodified":1690851434,
+    "wof:lastmodified":1795733694,
     "wof:name":"Motiong",
     "wof:parent_id":1108698513,
     "wof:placetype":"locality",

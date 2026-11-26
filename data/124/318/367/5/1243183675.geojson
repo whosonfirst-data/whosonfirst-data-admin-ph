@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676135,
-        1108699305
+        1108699305,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699305,
             "locality_id":1243183675,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1243183675,
-    "wof:lastmodified":1566682649,
+    "wof:lastmodified":1795733694,
     "wof:name":"Libis",
     "wof:parent_id":1108699305,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676123,
-        1108698001
+        1108698001,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698001,
             "locality_id":1310014919,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1310014919,
-    "wof:lastmodified":1566681395,
+    "wof:lastmodified":1795733694,
     "wof:name":"Inoman",
     "wof:parent_id":1108698001,
     "wof:placetype":"locality",

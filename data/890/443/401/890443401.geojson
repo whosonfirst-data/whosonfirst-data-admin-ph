@@ -59,7 +59,8 @@
         102191569,
         85632509,
         85676003,
-        1108698647
+        1108698647,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "country_id":85632509,
             "county_id":1108698647,
             "localadmin_id":890443401,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890443401,
-    "wof:lastmodified":1566682063,
+    "wof:lastmodified":1795733694,
     "wof:name":"Coron",
     "wof:parent_id":1108698647,
     "wof:placetype":"localadmin",

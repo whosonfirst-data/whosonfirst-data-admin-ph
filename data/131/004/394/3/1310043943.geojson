@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676131,
-        1108699579
+        1108699579,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699579,
             "locality_id":1310043943,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1310043943,
-    "wof:lastmodified":1566681479,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ilog",
     "wof:parent_id":1108699579,
     "wof:placetype":"locality",

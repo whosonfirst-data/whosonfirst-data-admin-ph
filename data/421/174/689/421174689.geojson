@@ -249,7 +249,8 @@
         102191569,
         85632509,
         85676101,
-        1108698029
+        1108698029,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,11 +269,12 @@
             "country_id":85632509,
             "county_id":1108698029,
             "locality_id":421174689,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":421174689,
-    "wof:lastmodified":1690851442,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laur",
     "wof:parent_id":1108698029,
     "wof:placetype":"locality",

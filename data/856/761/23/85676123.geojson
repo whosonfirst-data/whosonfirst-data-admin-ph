@@ -352,7 +352,8 @@
     "wd:wordcount":6194,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008390
     ],
     "wof:breaches":[
         85676365
@@ -377,6 +378,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
@@ -396,9 +398,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884880,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pangasinan",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008390,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:shortcode":"PN",

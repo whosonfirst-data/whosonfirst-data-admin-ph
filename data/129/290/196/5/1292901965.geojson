@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676025,
-        1108699859
+        1108699859,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699859,
             "locality_id":1292901965,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":1292901965,
-    "wof:lastmodified":1566679972,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batinagon",
     "wof:parent_id":1108699859,
     "wof:placetype":"locality",

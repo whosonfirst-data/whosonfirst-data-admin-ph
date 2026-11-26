@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676161,
-        1108698857
+        1108698857,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698857,
             "locality_id":1310651887,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1310651887,
-    "wof:lastmodified":1566681335,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pinagtubigan Weste",
     "wof:parent_id":1108698857,
     "wof:placetype":"locality",

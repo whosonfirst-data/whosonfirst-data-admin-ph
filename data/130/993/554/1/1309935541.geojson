@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85675945,
-        1108699211
+        1108699211,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699211,
             "locality_id":1309935541,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1309935541,
-    "wof:lastmodified":1566681739,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calo",
     "wof:parent_id":1108699211,
     "wof:placetype":"locality",

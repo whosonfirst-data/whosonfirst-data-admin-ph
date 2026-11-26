@@ -47,7 +47,8 @@
         102191569,
         85632509,
         85676021,
-        1108698601
+        1108698601,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108698601,
             "locality_id":890421925,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890421925,
-    "wof:lastmodified":1690851731,
+    "wof:lastmodified":1795733694,
     "wof:name":"Salogon",
     "wof:parent_id":1108698601,
     "wof:placetype":"locality",

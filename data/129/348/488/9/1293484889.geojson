@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675993,
-        1108699195
+        1108699195,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699195,
             "locality_id":1293484889,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1293484889,
-    "wof:lastmodified":1566679818,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talagutac",
     "wof:parent_id":1108699195,
     "wof:placetype":"locality",

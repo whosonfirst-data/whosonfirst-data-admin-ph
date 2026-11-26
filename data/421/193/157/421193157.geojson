@@ -237,7 +237,8 @@
         102191569,
         85632509,
         85675971,
-        1108697357
+        1108697357,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -256,11 +257,12 @@
             "country_id":85632509,
             "county_id":1108697357,
             "locality_id":421193157,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":421193157,
-    "wof:lastmodified":1690851399,
+    "wof:lastmodified":1795733694,
     "wof:name":"Clarin",
     "wof:parent_id":1108697357,
     "wof:placetype":"locality",

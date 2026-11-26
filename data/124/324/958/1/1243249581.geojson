@@ -90,7 +90,8 @@
         102191569,
         85632509,
         85676239,
-        1108698887
+        1108698887,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108698887,
             "locality_id":1243249581,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":1243249581,
-    "wof:lastmodified":1566682499,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maasin",
     "wof:parent_id":1108698887,
     "wof:placetype":"locality",

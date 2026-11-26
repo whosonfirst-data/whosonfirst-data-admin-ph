@@ -406,7 +406,8 @@
         102191569,
         85632509,
         85675967,
-        890429639
+        890429639,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -428,11 +429,12 @@
             "country_id":85632509,
             "county_id":890429639,
             "locality_id":890440023,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890440023,
-    "wof:lastmodified":1690851603,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pagadian",
     "wof:parent_id":890429639,
     "wof:placetype":"locality",

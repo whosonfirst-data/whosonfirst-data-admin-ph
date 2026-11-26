@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676025,
-        1108696897
+        1108696897,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696897,
             "locality_id":1226752215,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":1226752215,
-    "wof:lastmodified":1566682999,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caragomihan",
     "wof:parent_id":1108696897,
     "wof:placetype":"locality",

@@ -256,7 +256,8 @@
         102191569,
         85632509,
         85675993,
-        1108697163
+        1108697163,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -289,11 +290,12 @@
             "country_id":85632509,
             "county_id":1108697163,
             "locality_id":890453523,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":890453523,
-    "wof:lastmodified":1706240584,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabatuan",
     "wof:parent_id":1108697163,
     "wof:placetype":"locality",

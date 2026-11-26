@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676079,
-        1108696961
+        1108696961,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696961,
             "locality_id":1344027741,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1344027741,
-    "wof:lastmodified":1566679607,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mabaay",
     "wof:parent_id":1108696961,
     "wof:placetype":"locality",

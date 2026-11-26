@@ -220,7 +220,8 @@
         102191569,
         85632509,
         85676029,
-        1108698737
+        1108698737,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -238,11 +239,12 @@
             "country_id":85632509,
             "county_id":1108698737,
             "locality_id":890421955,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890421955,
-    "wof:lastmodified":1690851727,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palanas",
     "wof:parent_id":1108698737,
     "wof:placetype":"locality",

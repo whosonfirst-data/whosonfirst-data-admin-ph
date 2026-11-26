@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108696813
+        1108696813,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696813,
             "locality_id":1343961435,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1343961435,
-    "wof:lastmodified":1566679332,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sabiut",
     "wof:parent_id":1108696813,
     "wof:placetype":"locality",

@@ -217,7 +217,8 @@
         102191569,
         85632509,
         85676201,
-        1108699629
+        1108699629,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,11 +236,12 @@
             "country_id":85632509,
             "county_id":1108699629,
             "locality_id":890450341,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":890450341,
-    "wof:lastmodified":1690851870,
+    "wof:lastmodified":1795733694,
     "wof:name":"Talalora",
     "wof:parent_id":1108699629,
     "wof:placetype":"locality",

@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675971
+        85675971,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699503,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1108699503,
-    "wof:lastmodified":1695886400,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sinacaban",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

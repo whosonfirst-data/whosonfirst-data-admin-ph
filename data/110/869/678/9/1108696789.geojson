@@ -63,7 +63,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676359
+        85676359,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696789,
+            "macroregion_id":9895008404,
             "region_id":85676359
         }
     ],
     "wof:id":1108696789,
-    "wof:lastmodified":1695886772,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baguio City",
     "wof:parent_id":85676359,
     "wof:placetype":"county",

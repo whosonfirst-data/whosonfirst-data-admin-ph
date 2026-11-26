@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85675929,
-        1108699523
+        1108699523,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699523,
             "locality_id":1360155229,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":1360155229,
-    "wof:lastmodified":1566681548,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tung Gusung",
     "wof:parent_id":1108699523,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676131,
-        1108698189
+        1108698189,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698189,
             "locality_id":1259634625,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1259634625,
-    "wof:lastmodified":1566682766,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malimatoc",
     "wof:parent_id":1108698189,
     "wof:placetype":"locality",

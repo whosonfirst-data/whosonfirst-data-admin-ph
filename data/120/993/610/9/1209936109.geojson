@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676203,
-        1108698061
+        1108698061,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698061,
             "locality_id":1209936109,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1209936109,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1795733694,
     "wof:name":"Oticon",
     "wof:parent_id":1108698061,
     "wof:placetype":"locality",

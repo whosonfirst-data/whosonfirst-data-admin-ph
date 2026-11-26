@@ -123,7 +123,8 @@
         102191569,
         85632509,
         85676119,
-        1108696571
+        1108696571,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,11 +138,12 @@
             "country_id":85632509,
             "county_id":1108696571,
             "locality_id":1226751011,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1226751011,
-    "wof:lastmodified":1636501237,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Marcos",
     "wof:parent_id":1108696571,
     "wof:placetype":"locality",

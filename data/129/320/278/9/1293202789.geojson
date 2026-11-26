@@ -87,7 +87,8 @@
         102191569,
         85632509,
         85676047,
-        1108697567
+        1108697567,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,11 +102,12 @@
             "country_id":85632509,
             "county_id":1108697567,
             "locality_id":1293202789,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1293202789,
-    "wof:lastmodified":1566679991,
+    "wof:lastmodified":1795733694,
     "wof:name":"Inga",
     "wof:parent_id":1108697567,
     "wof:placetype":"locality",

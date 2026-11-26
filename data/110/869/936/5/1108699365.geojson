@@ -172,7 +172,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676007
+        85676007,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,11 +188,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699365,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1108699365,
-    "wof:lastmodified":1695886666,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Fe",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676221,
-        1108697159
+        1108697159,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697159,
             "locality_id":1243358513,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1243358513,
-    "wof:lastmodified":1566682539,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barangay Silae",
     "wof:parent_id":1108697159,
     "wof:placetype":"locality",

@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676203,
-        1108698089
+        1108698089,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698089,
             "locality_id":1310194993,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1310194993,
-    "wof:lastmodified":1566681466,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guintoylan",
     "wof:parent_id":1108698089,
     "wof:placetype":"locality",

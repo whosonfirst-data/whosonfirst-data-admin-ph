@@ -108,7 +108,8 @@
         102191569,
         85632509,
         85676141,
-        1108696979
+        1108696979,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,11 +123,12 @@
             "country_id":85632509,
             "county_id":1108696979,
             "locality_id":1259434001,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1259434001,
-    "wof:lastmodified":1636501233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108696979,
     "wof:placetype":"locality",

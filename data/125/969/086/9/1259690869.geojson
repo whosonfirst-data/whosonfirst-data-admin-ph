@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676097,
-        1108697379
+        1108697379,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697379,
             "locality_id":1259690869,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1259690869,
-    "wof:lastmodified":1566682918,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dutung-A-Matas",
     "wof:parent_id":1108697379,
     "wof:placetype":"locality",

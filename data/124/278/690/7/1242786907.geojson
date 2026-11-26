@@ -117,7 +117,8 @@
         102191569,
         85632509,
         85676123,
-        1108698297
+        1108698297,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,11 +132,12 @@
             "country_id":85632509,
             "county_id":1108698297,
             "locality_id":1242786907,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1242786907,
-    "wof:lastmodified":1566682591,
+    "wof:lastmodified":1795733694,
     "wof:name":"Carlos",
     "wof:parent_id":1108698297,
     "wof:placetype":"locality",

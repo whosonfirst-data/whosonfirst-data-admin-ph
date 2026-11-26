@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675963,
-        1108698847
+        1108698847,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698847,
             "locality_id":1226326433,
+            "macroregion_id":9895008399,
             "region_id":85675963
         }
     ],
     "wof:id":1226326433,
-    "wof:lastmodified":1566683134,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tamban",
     "wof:parent_id":1108698847,
     "wof:placetype":"locality",

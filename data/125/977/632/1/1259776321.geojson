@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676029,
-        1108697579
+        1108697579,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697579,
             "locality_id":1259776321,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1259776321,
-    "wof:lastmodified":1566682794,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lungib",
     "wof:parent_id":1108697579,
     "wof:placetype":"locality",

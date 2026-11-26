@@ -293,7 +293,8 @@
     "wd:wordcount":4702,
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -312,6 +313,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008392,
             "region_id":85676361
         }
     ],
@@ -331,9 +333,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695885132,
+    "wof:lastmodified":1795733694,
     "wof:name":"Olongapo",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008392,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],

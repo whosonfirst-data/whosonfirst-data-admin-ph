@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85676029,
-        1108696709
+        1108696709,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696709,
             "locality_id":890450281,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890450281,
-    "wof:lastmodified":1566682194,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tigbao",
     "wof:parent_id":1108696709,
     "wof:placetype":"locality",

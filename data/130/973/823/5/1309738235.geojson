@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85675945,
-        1108699835
+        1108699835,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108699835,
             "locality_id":1309738235,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1309738235,
-    "wof:lastmodified":1566681753,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lunga",
     "wof:parent_id":1108699835,
     "wof:placetype":"locality",

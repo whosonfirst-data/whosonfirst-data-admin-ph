@@ -285,7 +285,8 @@
         102191569,
         85632509,
         85676007,
-        1108697217
+        1108697217,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -304,11 +305,12 @@
             "country_id":85632509,
             "county_id":1108697217,
             "locality_id":421174709,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":421174709,
-    "wof:lastmodified":1690851440,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calatrava",
     "wof:parent_id":1108697217,
     "wof:placetype":"locality",

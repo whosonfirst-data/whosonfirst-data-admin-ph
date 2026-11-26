@@ -244,7 +244,8 @@
         102191569,
         85632509,
         85676145,
-        1108697807
+        1108697807,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,11 +262,12 @@
             "country_id":85632509,
             "county_id":1108697807,
             "locality_id":1125792253,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1125792253,
-    "wof:lastmodified":1690851928,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jalajala",
     "wof:parent_id":1108697807,
     "wof:placetype":"locality",

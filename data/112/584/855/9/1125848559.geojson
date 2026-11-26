@@ -46,7 +46,8 @@
         102191569,
         85632509,
         85676101,
-        1108697683
+        1108697683,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108697683,
             "locality_id":1125848559,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1125848559,
-    "wof:lastmodified":1566682315,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bunol",
     "wof:parent_id":1108697683,
     "wof:placetype":"locality",

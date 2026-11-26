@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85675945,
-        1108699705
+        1108699705,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108699705,
             "localadmin_id":890429565,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890429565,
-    "wof:lastmodified":1690851780,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tayasan",
     "wof:parent_id":1108699705,
     "wof:placetype":"localadmin",

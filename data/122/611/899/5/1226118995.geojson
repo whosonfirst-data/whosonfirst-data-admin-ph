@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676179,
-        1108698077
+        1108698077,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698077,
             "locality_id":1226118995,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1226118995,
-    "wof:lastmodified":1566683071,
+    "wof:lastmodified":1795733694,
     "wof:name":"Atin",
     "wof:parent_id":1108698077,
     "wof:placetype":"locality",

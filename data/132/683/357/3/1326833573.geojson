@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676123,
-        1108698195
+        1108698195,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698195,
             "locality_id":1326833573,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1326833573,
-    "wof:lastmodified":1566679185,
+    "wof:lastmodified":1795733694,
     "wof:name":"Culebra",
     "wof:parent_id":1108698195,
     "wof:placetype":"locality",

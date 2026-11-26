@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85675933,
-        1108698117
+        1108698117,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108698117,
             "locality_id":1276438435,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1276438435,
-    "wof:lastmodified":1566680142,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tiwi",
     "wof:parent_id":1108698117,
     "wof:placetype":"locality",

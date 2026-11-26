@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676135,
-        1108696693
+        1108696693,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696693,
             "locality_id":1343360283,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1343360283,
-    "wof:lastmodified":1566679315,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balete",
     "wof:parent_id":1108696693,
     "wof:placetype":"locality",

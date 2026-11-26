@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676073,
-        1108696723
+        1108696723,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108696723,
             "locality_id":1309913743,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1309913743,
-    "wof:lastmodified":1636501084,
+    "wof:lastmodified":1795733694,
     "wof:name":"Diamantina",
     "wof:parent_id":1108696723,
     "wof:placetype":"locality",

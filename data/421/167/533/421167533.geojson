@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85676083,
-        1108699873
+        1108699873,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85632509,
             "county_id":1108699873,
             "locality_id":421167533,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":421167533,
-    "wof:lastmodified":1566681800,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ibung",
     "wof:parent_id":1108699873,
     "wof:placetype":"locality",

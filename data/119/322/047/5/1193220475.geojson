@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676145,
-        1108697005
+        1108697005,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697005,
             "locality_id":1193220475,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1193220475,
-    "wof:lastmodified":1566680898,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calumpang",
     "wof:parent_id":1108697005,
     "wof:placetype":"locality",

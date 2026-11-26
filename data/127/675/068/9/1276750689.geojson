@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676183,
-        1108698037
+        1108698037,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108698037,
             "locality_id":1276750689,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1276750689,
-    "wof:lastmodified":1636500912,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kati",
     "wof:parent_id":1108698037,
     "wof:placetype":"locality",

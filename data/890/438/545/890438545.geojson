@@ -244,7 +244,8 @@
         102191569,
         85632509,
         85676057,
-        1108697125
+        1108697125,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,11 +262,12 @@
             "country_id":85632509,
             "county_id":1108697125,
             "localadmin_id":890438545,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890438545,
-    "wof:lastmodified":1566682015,
+    "wof:lastmodified":1795733694,
     "wof:name":"Burgos",
     "wof:parent_id":1108697125,
     "wof:placetype":"localadmin",

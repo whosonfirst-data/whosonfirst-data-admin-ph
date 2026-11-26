@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675981,
-        1108696829
+        1108696829,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696829,
             "locality_id":1243385209,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1243385209,
-    "wof:lastmodified":1566682330,
+    "wof:lastmodified":1795733694,
     "wof:name":"Naspasan",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",

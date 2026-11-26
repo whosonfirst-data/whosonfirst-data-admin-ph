@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676201,
-        1108698375
+        1108698375,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698375,
             "locality_id":1310194979,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1310194979,
-    "wof:lastmodified":1566681466,
+    "wof:lastmodified":1795733694,
     "wof:name":"Odoc",
     "wof:parent_id":1108698375,
     "wof:placetype":"locality",

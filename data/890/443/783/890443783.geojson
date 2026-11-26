@@ -245,7 +245,8 @@
         102191569,
         85632509,
         85676083,
-        1108696983
+        1108696983,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -263,11 +264,12 @@
             "country_id":85632509,
             "county_id":1108696983,
             "localadmin_id":890443783,
+            "macroregion_id":9895008391,
             "region_id":85676083
         }
     ],
     "wof:id":890443783,
-    "wof:lastmodified":1690851764,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bayombong",
     "wof:parent_id":1108696983,
     "wof:placetype":"localadmin",

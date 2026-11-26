@@ -72,7 +72,8 @@
         102191569,
         85632509,
         85676161,
-        1108698515
+        1108698515,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85632509,
             "county_id":1108698515,
             "locality_id":1193175329,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1193175329,
-    "wof:lastmodified":1566680944,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baro",
     "wof:parent_id":1108698515,
     "wof:placetype":"locality",

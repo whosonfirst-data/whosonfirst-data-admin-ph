@@ -370,7 +370,8 @@
         102191569,
         85632509,
         85676249,
-        1108698457
+        1108698457,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -387,11 +388,12 @@
             "country_id":85632509,
             "county_id":1108698457,
             "localadmin_id":890442467,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":890442467,
-    "wof:lastmodified":1566682114,
+    "wof:lastmodified":1795733694,
     "wof:name":"Medina",
     "wof:parent_id":1108698457,
     "wof:placetype":"localadmin",

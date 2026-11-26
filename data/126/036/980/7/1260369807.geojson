@@ -126,7 +126,8 @@
         102191569,
         85632509,
         85676179,
-        1108697925
+        1108697925,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,11 +141,12 @@
             "country_id":85632509,
             "county_id":1108697925,
             "locality_id":1260369807,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1260369807,
-    "wof:lastmodified":1566680995,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sala",
     "wof:parent_id":1108697925,
     "wof:placetype":"locality",

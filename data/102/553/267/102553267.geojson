@@ -71,7 +71,8 @@
         102191569,
         85632509,
         85676029,
-        890437629
+        890437629,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +92,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":890437629,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":102553267,
-    "wof:lastmodified":1566679303,
+    "wof:lastmodified":1795733694,
     "wof:name":"Masbate Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

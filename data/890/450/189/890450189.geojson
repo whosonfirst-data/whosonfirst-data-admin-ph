@@ -349,7 +349,8 @@
         102191569,
         85632509,
         85676123,
-        1108698649
+        1108698649,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -367,11 +368,12 @@
             "country_id":85632509,
             "county_id":1108698649,
             "locality_id":890450189,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890450189,
-    "wof:lastmodified":1566682199,
+    "wof:lastmodified":1795733694,
     "wof:name":"Zaragoza",
     "wof:parent_id":1108698649,
     "wof:placetype":"locality",

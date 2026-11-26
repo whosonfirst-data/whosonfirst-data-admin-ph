@@ -108,7 +108,8 @@
         102191569,
         85632509,
         85676351,
-        1108696677
+        1108696677,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,11 +123,12 @@
             "country_id":85632509,
             "county_id":1108696677,
             "locality_id":1226759051,
+            "macroregion_id":9895008392,
             "region_id":85676351
         }
     ],
     "wof:id":1226759051,
-    "wof:lastmodified":1636501237,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dolores",
     "wof:parent_id":1108696677,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676039,
-        1108699301
+        1108699301,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699301,
             "locality_id":1310175123,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1310175123,
-    "wof:lastmodified":1566681450,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bilid",
     "wof:parent_id":1108699301,
     "wof:placetype":"locality",

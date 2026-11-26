@@ -49,7 +49,8 @@
         102191569,
         85632509,
         85676047,
-        1108699799
+        1108699799,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108699799,
             "locality_id":1125847705,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1125847705,
-    "wof:lastmodified":1566682306,
+    "wof:lastmodified":1795733694,
     "wof:name":"Larion Altu",
     "wof:parent_id":1108699799,
     "wof:placetype":"locality",

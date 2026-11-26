@@ -272,7 +272,8 @@
         102191569,
         85632509,
         85676197,
-        1108699863
+        1108699863,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -301,11 +302,12 @@
             "country_id":85632509,
             "county_id":1108699863,
             "locality_id":421192759,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":421192759,
-    "wof:lastmodified":1706240578,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tuburan",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

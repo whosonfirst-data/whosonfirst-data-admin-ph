@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676153,
-        1108697227
+        1108697227,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697227,
             "locality_id":1242903405,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1242903405,
-    "wof:lastmodified":1566682626,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gawaygaway",
     "wof:parent_id":1108697227,
     "wof:placetype":"locality",

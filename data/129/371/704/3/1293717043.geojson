@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675945,
-        1108698187
+        1108698187,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698187,
             "locality_id":1293717043,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1293717043,
-    "wof:lastmodified":1566679839,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mahaba",
     "wof:parent_id":1108698187,
     "wof:placetype":"locality",

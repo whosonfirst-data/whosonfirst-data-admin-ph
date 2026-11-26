@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85675993,
-        1108697585
+        1108697585,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108697585,
             "locality_id":1259877059,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1259877059,
-    "wof:lastmodified":1566682927,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paon",
     "wof:parent_id":1108697585,
     "wof:placetype":"locality",

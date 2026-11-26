@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676135,
-        1108696849
+        1108696849,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108696849,
             "locality_id":1293201851,
+            "macroregion_id":9895008392,
             "region_id":85676135
         }
     ],
     "wof:id":1293201851,
-    "wof:lastmodified":1566679992,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cut-cot",
     "wof:parent_id":1108696849,
     "wof:placetype":"locality",

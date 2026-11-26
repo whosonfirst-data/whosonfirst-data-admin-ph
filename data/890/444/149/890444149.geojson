@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676073,
-        1108699171
+        1108699171,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108699171,
             "locality_id":890444149,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890444149,
-    "wof:lastmodified":1690851751,
+    "wof:lastmodified":1795733694,
     "wof:name":"Angadanan",
     "wof:parent_id":1108699171,
     "wof:placetype":"locality",

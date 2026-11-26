@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676123,
-        1108696969
+        1108696969,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696969,
             "locality_id":1225858695,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1225858695,
-    "wof:lastmodified":1566683343,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ambayat First",
     "wof:parent_id":1108696969,
     "wof:placetype":"locality",

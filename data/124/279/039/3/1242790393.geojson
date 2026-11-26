@@ -117,7 +117,8 @@
         102191569,
         85632509,
         85676073,
-        1108696629
+        1108696629,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,11 +132,12 @@
             "country_id":85632509,
             "county_id":1108696629,
             "locality_id":1242790393,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1242790393,
-    "wof:lastmodified":1636501196,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Pablo",
     "wof:parent_id":1108696629,
     "wof:placetype":"locality",

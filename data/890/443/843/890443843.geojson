@@ -53,7 +53,8 @@
         102191569,
         85632509,
         85676131,
-        1108698045
+        1108698045,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +71,12 @@
             "country_id":85632509,
             "county_id":1108698045,
             "localadmin_id":890443843,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890443843,
-    "wof:lastmodified":1566682062,
+    "wof:lastmodified":1795733694,
     "wof:name":"Agoncillo",
     "wof:parent_id":1108698045,
     "wof:placetype":"localadmin",

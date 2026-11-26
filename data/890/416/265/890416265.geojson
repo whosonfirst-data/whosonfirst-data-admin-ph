@@ -226,7 +226,8 @@
         102191569,
         85632509,
         85676123,
-        1108696713
+        1108696713,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,11 +245,12 @@
             "country_id":85632509,
             "county_id":1108696713,
             "locality_id":890416265,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":890416265,
-    "wof:lastmodified":1690851792,
+    "wof:lastmodified":1795733694,
     "wof:name":"Asingan",
     "wof:parent_id":1108696713,
     "wof:placetype":"locality",

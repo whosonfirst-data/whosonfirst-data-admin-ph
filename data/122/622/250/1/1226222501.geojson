@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676255,
-        1108699183
+        1108699183,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699183,
             "locality_id":1226222501,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":1226222501,
-    "wof:lastmodified":1566683193,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cambalion",
     "wof:parent_id":1108699183,
     "wof:placetype":"locality",

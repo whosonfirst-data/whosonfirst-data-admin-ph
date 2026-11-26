@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676039,
-        1108699179
+        1108699179,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699179,
             "locality_id":1276198521,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1276198521,
-    "wof:lastmodified":1566680169,
+    "wof:lastmodified":1795733694,
     "wof:name":"Langbaban",
     "wof:parent_id":1108699179,
     "wof:placetype":"locality",

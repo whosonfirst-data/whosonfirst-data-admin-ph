@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676073,
-        1108698625
+        1108698625,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698625,
             "locality_id":890450445,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":890450445,
-    "wof:lastmodified":1566682211,
+    "wof:lastmodified":1795733694,
     "wof:name":"Siempre Viva",
     "wof:parent_id":1108698625,
     "wof:placetype":"locality",

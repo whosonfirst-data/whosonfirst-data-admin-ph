@@ -484,7 +484,8 @@
         102191569,
         85632509,
         85675939,
-        1108696613
+        1108696613,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -503,11 +504,12 @@
             "country_id":85632509,
             "county_id":1108696613,
             "locality_id":890421365,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890421365,
-    "wof:lastmodified":1690851725,
+    "wof:lastmodified":1795733694,
     "wof:name":"Valencia",
     "wof:parent_id":1108696613,
     "wof:placetype":"locality",

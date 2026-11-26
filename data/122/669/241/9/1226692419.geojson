@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676131,
-        1108698045
+        1108698045,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698045,
             "locality_id":1226692419,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1226692419,
-    "wof:lastmodified":1566683101,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bucal",
     "wof:parent_id":1108698045,
     "wof:placetype":"locality",

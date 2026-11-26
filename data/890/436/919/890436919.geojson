@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85675993,
-        1108697541
+        1108697541,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697541,
             "localadmin_id":890436919,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":890436919,
-    "wof:lastmodified":1566681984,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dumangas",
     "wof:parent_id":1108697541,
     "wof:placetype":"localadmin",

@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676153
+        85676153,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698753,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1108698753,
-    "wof:lastmodified":1695886374,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paluan",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

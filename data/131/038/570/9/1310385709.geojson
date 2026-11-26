@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676253,
-        1108697475
+        1108697475,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697475,
             "locality_id":1310385709,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1310385709,
-    "wof:lastmodified":1566681347,
+    "wof:lastmodified":1795733694,
     "wof:name":"Haley",
     "wof:parent_id":1108697475,
     "wof:placetype":"locality",

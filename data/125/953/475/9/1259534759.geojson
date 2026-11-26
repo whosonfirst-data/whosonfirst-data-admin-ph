@@ -126,7 +126,8 @@
         102191569,
         85632509,
         85676127,
-        1108697911
+        1108697911,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,11 +141,12 @@
             "country_id":85632509,
             "county_id":1108697911,
             "locality_id":1259534759,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1259534759,
-    "wof:lastmodified":1636501212,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Isabel",
     "wof:parent_id":1108697911,
     "wof:placetype":"locality",

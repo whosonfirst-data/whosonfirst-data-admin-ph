@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676119,
-        1108696877
+        1108696877,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696877,
             "locality_id":1260298995,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1260298995,
-    "wof:lastmodified":1566681046,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tallipago",
     "wof:parent_id":1108696877,
     "wof:placetype":"locality",

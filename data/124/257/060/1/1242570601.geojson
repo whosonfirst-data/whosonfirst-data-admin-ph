@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676011,
-        1108698043
+        1108698043,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108698043,
             "locality_id":1242570601,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1242570601,
-    "wof:lastmodified":1566682436,
+    "wof:lastmodified":1795733694,
     "wof:name":"Poro",
     "wof:parent_id":1108698043,
     "wof:placetype":"locality",

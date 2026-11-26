@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676011,
-        1108698083
+        1108698083,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698083,
             "locality_id":1360078067,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":1360078067,
-    "wof:lastmodified":1566681566,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balanoc",
     "wof:parent_id":1108698083,
     "wof:placetype":"locality",

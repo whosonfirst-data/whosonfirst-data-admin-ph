@@ -178,7 +178,8 @@
         102191569,
         85632509,
         85676201,
-        1108699869
+        1108699869,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -195,11 +196,12 @@
             "country_id":85632509,
             "county_id":1108699869,
             "localadmin_id":890421745,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":890421745,
-    "wof:lastmodified":1566682044,
+    "wof:lastmodified":1795733694,
     "wof:name":"Villareal",
     "wof:parent_id":1108699869,
     "wof:placetype":"localadmin",

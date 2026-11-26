@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676089,
-        1108697835
+        1108697835,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108697835,
             "locality_id":1293601819,
+            "macroregion_id":9895008391,
             "region_id":85676089
         }
     ],
     "wof:id":1293601819,
-    "wof:lastmodified":1566679947,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tupax",
     "wof:parent_id":1108697835,
     "wof:placetype":"locality",

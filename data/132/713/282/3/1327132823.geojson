@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85676017,
-        1108699883
+        1108699883,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108699883,
             "locality_id":1327132823,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1327132823,
-    "wof:lastmodified":1566679062,
+    "wof:lastmodified":1795733694,
     "wof:name":"Matango",
     "wof:parent_id":1108699883,
     "wof:placetype":"locality",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676159,
-        1108698929
+        1108698929,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108698929,
             "locality_id":1310433397,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1310433397,
-    "wof:lastmodified":1566681447,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taytay",
     "wof:parent_id":1108698929,
     "wof:placetype":"locality",

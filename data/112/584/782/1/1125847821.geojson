@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85676191,
-        1108697651
+        1108697651,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108697651,
             "locality_id":1125847821,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1125847821,
-    "wof:lastmodified":1690851932,
+    "wof:lastmodified":1795733694,
     "wof:name":"Giporlos",
     "wof:parent_id":1108697651,
     "wof:placetype":"locality",

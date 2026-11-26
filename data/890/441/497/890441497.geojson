@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85676089,
-        1108698545
+        1108698545,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632509,
             "county_id":1108698545,
             "localadmin_id":890441497,
+            "macroregion_id":9895008391,
             "region_id":85676089
         }
     ],
     "wof:id":890441497,
-    "wof:lastmodified":1566681899,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maddela",
     "wof:parent_id":1108698545,
     "wof:placetype":"localadmin",

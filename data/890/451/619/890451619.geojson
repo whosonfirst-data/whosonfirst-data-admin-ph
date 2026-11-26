@@ -38,7 +38,8 @@
         102191569,
         85632509,
         85675967,
-        1108699585
+        1108699585,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699585,
             "locality_id":890451619,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890451619,
-    "wof:lastmodified":1566682122,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malim",
     "wof:parent_id":1108699585,
     "wof:placetype":"locality",

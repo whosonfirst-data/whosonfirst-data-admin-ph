@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676183,
-        1108697789
+        1108697789,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697789,
             "localadmin_id":1125385963,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1125385963,
-    "wof:lastmodified":1566682276,
+    "wof:lastmodified":1795733694,
     "wof:name":"Isulan",
     "wof:parent_id":1108697789,
     "wof:placetype":"localadmin",

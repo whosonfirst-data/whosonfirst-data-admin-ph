@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676077,
-        1108697991
+        1108697991,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697991,
             "locality_id":1309682005,
+            "macroregion_id":9895008404,
             "region_id":85676077
         }
     ],
     "wof:id":1309682005,
-    "wof:lastmodified":1566681732,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nayon",
     "wof:parent_id":1108697991,
     "wof:placetype":"locality",

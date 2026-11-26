@@ -237,7 +237,8 @@
         102191569,
         85632509,
         85676101,
-        1108697045
+        1108697045,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108697045,
             "locality_id":1225846157,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1225846157,
-    "wof:lastmodified":1566683355,
+    "wof:lastmodified":1795733694,
     "wof:name":"Vega",
     "wof:parent_id":1108697045,
     "wof:placetype":"locality",

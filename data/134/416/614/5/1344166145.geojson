@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85676123,
-        1108699543
+        1108699543,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108699543,
             "locality_id":1344166145,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1344166145,
-    "wof:lastmodified":1566679593,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pao",
     "wof:parent_id":1108699543,
     "wof:placetype":"locality",

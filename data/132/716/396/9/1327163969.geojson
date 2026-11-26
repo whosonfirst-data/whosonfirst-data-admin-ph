@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675951,
-        1108699135
+        1108699135,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699135,
             "locality_id":1327163969,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1327163969,
-    "wof:lastmodified":1566679293,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagunaua",
     "wof:parent_id":1108699135,
     "wof:placetype":"locality",

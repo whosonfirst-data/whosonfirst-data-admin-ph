@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676053,
-        1108698157
+        1108698157,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698157,
             "locality_id":1242760465,
+            "macroregion_id":9895008404,
             "region_id":85676053
         }
     ],
     "wof:id":1242760465,
-    "wof:lastmodified":1566682595,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kalabioan",
     "wof:parent_id":1108698157,
     "wof:placetype":"locality",

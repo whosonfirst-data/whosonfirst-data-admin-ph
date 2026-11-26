@@ -31,7 +31,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676021
+        85676021,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":890441335,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890441335,
-    "wof:lastmodified":1566681902,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Sebastian",
     "wof:parent_id":85676021,
     "wof:placetype":"locality",

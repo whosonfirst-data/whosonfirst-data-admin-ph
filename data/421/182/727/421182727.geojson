@@ -255,7 +255,8 @@
         102191569,
         85632509,
         85676161,
-        1108696583
+        1108696583,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -273,11 +274,12 @@
             "country_id":85632509,
             "county_id":1108696583,
             "locality_id":421182727,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":421182727,
-    "wof:lastmodified":1690851597,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alabat",
     "wof:parent_id":1108696583,
     "wof:placetype":"locality",

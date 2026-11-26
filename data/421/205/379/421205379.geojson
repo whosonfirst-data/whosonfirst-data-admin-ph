@@ -99,7 +99,8 @@
         102191569,
         85632509,
         85676209,
-        1108698641
+        1108698641,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,11 +119,12 @@
             "country_id":85632509,
             "county_id":1108698641,
             "locality_id":421205379,
+            "macroregion_id":9895008398,
             "region_id":85676209
         }
     ],
     "wof:id":421205379,
-    "wof:lastmodified":1690851435,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lope de Vega",
     "wof:parent_id":1108698641,
     "wof:placetype":"locality",

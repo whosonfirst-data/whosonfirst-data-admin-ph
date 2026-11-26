@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675933,
-        1108698117
+        1108698117,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698117,
             "locality_id":1209801215,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1209801215,
-    "wof:lastmodified":1566680749,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tontonan",
     "wof:parent_id":1108698117,
     "wof:placetype":"locality",

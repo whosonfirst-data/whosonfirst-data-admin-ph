@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676183,
-        1108699597
+        1108699597,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699597,
             "locality_id":1126001969,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1126001969,
-    "wof:lastmodified":1566682287,
+    "wof:lastmodified":1795733694,
     "wof:name":"New Lagao",
     "wof:parent_id":1108699597,
     "wof:placetype":"locality",

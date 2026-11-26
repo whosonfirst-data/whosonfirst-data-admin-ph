@@ -338,7 +338,8 @@
         102191569,
         85632509,
         85676231,
-        1108696717
+        1108696717,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,11 +358,12 @@
             "country_id":85632509,
             "county_id":1108696717,
             "locality_id":421173107,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":421173107,
-    "wof:lastmodified":1690851464,
+    "wof:lastmodified":1795733694,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":1108696717,
     "wof:placetype":"locality",

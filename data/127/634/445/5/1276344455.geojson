@@ -111,7 +111,8 @@
         102191569,
         85632509,
         85676119,
-        1108698979
+        1108698979,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,11 +126,12 @@
             "country_id":85632509,
             "county_id":1108698979,
             "locality_id":1276344455,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1276344455,
-    "wof:lastmodified":1636500921,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dagupan",
     "wof:parent_id":1108698979,
     "wof:placetype":"locality",

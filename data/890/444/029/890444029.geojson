@@ -232,7 +232,8 @@
         102191569,
         85632509,
         85676011,
-        1108697689
+        1108697689,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,11 +251,12 @@
             "country_id":85632509,
             "county_id":1108697689,
             "locality_id":890444029,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":890444029,
-    "wof:lastmodified":1690851749,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guinobatan",
     "wof:parent_id":1108697689,
     "wof:placetype":"locality",

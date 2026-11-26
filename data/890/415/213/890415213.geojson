@@ -55,7 +55,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676029
+        85676029,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "localadmin_id":890415213,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890415213,
-    "wof:lastmodified":1566681927,
+    "wof:lastmodified":1795733694,
     "wof:name":"Milagros",
     "wof:parent_id":85676029,
     "wof:placetype":"localadmin",

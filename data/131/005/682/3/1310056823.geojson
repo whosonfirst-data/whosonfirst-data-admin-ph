@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676141,
-        1108698721
+        1108698721,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108698721,
             "locality_id":1310056823,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1310056823,
-    "wof:lastmodified":1566681516,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ermila",
     "wof:parent_id":1108698721,
     "wof:placetype":"locality",

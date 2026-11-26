@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676003,
-        1108696549
+        1108696549,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,11 +255,12 @@
             "country_id":85632509,
             "county_id":1108696549,
             "localadmin_id":890415309,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890415309,
-    "wof:lastmodified":1690851622,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aborlan",
     "wof:parent_id":1108696549,
     "wof:placetype":"localadmin",

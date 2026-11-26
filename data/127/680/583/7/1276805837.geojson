@@ -60,7 +60,8 @@
         102191569,
         85632509,
         85676131,
-        1108696569
+        1108696569,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +75,12 @@
             "country_id":85632509,
             "county_id":1108696569,
             "locality_id":1276805837,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1276805837,
-    "wof:lastmodified":1566680187,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dita",
     "wof:parent_id":1108696569,
     "wof:placetype":"locality",

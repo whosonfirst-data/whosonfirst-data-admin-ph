@@ -82,7 +82,8 @@
         102191569,
         85632509,
         85676217,
-        1108698123
+        1108698123,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108698123,
             "localadmin_id":890421371,
+            "macroregion_id":9895008403,
             "region_id":85676217
         }
     ],
     "wof:id":890421371,
-    "wof:lastmodified":1566682038,
+    "wof:lastmodified":1795733694,
     "wof:name":"Veruela",
     "wof:parent_id":1108698123,
     "wof:placetype":"localadmin",

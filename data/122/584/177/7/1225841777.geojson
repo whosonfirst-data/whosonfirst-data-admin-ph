@@ -81,7 +81,8 @@
         102191569,
         85632509,
         85676191,
-        1108697651
+        1108697651,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108697651,
             "locality_id":1225841777,
+            "macroregion_id":9895008398,
             "region_id":85676191
         }
     ],
     "wof:id":1225841777,
-    "wof:lastmodified":1566683356,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabogon",
     "wof:parent_id":1108697651,
     "wof:placetype":"locality",

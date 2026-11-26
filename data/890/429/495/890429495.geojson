@@ -227,7 +227,8 @@
         102191569,
         85632509,
         85676119,
-        1108696745
+        1108696745,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,11 +247,12 @@
             "country_id":85632509,
             "county_id":1108696745,
             "locality_id":890429495,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890429495,
-    "wof:lastmodified":1690851780,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacnotan",
     "wof:parent_id":1108696745,
     "wof:placetype":"locality",

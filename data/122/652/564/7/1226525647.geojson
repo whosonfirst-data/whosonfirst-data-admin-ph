@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108697143
+        1108697143,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697143,
             "locality_id":1226525647,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1226525647,
-    "wof:lastmodified":1566683263,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balaygay",
     "wof:parent_id":1108697143,
     "wof:placetype":"locality",

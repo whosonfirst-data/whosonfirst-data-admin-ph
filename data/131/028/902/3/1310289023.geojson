@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85675961,
-        1108696837
+        1108696837,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108696837,
             "locality_id":1310289023,
+            "macroregion_id":9895008399,
             "region_id":85675961
         }
     ],
     "wof:id":1310289023,
-    "wof:lastmodified":1566681453,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dikulum",
     "wof:parent_id":1108696837,
     "wof:placetype":"locality",

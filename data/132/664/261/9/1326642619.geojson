@@ -267,7 +267,8 @@
         102191569,
         85632509,
         85676047,
-        1108697359
+        1108697359,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -281,11 +282,12 @@
             "country_id":85632509,
             "county_id":1108697359,
             "locality_id":1326642619,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1326642619,
-    "wof:lastmodified":1566679202,
+    "wof:lastmodified":1795733694,
     "wof:name":"Luzon",
     "wof:parent_id":1108697359,
     "wof:placetype":"locality",

@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85675939,
-        1108696649
+        1108696649,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108696649,
             "localadmin_id":890440323,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890440323,
-    "wof:lastmodified":1690851607,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aloguinsan",
     "wof:parent_id":1108696649,
     "wof:placetype":"localadmin",

@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676173,
-        1108699563
+        1108699563,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699563,
             "locality_id":1309695515,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1309695515,
-    "wof:lastmodified":1566681742,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kapimpilan",
     "wof:parent_id":1108699563,
     "wof:placetype":"locality",

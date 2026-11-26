@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676169,
-        1108696801
+        1108696801,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696801,
             "locality_id":1360255631,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1360255631,
-    "wof:lastmodified":1566681558,
+    "wof:lastmodified":1795733694,
     "wof:name":"Madiar",
     "wof:parent_id":1108696801,
     "wof:placetype":"locality",

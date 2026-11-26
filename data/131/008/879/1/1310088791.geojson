@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676173,
-        1108699823
+        1108699823,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108699823,
             "locality_id":1310088791,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1310088791,
-    "wof:lastmodified":1566681389,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nalcan",
     "wof:parent_id":1108699823,
     "wof:placetype":"locality",

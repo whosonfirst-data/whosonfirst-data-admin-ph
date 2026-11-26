@@ -159,7 +159,8 @@
         102191569,
         85632509,
         85676021,
-        1108699001
+        1108699001,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,11 +174,12 @@
             "country_id":85632509,
             "county_id":1108699001,
             "locality_id":1293776975,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1293776975,
-    "wof:lastmodified":1636500881,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Pedro",
     "wof:parent_id":1108699001,
     "wof:placetype":"locality",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676127,
-        1108698377
+        1108698377,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108698377,
             "locality_id":1242615733,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1242615733,
-    "wof:lastmodified":1566682454,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buli",
     "wof:parent_id":1108698377,
     "wof:placetype":"locality",

@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676079,
-        1108699057
+        1108699057,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108699057,
             "locality_id":1327403681,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":1327403681,
-    "wof:lastmodified":1566679073,
+    "wof:lastmodified":1795733694,
     "wof:name":"Busa",
     "wof:parent_id":1108699057,
     "wof:placetype":"locality",

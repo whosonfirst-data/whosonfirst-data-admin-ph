@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676235,
-        1108699323
+        1108699323,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699323,
             "locality_id":1193114541,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":1193114541,
-    "wof:lastmodified":1566680938,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bulliocan",
     "wof:parent_id":1108699323,
     "wof:placetype":"locality",

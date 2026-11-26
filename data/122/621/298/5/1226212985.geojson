@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675975,
-        1108698773
+        1108698773,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698773,
             "locality_id":1226212985,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":1226212985,
-    "wof:lastmodified":1566683026,
+    "wof:lastmodified":1795733694,
     "wof:name":"Niug Niug",
     "wof:parent_id":1108698773,
     "wof:placetype":"locality",

@@ -59,7 +59,8 @@
         102191569,
         85632509,
         85676003,
-        1108696943
+        1108696943,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108696943,
             "locality_id":890434029,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890434029,
-    "wof:lastmodified":1690851839,
+    "wof:lastmodified":1795733694,
     "wof:name":"Rio Tuba",
     "wof:parent_id":1108696943,
     "wof:placetype":"locality",

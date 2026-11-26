@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676299,
-        890430027
+        890430027,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632509,
             "county_id":890430027,
             "locality_id":1226040051,
+            "macroregion_id":9895008396,
             "region_id":85676299
         }
     ],
     "wof:id":1226040051,
-    "wof:lastmodified":1566683119,
+    "wof:lastmodified":1795733694,
     "wof:name":"Jaro",
     "wof:parent_id":890430027,
     "wof:placetype":"locality",

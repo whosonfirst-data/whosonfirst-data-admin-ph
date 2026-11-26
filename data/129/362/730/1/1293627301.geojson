@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676159,
-        1108698645
+        1108698645,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698645,
             "locality_id":1293627301,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1293627301,
-    "wof:lastmodified":1566679741,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sampalocan",
     "wof:parent_id":1108698645,
     "wof:placetype":"locality",

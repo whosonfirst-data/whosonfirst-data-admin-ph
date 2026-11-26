@@ -157,7 +157,8 @@
         102191569,
         85632509,
         85676331,
-        1108698977
+        1108698977,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,11 +172,12 @@
             "country_id":85632509,
             "county_id":1108698977,
             "locality_id":1292936665,
+            "macroregion_id":9895008394,
             "region_id":85676331
         }
     ],
     "wof:id":1292936665,
-    "wof:lastmodified":1636500880,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Miguel",
     "wof:parent_id":1108698977,
     "wof:placetype":"locality",

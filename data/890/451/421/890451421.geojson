@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85676221,
-        1108697995
+        1108697995,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85632509,
             "county_id":1108697995,
             "locality_id":890451421,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":890451421,
-    "wof:lastmodified":1566682131,
+    "wof:lastmodified":1795733694,
     "wof:name":"Balila",
     "wof:parent_id":1108697995,
     "wof:placetype":"locality",

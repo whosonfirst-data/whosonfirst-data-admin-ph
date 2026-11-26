@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676127,
-        890430319
+        890430319,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":890430319,
             "locality_id":1226193511,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1226193511,
-    "wof:lastmodified":1566683030,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maitim Segundo",
     "wof:parent_id":890430319,
     "wof:placetype":"locality",

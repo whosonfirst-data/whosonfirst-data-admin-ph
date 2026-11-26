@@ -94,7 +94,8 @@
         102191569,
         85632509,
         85675981,
-        1108697739
+        1108697739,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108697739,
             "locality_id":1125849207,
+            "macroregion_id":9895008396,
             "region_id":85675981
         }
     ],
     "wof:id":1125849207,
-    "wof:lastmodified":1566682317,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aquino",
     "wof:parent_id":1108697739,
     "wof:placetype":"locality",

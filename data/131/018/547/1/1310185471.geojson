@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676253,
-        1108698247
+        1108698247,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698247,
             "locality_id":1310185471,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1310185471,
-    "wof:lastmodified":1566681429,
+    "wof:lastmodified":1795733694,
     "wof:name":"Marber-Interior",
     "wof:parent_id":1108698247,
     "wof:placetype":"locality",

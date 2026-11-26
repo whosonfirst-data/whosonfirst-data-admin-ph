@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676221,
-        1108698383
+        1108698383,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698383,
             "locality_id":1360173057,
+            "macroregion_id":9895008400,
             "region_id":85676221
         }
     ],
     "wof:id":1360173057,
-    "wof:lastmodified":1566681632,
+    "wof:lastmodified":1795733694,
     "wof:name":"Panadtaran",
     "wof:parent_id":1108698383,
     "wof:placetype":"locality",

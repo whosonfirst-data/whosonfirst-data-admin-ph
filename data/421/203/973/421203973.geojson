@@ -460,7 +460,8 @@
         102191569,
         85632509,
         85676331,
-        1108698977
+        1108698977,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -479,11 +480,12 @@
             "country_id":85632509,
             "county_id":1108698977,
             "locality_id":421203973,
+            "macroregion_id":9895008394,
             "region_id":85676331
         }
     ],
     "wof:id":421203973,
-    "wof:lastmodified":1690851426,
+    "wof:lastmodified":1795733694,
     "wof:name":"Puerto Princesa",
     "wof:parent_id":1108698977,
     "wof:placetype":"locality",

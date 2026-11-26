@@ -233,7 +233,8 @@
         102191569,
         85632509,
         85675947,
-        1108698015
+        1108698015,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632509,
             "county_id":1108698015,
             "localadmin_id":890438325,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":890438325,
-    "wof:lastmodified":1690851711,
+    "wof:lastmodified":1795733694,
     "wof:name":"Larena",
     "wof:parent_id":1108698015,
     "wof:placetype":"localadmin",

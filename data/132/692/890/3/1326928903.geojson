@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676029,
-        890437629
+        890437629,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":890437629,
             "locality_id":1326928903,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1326928903,
-    "wof:lastmodified":1566679029,
+    "wof:lastmodified":1795733694,
     "wof:name":"Canmaya",
     "wof:parent_id":890437629,
     "wof:placetype":"locality",

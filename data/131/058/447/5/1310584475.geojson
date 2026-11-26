@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676173,
-        1108697109
+        1108697109,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697109,
             "locality_id":1310584475,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1310584475,
-    "wof:lastmodified":1566681534,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aratoc",
     "wof:parent_id":1108697109,
     "wof:placetype":"locality",

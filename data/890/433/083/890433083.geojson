@@ -422,7 +422,8 @@
         102191569,
         85632509,
         85676231,
-        1108696717
+        1108696717,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -439,11 +440,12 @@
             "country_id":85632509,
             "county_id":1108696717,
             "localadmin_id":890433083,
+            "macroregion_id":9895008401,
             "region_id":85676231
         }
     ],
     "wof:id":890433083,
-    "wof:lastmodified":1566682169,
+    "wof:lastmodified":1795733694,
     "wof:name":"Asuncion",
     "wof:parent_id":1108696717,
     "wof:placetype":"localadmin",

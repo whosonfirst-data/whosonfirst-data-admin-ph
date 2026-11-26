@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676061,
-        1108697171
+        1108697171,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108697171,
             "locality_id":1309909417,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1309909417,
-    "wof:lastmodified":1566681681,
+    "wof:lastmodified":1795733694,
     "wof:name":"Caei-Layan",
     "wof:parent_id":1108697171,
     "wof:placetype":"locality",

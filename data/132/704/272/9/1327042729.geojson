@@ -36,7 +36,8 @@
         102191569,
         85632509,
         85676073,
-        1108699433
+        1108699433,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108699433,
             "locality_id":1327042729,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1327042729,
-    "wof:lastmodified":1566679145,
+    "wof:lastmodified":1795733694,
     "wof:name":"Calinaoan Centro",
     "wof:parent_id":1108699433,
     "wof:placetype":"locality",

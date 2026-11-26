@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676197,
-        1108696597
+        1108696597,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696597,
             "locality_id":1293276971,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1293276971,
-    "wof:lastmodified":1566680002,
+    "wof:lastmodified":1795733694,
     "wof:name":"Binoljo",
     "wof:parent_id":1108696597,
     "wof:placetype":"locality",

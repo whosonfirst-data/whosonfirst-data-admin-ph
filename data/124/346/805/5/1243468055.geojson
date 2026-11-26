@@ -90,7 +90,8 @@
         102191569,
         85632509,
         85676123,
-        1108699125
+        1108699125,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108699125,
             "locality_id":1243468055,
+            "macroregion_id":9895008390,
             "region_id":85676123
         }
     ],
     "wof:id":1243468055,
-    "wof:lastmodified":1566682489,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malay",
     "wof:parent_id":1108699125,
     "wof:placetype":"locality",

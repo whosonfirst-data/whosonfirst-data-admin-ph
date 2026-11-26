@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676039,
-        1108696879
+        1108696879,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696879,
             "locality_id":1226017513,
+            "macroregion_id":9895008404,
             "region_id":85676039
         }
     ],
     "wof:id":1226017513,
-    "wof:lastmodified":1566683293,
+    "wof:lastmodified":1795733694,
     "wof:name":"Patucannay",
     "wof:parent_id":1108696879,
     "wof:placetype":"locality",

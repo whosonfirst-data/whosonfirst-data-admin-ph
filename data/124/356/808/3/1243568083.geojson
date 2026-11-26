@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676061,
-        1108697259
+        1108697259,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697259,
             "locality_id":1243568083,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1243568083,
-    "wof:lastmodified":1566682550,
+    "wof:lastmodified":1795733694,
     "wof:name":"Barabong",
     "wof:parent_id":1108697259,
     "wof:placetype":"locality",

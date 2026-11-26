@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676201,
-        1108699379
+        1108699379,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108699379,
             "locality_id":1310390113,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1310390113,
-    "wof:lastmodified":1566681410,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Enrique",
     "wof:parent_id":1108699379,
     "wof:placetype":"locality",

@@ -198,7 +198,8 @@
         102191569,
         85632509,
         85676053,
-        1108698971
+        1108698971,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -212,11 +213,12 @@
             "country_id":85632509,
             "county_id":1108698971,
             "locality_id":1276950617,
+            "macroregion_id":9895008404,
             "region_id":85676053
         }
     ],
     "wof:id":1276950617,
-    "wof:lastmodified":1566680258,
+    "wof:lastmodified":1795733694,
     "wof:name":"Agora",
     "wof:parent_id":1108698971,
     "wof:placetype":"locality",

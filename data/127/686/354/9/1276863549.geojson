@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675989,
-        1108699487
+        1108699487,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699487,
             "locality_id":1276863549,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1276863549,
-    "wof:lastmodified":1566680124,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pagbunitan",
     "wof:parent_id":1108699487,
     "wof:placetype":"locality",

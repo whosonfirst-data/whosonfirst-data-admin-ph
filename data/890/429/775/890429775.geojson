@@ -310,7 +310,8 @@
         102191569,
         85632509,
         85676021,
-        1108697777
+        1108697777,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -328,11 +329,12 @@
             "country_id":85632509,
             "county_id":1108697777,
             "locality_id":890429775,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":890429775,
-    "wof:lastmodified":1690851781,
+    "wof:lastmodified":1795733694,
     "wof:name":"Iriga City",
     "wof:parent_id":1108697777,
     "wof:placetype":"locality",

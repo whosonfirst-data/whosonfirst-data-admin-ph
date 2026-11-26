@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676197,
-        1108697887
+        1108697887,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697887,
             "locality_id":1225841761,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1225841761,
-    "wof:lastmodified":1566683358,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kangtingco",
     "wof:parent_id":1108697887,
     "wof:placetype":"locality",

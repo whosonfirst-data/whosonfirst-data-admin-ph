@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85676061,
-        1108696873
+        1108696873,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632509,
             "county_id":1108696873,
             "localadmin_id":890443793,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":890443793,
-    "wof:lastmodified":1690851765,
+    "wof:lastmodified":1795733694,
     "wof:name":"Banayoyo",
     "wof:parent_id":1108696873,
     "wof:placetype":"localadmin",

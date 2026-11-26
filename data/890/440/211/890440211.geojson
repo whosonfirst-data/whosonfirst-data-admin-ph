@@ -47,7 +47,8 @@
         102191569,
         85632509,
         85676161,
-        1108698931
+        1108698931,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632509,
             "county_id":1108698931,
             "localadmin_id":890440211,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890440211,
-    "wof:lastmodified":1566681883,
+    "wof:lastmodified":1795733694,
     "wof:name":"Polillo",
     "wof:parent_id":1108698931,
     "wof:placetype":"localadmin",

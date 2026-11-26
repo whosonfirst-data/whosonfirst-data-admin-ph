@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676101,
-        1108696625
+        1108696625,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696625,
             "locality_id":1310702691,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1310702691,
-    "wof:lastmodified":1566681298,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Andres III",
     "wof:parent_id":1108696625,
     "wof:placetype":"locality",

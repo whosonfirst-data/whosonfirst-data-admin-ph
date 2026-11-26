@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676029,
-        1108696709
+        1108696709,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108696709,
             "localadmin_id":890431309,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":890431309,
-    "wof:lastmodified":1566681985,
+    "wof:lastmodified":1795733694,
     "wof:name":"Aroroy",
     "wof:parent_id":1108696709,
     "wof:placetype":"localadmin",

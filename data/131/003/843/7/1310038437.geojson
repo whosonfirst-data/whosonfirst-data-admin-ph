@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676153,
-        1108698133
+        1108698133,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698133,
             "locality_id":1310038437,
+            "macroregion_id":9895008394,
             "region_id":85676153
         }
     ],
     "wof:id":1310038437,
-    "wof:lastmodified":1566681474,
+    "wof:lastmodified":1795733694,
     "wof:name":"Acle",
     "wof:parent_id":1108698133,
     "wof:placetype":"locality",

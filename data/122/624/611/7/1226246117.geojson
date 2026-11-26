@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676119,
-        1108699439
+        1108699439,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699439,
             "locality_id":1226246117,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":1226246117,
-    "wof:lastmodified":1566683226,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paagan",
     "wof:parent_id":1108699439,
     "wof:placetype":"locality",

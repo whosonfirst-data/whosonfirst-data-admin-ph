@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676047,
-        1108699535
+        1108699535,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108699535,
             "locality_id":1309918371,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1309918371,
-    "wof:lastmodified":1566681673,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basi",
     "wof:parent_id":1108699535,
     "wof:placetype":"locality",

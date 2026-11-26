@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676259,
-        1108698659
+        1108698659,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698659,
             "locality_id":1260157537,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":1260157537,
-    "wof:lastmodified":1566680963,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kindap",
     "wof:parent_id":1108698659,
     "wof:placetype":"locality",

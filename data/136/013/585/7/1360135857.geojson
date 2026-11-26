@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676131,
-        890432817
+        890432817,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":890432817,
             "locality_id":1360135857,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":1360135857,
-    "wof:lastmodified":1566681552,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pulo",
     "wof:parent_id":890432817,
     "wof:placetype":"locality",

@@ -73,7 +73,8 @@
         102191569,
         85632509,
         85676249,
-        1108697653
+        1108697653,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108697653,
             "localadmin_id":890421415,
+            "macroregion_id":9895008400,
             "region_id":85676249
         }
     ],
     "wof:id":890421415,
-    "wof:lastmodified":1566682036,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gitagum",
     "wof:parent_id":1108697653,
     "wof:placetype":"localadmin",

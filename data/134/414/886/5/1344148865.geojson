@@ -69,7 +69,8 @@
         102191569,
         85632509,
         85675993,
-        1108697371
+        1108697371,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632509,
             "county_id":1108697371,
             "locality_id":1344148865,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1344148865,
-    "wof:lastmodified":1566679404,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nino",
     "wof:parent_id":1108697371,
     "wof:placetype":"locality",

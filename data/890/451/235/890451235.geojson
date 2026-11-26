@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676141,
-        1108697587
+        1108697587,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697587,
             "locality_id":890451235,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":890451235,
-    "wof:lastmodified":1566682124,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kapatalan",
     "wof:parent_id":1108697587,
     "wof:placetype":"locality",

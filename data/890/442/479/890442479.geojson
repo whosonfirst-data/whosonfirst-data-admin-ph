@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676243,
-        1108697999
+        1108697999,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108697999,
             "localadmin_id":890442479,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":890442479,
-    "wof:lastmodified":1566682108,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lanuza",
     "wof:parent_id":1108697999,
     "wof:placetype":"localadmin",

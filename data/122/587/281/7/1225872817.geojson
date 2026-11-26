@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676159,
-        1108697105
+        1108697105,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108697105,
             "locality_id":1225872817,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1225872817,
-    "wof:lastmodified":1566683157,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lidong",
     "wof:parent_id":1108697105,
     "wof:placetype":"locality",

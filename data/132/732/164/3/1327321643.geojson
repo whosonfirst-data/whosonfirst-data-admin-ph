@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85676259,
-        1108696585
+        1108696585,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632509,
             "county_id":1108696585,
             "locality_id":1327321643,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":1327321643,
-    "wof:lastmodified":1566679134,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ladol",
     "wof:parent_id":1108696585,
     "wof:placetype":"locality",

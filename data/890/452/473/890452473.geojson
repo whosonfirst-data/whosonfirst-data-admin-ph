@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676025,
-        1108699107
+        1108699107,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108699107,
             "locality_id":890452473,
+            "macroregion_id":9895008395,
             "region_id":85676025
         }
     ],
     "wof:id":890452473,
-    "wof:lastmodified":1566681969,
+    "wof:lastmodified":1795733694,
     "wof:name":"Manamrag",
     "wof:parent_id":1108699107,
     "wof:placetype":"locality",

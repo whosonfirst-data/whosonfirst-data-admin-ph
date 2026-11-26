@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85675951,
-        1108697179
+        1108697179,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697179,
             "locality_id":1125909253,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1125909253,
-    "wof:lastmodified":1566682273,
+    "wof:lastmodified":1795733694,
     "wof:name":"Andres Bonifacio",
     "wof:parent_id":1108697179,
     "wof:placetype":"locality",

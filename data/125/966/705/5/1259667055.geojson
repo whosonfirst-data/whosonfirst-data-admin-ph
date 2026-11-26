@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85675929,
-        1108698667
+        1108698667,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698667,
             "locality_id":1259667055,
+            "macroregion_id":9895008405,
             "region_id":85675929
         }
     ],
     "wof:id":1259667055,
-    "wof:lastmodified":1566682878,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kohek",
     "wof:parent_id":1108698667,
     "wof:placetype":"locality",

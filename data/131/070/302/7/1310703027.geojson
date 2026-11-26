@@ -63,7 +63,8 @@
         102191569,
         85632509,
         85676107,
-        1108697595
+        1108697595,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "country_id":85632509,
             "county_id":1108697595,
             "locality_id":1310703027,
+            "macroregion_id":9895008392,
             "region_id":85676107
         }
     ],
     "wof:id":1310703027,
-    "wof:lastmodified":1566681301,
+    "wof:lastmodified":1795733694,
     "wof:name":"Anon",
     "wof:parent_id":1108697595,
     "wof:placetype":"locality",

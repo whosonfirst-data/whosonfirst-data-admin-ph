@@ -232,7 +232,8 @@
         102191569,
         85632509,
         85676079,
-        1108699599
+        1108699599,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,11 +251,12 @@
             "country_id":85632509,
             "county_id":1108699599,
             "locality_id":890433943,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":890433943,
-    "wof:lastmodified":1690851861,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tadian",
     "wof:parent_id":1108699599,
     "wof:placetype":"locality",

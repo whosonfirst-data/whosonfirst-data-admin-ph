@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676179,
-        1108698283
+        1108698283,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698283,
             "locality_id":1327310383,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1327310383,
-    "wof:lastmodified":1566678940,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Carolina",
     "wof:parent_id":1108698283,
     "wof:placetype":"locality",

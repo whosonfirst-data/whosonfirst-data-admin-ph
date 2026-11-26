@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676201,
-        1108696927
+        1108696927,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108696927,
             "localadmin_id":890436341,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":890436341,
-    "wof:lastmodified":1566681980,
+    "wof:lastmodified":1795733694,
     "wof:name":"Basey",
     "wof:parent_id":1108696927,
     "wof:placetype":"localadmin",

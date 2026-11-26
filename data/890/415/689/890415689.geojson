@@ -116,7 +116,8 @@
         102191569,
         85632509,
         85675945,
-        1108699681
+        1108699681,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,11 +134,12 @@
             "country_id":85632509,
             "county_id":1108699681,
             "locality_id":890415689,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":890415689,
-    "wof:lastmodified":1566681911,
+    "wof:lastmodified":1795733694,
     "wof:name":"Novallas",
     "wof:parent_id":1108699681,
     "wof:placetype":"locality",

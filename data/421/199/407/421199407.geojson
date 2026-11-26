@@ -248,7 +248,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675933
+        85675933,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -266,11 +267,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "locality_id":421199407,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":421199407,
-    "wof:lastmodified":1690851524,
+    "wof:lastmodified":1795733694,
     "wof:name":"Garcia-Hernandez",
     "wof:parent_id":85675933,
     "wof:placetype":"locality",

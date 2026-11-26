@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85675993,
-        1108696865
+        1108696865,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108696865,
             "locality_id":1343979581,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1343979581,
-    "wof:lastmodified":1636500813,
+    "wof:lastmodified":1795733694,
     "wof:name":"Merced",
     "wof:parent_id":1108696865,
     "wof:placetype":"locality",

@@ -96,7 +96,8 @@
         102191569,
         85632509,
         85676197,
-        1108698749
+        1108698749,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632509,
             "county_id":1108698749,
             "locality_id":1310002597,
+            "macroregion_id":9895008398,
             "region_id":85676197
         }
     ],
     "wof:id":1310002597,
-    "wof:lastmodified":1636501052,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Joaquin",
     "wof:parent_id":1108698749,
     "wof:placetype":"locality",

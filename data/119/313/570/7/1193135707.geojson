@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676029,
-        1108696857
+        1108696857,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108696857,
             "locality_id":1193135707,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1193135707,
-    "wof:lastmodified":1566680891,
+    "wof:lastmodified":1795733694,
     "wof:name":"Guinayangan Dacu",
     "wof:parent_id":1108696857,
     "wof:placetype":"locality",

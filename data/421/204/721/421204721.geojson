@@ -240,7 +240,8 @@
         102191569,
         85632509,
         85676113,
-        1108698415
+        1108698415,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108698415,
             "locality_id":421204721,
+            "macroregion_id":9895008392,
             "region_id":85676113
         }
     ],
     "wof:id":421204721,
-    "wof:lastmodified":1690851421,
+    "wof:lastmodified":1795733694,
     "wof:name":"Masinloc",
     "wof:parent_id":1108698415,
     "wof:placetype":"locality",

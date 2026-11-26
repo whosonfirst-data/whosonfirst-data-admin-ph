@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676141,
-        1108699387
+        1108699387,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699387,
             "locality_id":1260232367,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1260232367,
-    "wof:lastmodified":1566680962,
+    "wof:lastmodified":1795733694,
     "wof:name":"Adia",
     "wof:parent_id":1108699387,
     "wof:placetype":"locality",

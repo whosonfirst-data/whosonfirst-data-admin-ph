@@ -71,7 +71,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676101
+        85676101,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +92,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":890442461,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":890442461,
-    "wof:lastmodified":1695886395,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Jose City",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

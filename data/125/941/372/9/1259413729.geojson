@@ -84,7 +84,8 @@
         102191569,
         85632509,
         1108699031,
-        85676007
+        85676007,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108699031,
             "locality_id":1259413729,
+            "macroregion_id":9895008394,
             "region_id":85676007
         }
     ],
     "wof:id":1259413729,
-    "wof:lastmodified":1587163117,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sablayan",
     "wof:parent_id":1108699031,
     "wof:placetype":"locality",

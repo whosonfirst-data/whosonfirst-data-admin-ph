@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675993,
-        1108697501
+        1108697501,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697501,
             "locality_id":1276654193,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1276654193,
-    "wof:lastmodified":1566680409,
+    "wof:lastmodified":1795733694,
     "wof:name":"Ginalinan Nuevo",
     "wof:parent_id":1108697501,
     "wof:placetype":"locality",

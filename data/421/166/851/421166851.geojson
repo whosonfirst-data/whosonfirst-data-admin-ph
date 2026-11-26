@@ -335,7 +335,8 @@
         102191569,
         85632509,
         85676291,
-        1108698011
+        1108698011,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -354,11 +355,12 @@
             "country_id":85632509,
             "county_id":1108698011,
             "locality_id":421166851,
+            "macroregion_id":9895008397,
             "region_id":85676291
         }
     ],
     "wof:id":421166851,
-    "wof:lastmodified":1690851378,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lapu-Lapu City",
     "wof:parent_id":1108698011,
     "wof:placetype":"locality",

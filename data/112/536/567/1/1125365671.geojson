@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676111,
-        1108697095
+        1108697095,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697095,
             "localadmin_id":1125365671,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1125365671,
-    "wof:lastmodified":1566682277,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buguias",
     "wof:parent_id":1108697095,
     "wof:placetype":"localadmin",

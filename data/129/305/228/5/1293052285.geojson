@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676161,
-        1108698715
+        1108698715,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698715,
             "locality_id":1293052285,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1293052285,
-    "wof:lastmodified":1566679953,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kanluran Calutan",
     "wof:parent_id":1108698715,
     "wof:placetype":"locality",

@@ -192,7 +192,8 @@
         102191569,
         85632509,
         85676255,
-        1108697063
+        1108697063,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +207,12 @@
             "country_id":85632509,
             "county_id":1108697063,
             "locality_id":1326910767,
+            "macroregion_id":9895008401,
             "region_id":85676255
         }
     ],
     "wof:id":1326910767,
-    "wof:lastmodified":1566679233,
+    "wof:lastmodified":1795733694,
     "wof:name":"Carmen",
     "wof:parent_id":1108697063,
     "wof:placetype":"locality",

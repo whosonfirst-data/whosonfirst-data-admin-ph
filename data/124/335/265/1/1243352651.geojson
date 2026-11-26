@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85675967,
-        1108697847
+        1108697847,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108697847,
             "locality_id":1243352651,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":1243352651,
-    "wof:lastmodified":1566682542,
+    "wof:lastmodified":1795733694,
     "wof:name":"Parasan",
     "wof:parent_id":1108697847,
     "wof:placetype":"locality",

@@ -138,7 +138,8 @@
         102191569,
         85632509,
         85676101,
-        890443085
+        890443085,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,11 +153,12 @@
             "country_id":85632509,
             "county_id":890443085,
             "locality_id":1360096435,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1360096435,
-    "wof:lastmodified":1566681569,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabu",
     "wof:parent_id":890443085,
     "wof:placetype":"locality",

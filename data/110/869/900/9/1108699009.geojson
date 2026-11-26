@@ -129,7 +129,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676161
+        85676161,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,11 +145,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108699009,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1108699009,
-    "wof:lastmodified":1695886667,
+    "wof:lastmodified":1795733694,
     "wof:name":"Real",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

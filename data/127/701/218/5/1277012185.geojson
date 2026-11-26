@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675945,
-        1108699891
+        1108699891,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699891,
             "locality_id":1277012185,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1277012185,
-    "wof:lastmodified":1566680091,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lutuban",
     "wof:parent_id":1108699891,
     "wof:placetype":"locality",

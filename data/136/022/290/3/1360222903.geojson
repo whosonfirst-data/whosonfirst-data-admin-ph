@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676161,
-        1108697633
+        1108697633,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697633,
             "locality_id":1360222903,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1360222903,
-    "wof:lastmodified":1566681556,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maligaya",
     "wof:parent_id":1108697633,
     "wof:placetype":"locality",

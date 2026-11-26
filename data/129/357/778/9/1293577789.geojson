@@ -75,7 +75,8 @@
         102191569,
         85632509,
         85676225,
-        1108698331
+        1108698331,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,11 +90,12 @@
             "country_id":85632509,
             "county_id":1108698331,
             "locality_id":1293577789,
+            "macroregion_id":9895008400,
             "region_id":85676225
         }
     ],
     "wof:id":1293577789,
-    "wof:lastmodified":1566679910,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abo",
     "wof:parent_id":1108698331,
     "wof:placetype":"locality",

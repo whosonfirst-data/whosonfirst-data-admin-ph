@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675985,
-        1108699203
+        1108699203,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699203,
             "locality_id":1225837007,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1225837007,
-    "wof:lastmodified":1566683360,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lanag",
     "wof:parent_id":1108699203,
     "wof:placetype":"locality",

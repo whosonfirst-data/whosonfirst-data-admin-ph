@@ -52,7 +52,8 @@
         102191569,
         85632509,
         85676235,
-        1108698209
+        1108698209,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108698209,
             "localadmin_id":890436607,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":890436607,
-    "wof:lastmodified":1566681984,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maco",
     "wof:parent_id":1108698209,
     "wof:placetype":"localadmin",

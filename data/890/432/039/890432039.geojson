@@ -28,7 +28,8 @@
         102191569,
         85632509,
         85675967,
-        1108699889
+        1108699889,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +46,12 @@
             "country_id":85632509,
             "county_id":1108699889,
             "locality_id":890432039,
+            "macroregion_id":9895008399,
             "region_id":85675967
         }
     ],
     "wof:id":890432039,
-    "wof:lastmodified":1566682230,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dulian",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

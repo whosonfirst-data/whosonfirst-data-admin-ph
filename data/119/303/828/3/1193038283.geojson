@@ -174,7 +174,8 @@
         102191569,
         85632509,
         85675939,
-        1108696805
+        1108696805,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,11 +189,12 @@
             "country_id":85632509,
             "county_id":1108696805,
             "locality_id":1193038283,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":1193038283,
-    "wof:lastmodified":1566680901,
+    "wof:lastmodified":1795733694,
     "wof:name":"Longan",
     "wof:parent_id":1108696805,
     "wof:placetype":"locality",

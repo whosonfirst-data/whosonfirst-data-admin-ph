@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676047,
-        1108699331
+        1108699331,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108699331,
             "locality_id":1344169733,
+            "macroregion_id":9895008391,
             "region_id":85676047
         }
     ],
     "wof:id":1344169733,
-    "wof:lastmodified":1566679594,
+    "wof:lastmodified":1795733694,
     "wof:name":"Punti",
     "wof:parent_id":1108699331,
     "wof:placetype":"locality",

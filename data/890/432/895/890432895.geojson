@@ -239,7 +239,8 @@
         102191569,
         85632509,
         85676003,
-        1108698647
+        1108698647,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,11 +259,12 @@
             "country_id":85632509,
             "county_id":1108698647,
             "locality_id":890432895,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890432895,
-    "wof:lastmodified":1690851889,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cuyo",
     "wof:parent_id":1108698647,
     "wof:placetype":"locality",

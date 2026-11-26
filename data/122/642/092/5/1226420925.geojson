@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676165,
-        1108697897
+        1108697897,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697897,
             "locality_id":1226420925,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1226420925,
-    "wof:lastmodified":1566683039,
+    "wof:lastmodified":1795733694,
     "wof:name":"Deasis",
     "wof:parent_id":1108697897,
     "wof:placetype":"locality",

@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676179,
-        1108697857
+        1108697857,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108697857,
             "locality_id":1243342965,
+            "macroregion_id":9895008402,
             "region_id":85676179
         }
     ],
     "wof:id":1243342965,
-    "wof:lastmodified":1566682558,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mulao",
     "wof:parent_id":1108697857,
     "wof:placetype":"locality",

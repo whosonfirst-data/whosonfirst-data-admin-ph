@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676341,
-        1108697785
+        1108697785,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697785,
             "locality_id":890433005,
+            "macroregion_id":9895008398,
             "region_id":85676341
         }
     ],
     "wof:id":890433005,
-    "wof:lastmodified":1566682181,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bilwang",
     "wof:parent_id":1108697785,
     "wof:placetype":"locality",

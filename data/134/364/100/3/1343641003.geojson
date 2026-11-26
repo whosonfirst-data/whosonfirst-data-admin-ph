@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676183,
-        1108697789
+        1108697789,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697789,
             "locality_id":1343641003,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1343641003,
-    "wof:lastmodified":1566679378,
+    "wof:lastmodified":1795733694,
     "wof:name":"Laguilayan",
     "wof:parent_id":1108697789,
     "wof:placetype":"locality",

@@ -257,7 +257,8 @@
         102191569,
         85632509,
         85676239,
-        1108699527
+        1108699527,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -276,11 +277,12 @@
             "country_id":85632509,
             "county_id":1108699527,
             "locality_id":890415525,
+            "macroregion_id":9895008403,
             "region_id":85676239
         }
     ],
     "wof:id":890415525,
-    "wof:lastmodified":1690851643,
+    "wof:lastmodified":1795733694,
     "wof:name":"Socorro",
     "wof:parent_id":1108699527,
     "wof:placetype":"locality",

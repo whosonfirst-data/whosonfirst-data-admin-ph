@@ -32,7 +32,8 @@
         102191569,
         85632509,
         85676011,
-        1108699581
+        1108699581,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699581,
             "locality_id":890434455,
+            "macroregion_id":9895008395,
             "region_id":85676011
         }
     ],
     "wof:id":890434455,
-    "wof:lastmodified":1566682147,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buang",
     "wof:parent_id":1108699581,
     "wof:placetype":"locality",

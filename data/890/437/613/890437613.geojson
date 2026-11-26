@@ -236,7 +236,8 @@
         102191569,
         85632509,
         85676161,
-        1108698857
+        1108698857,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,11 +256,12 @@
             "country_id":85632509,
             "county_id":1108698857,
             "locality_id":890437613,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890437613,
-    "wof:lastmodified":1690851661,
+    "wof:lastmodified":1795733694,
     "wof:name":"Perez",
     "wof:parent_id":1108698857,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675951,
-        1108697569
+        1108697569,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697569,
             "locality_id":1310529531,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":1310529531,
-    "wof:lastmodified":1566681370,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hacienda Rubia",
     "wof:parent_id":1108697569,
     "wof:placetype":"locality",

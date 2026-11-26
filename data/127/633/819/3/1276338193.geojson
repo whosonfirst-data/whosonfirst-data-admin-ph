@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676061,
-        1108699347
+        1108699347,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699347,
             "locality_id":1276338193,
+            "macroregion_id":9895008390,
             "region_id":85676061
         }
     ],
     "wof:id":1276338193,
-    "wof:lastmodified":1566680214,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sagat",
     "wof:parent_id":1108699347,
     "wof:placetype":"locality",

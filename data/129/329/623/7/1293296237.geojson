@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108698389
+        1108698389,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698389,
             "locality_id":1293296237,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1293296237,
-    "wof:lastmodified":1566680017,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gunit",
     "wof:parent_id":1108698389,
     "wof:placetype":"locality",

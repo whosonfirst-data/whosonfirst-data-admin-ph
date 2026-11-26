@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85675985,
-        1108699309
+        1108699309,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108699309,
             "locality_id":1193270015,
+            "macroregion_id":9895008396,
             "region_id":85675985
         }
     ],
     "wof:id":1193270015,
-    "wof:lastmodified":1566680930,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bugo",
     "wof:parent_id":1108699309,
     "wof:placetype":"locality",

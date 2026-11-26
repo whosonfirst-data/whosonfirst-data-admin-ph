@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676127,
-        1108697621
+        1108697621,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108697621,
             "localadmin_id":890443727,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":890443727,
-    "wof:lastmodified":1566682081,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bayan ng Heneral Emilio Aguinaldo",
     "wof:parent_id":1108697621,
     "wof:placetype":"localadmin",

@@ -95,7 +95,8 @@
         102191569,
         85632509,
         85676021,
-        1108697273
+        1108697273,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,11 +113,12 @@
             "country_id":85632509,
             "county_id":1108697273,
             "locality_id":421195533,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":421195533,
-    "wof:lastmodified":1566681791,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bikal",
     "wof:parent_id":1108697273,
     "wof:placetype":"locality",

@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676161,
-        1108698441
+        1108698441,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698441,
             "locality_id":1125908783,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1125908783,
-    "wof:lastmodified":1566682275,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cagsiay",
     "wof:parent_id":1108698441,
     "wof:placetype":"locality",

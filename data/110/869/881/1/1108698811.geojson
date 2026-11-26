@@ -90,7 +90,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676017
+        85676017,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,11 +106,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108698811,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":1108698811,
-    "wof:lastmodified":1695886673,
+    "wof:lastmodified":1795733694,
     "wof:name":"Paracale",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

@@ -76,7 +76,8 @@
         102191569,
         85632509,
         85676131,
-        1108698559
+        1108698559,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108698559,
             "localadmin_id":890451971,
+            "macroregion_id":9895008393,
             "region_id":85676131
         }
     ],
     "wof:id":890451971,
-    "wof:lastmodified":1566682127,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nasugbu",
     "wof:parent_id":1108698559,
     "wof:placetype":"localadmin",

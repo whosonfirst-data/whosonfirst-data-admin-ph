@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676145,
-        1108696899
+        1108696899,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108696899,
             "locality_id":1193216417,
+            "macroregion_id":9895008393,
             "region_id":85676145
         }
     ],
     "wof:id":1193216417,
-    "wof:lastmodified":1566680960,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kulyat",
     "wof:parent_id":1108696899,
     "wof:placetype":"locality",

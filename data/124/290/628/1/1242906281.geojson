@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675945,
-        1108699705
+        1108699705,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699705,
             "locality_id":1242906281,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1242906281,
-    "wof:lastmodified":1566682624,
+    "wof:lastmodified":1795733694,
     "wof:name":"Mampilawon",
     "wof:parent_id":1108699705,
     "wof:placetype":"locality",

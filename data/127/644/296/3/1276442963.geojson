@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676097,
-        1108699367
+        1108699367,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108699367,
             "locality_id":1276442963,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1276442963,
-    "wof:lastmodified":1636500915,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Ignacio",
     "wof:parent_id":1108699367,
     "wof:placetype":"locality",

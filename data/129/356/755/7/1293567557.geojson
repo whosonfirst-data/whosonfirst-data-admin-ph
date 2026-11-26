@@ -191,7 +191,8 @@
         102191569,
         85632509,
         85676309,
-        1108698611
+        1108698611,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -205,11 +206,12 @@
             "country_id":85632509,
             "county_id":1108698611,
             "locality_id":1293567557,
+            "macroregion_id":9895008401,
             "region_id":85676309
         }
     ],
     "wof:id":1293567557,
-    "wof:lastmodified":1566679927,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sita",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",

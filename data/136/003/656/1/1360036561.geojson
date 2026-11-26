@@ -78,7 +78,8 @@
         102191569,
         85632509,
         85676141,
-        1108698145
+        1108698145,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,11 +93,12 @@
             "country_id":85632509,
             "county_id":1108698145,
             "locality_id":1360036561,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1360036561,
-    "wof:lastmodified":1566681659,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Buenaventura",
     "wof:parent_id":1108698145,
     "wof:placetype":"locality",

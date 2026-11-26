@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676225,
-        1108697691
+        1108697691,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697691,
             "locality_id":1242766079,
+            "macroregion_id":9895008400,
             "region_id":85676225
         }
     ],
     "wof:id":1242766079,
-    "wof:lastmodified":1566682598,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maac",
     "wof:parent_id":1108697691,
     "wof:placetype":"locality",

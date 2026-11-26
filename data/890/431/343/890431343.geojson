@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85675975,
-        1108699755
+        1108699755,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +51,12 @@
             "country_id":85632509,
             "county_id":1108699755,
             "locality_id":890431343,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890431343,
-    "wof:lastmodified":1566682007,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tabiauan",
     "wof:parent_id":1108699755,
     "wof:placetype":"locality",

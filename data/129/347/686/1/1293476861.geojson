@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676173,
-        1108698725
+        1108698725,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698725,
             "locality_id":1293476861,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1293476861,
-    "wof:lastmodified":1566679861,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bulod",
     "wof:parent_id":1108698725,
     "wof:placetype":"locality",

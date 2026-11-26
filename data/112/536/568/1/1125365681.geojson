@@ -88,7 +88,8 @@
         102191569,
         85632509,
         85676169,
-        1108697509
+        1108697509,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "country_id":85632509,
             "county_id":1108697509,
             "localadmin_id":1125365681,
+            "macroregion_id":9895008405,
             "region_id":85676169
         }
     ],
     "wof:id":1125365681,
-    "wof:lastmodified":1566682278,
+    "wof:lastmodified":1795733694,
     "wof:name":"Buadiposo-Buntong",
     "wof:parent_id":1108697509,
     "wof:placetype":"localadmin",

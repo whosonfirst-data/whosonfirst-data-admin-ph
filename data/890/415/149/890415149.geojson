@@ -71,7 +71,8 @@
         102191569,
         85632509,
         85676201,
-        1108697221
+        1108697221,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,11 +91,12 @@
             "country_id":85632509,
             "county_id":1108697221,
             "locality_id":890415149,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":890415149,
-    "wof:lastmodified":1690851645,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pi\u00f1a",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

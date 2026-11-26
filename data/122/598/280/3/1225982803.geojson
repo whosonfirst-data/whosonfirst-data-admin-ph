@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676141,
-        1108699397
+        1108699397,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699397,
             "locality_id":1225982803,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1225982803,
-    "wof:lastmodified":1566683169,
+    "wof:lastmodified":1795733694,
     "wof:name":"Numero Dos",
     "wof:parent_id":1108699397,
     "wof:placetype":"locality",

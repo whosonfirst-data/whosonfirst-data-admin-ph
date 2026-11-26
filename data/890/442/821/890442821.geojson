@@ -316,7 +316,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        1159397243
+        1159397243,
+        9895008389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -333,11 +334,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "localadmin_id":890442821,
+            "macroregion_id":9895008389,
             "region_id":1159397243
         }
     ],
     "wof:id":890442821,
-    "wof:lastmodified":1690851797,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malabon",
     "wof:parent_id":1159397243,
     "wof:placetype":"localadmin",

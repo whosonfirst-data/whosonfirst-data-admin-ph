@@ -35,7 +35,8 @@
         102191569,
         85632509,
         85675971,
-        1108697053
+        1108697053,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632509,
             "county_id":1108697053,
             "locality_id":1327312283,
+            "macroregion_id":9895008400,
             "region_id":85675971
         }
     ],
     "wof:id":1327312283,
-    "wof:lastmodified":1566678939,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lower Calolot",
     "wof:parent_id":1108697053,
     "wof:placetype":"locality",

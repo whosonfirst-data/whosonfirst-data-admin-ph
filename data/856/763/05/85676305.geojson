@@ -266,7 +266,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
-        85632509
+        85632509,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -288,6 +289,7 @@
         {
             "continent_id":102191569,
             "country_id":85632509,
+            "macroregion_id":9895008405,
             "region_id":85676305
         }
     ],
@@ -307,9 +309,9 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1695884875,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cotabato",
-    "wof:parent_id":85632509,
+    "wof:parent_id":9895008405,
     "wof:placetype":"region",
     "wof:population":1273715,
     "wof:population_rank":12,

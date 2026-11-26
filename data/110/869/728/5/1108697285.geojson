@@ -94,7 +94,8 @@
         102191569,
         85632509,
         85676145,
-        85676141
+        85676141,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,17 +110,19 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697285,
+            "macroregion_id":9895008393,
             "region_id":85676145
         },
         {
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697285,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1108697285,
-    "wof:lastmodified":1695886692,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cardona",
     "wof:parent_id":-1,
     "wof:placetype":"county",

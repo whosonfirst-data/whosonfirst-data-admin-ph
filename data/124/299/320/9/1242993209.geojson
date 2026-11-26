@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85675933,
-        1108699777
+        1108699777,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699777,
             "locality_id":1242993209,
+            "macroregion_id":9895008397,
             "region_id":85675933
         }
     ],
     "wof:id":1242993209,
-    "wof:lastmodified":1566682639,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bacong",
     "wof:parent_id":1108699777,
     "wof:placetype":"locality",

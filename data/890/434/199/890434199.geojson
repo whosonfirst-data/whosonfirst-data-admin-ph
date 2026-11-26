@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676035,
-        1108697779
+        1108697779,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108697779,
             "locality_id":890434199,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":890434199,
-    "wof:lastmodified":1566682154,
+    "wof:lastmodified":1795733694,
     "wof:name":"Monbon",
     "wof:parent_id":1108697779,
     "wof:placetype":"locality",

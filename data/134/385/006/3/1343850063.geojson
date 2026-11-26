@@ -51,7 +51,8 @@
         102191569,
         85632509,
         85675993,
-        1108698949
+        1108698949,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85632509,
             "county_id":1108698949,
             "locality_id":1343850063,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1343850063,
-    "wof:lastmodified":1566679495,
+    "wof:lastmodified":1795733694,
     "wof:name":"Abat",
     "wof:parent_id":1108698949,
     "wof:placetype":"locality",

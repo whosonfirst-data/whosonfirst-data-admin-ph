@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676021,
-        1108698961
+        1108698961,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108698961,
             "locality_id":1225942715,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1225942715,
-    "wof:lastmodified":1566682975,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pagsagnaan",
     "wof:parent_id":1108698961,
     "wof:placetype":"locality",

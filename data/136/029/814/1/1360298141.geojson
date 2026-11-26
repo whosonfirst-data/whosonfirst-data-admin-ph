@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676073,
-        1108699385
+        1108699385,
+        9895008391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108699385,
             "locality_id":1360298141,
+            "macroregion_id":9895008391,
             "region_id":85676073
         }
     ],
     "wof:id":1360298141,
-    "wof:lastmodified":1566681627,
+    "wof:lastmodified":1795733694,
     "wof:name":"Baruga",
     "wof:parent_id":1108699385,
     "wof:placetype":"locality",

@@ -45,7 +45,8 @@
         102191569,
         85632509,
         85676029,
-        1108698347
+        1108698347,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108698347,
             "locality_id":1260187015,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1260187015,
-    "wof:lastmodified":1566681028,
+    "wof:lastmodified":1795733694,
     "wof:name":"Batungan",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",

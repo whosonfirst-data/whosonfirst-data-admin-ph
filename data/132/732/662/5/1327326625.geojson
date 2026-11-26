@@ -624,7 +624,8 @@
         102191569,
         85632509,
         85676029,
-        1108696953
+        1108696953,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -638,11 +639,12 @@
             "country_id":85632509,
             "county_id":1108696953,
             "locality_id":1327326625,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1327326625,
-    "wof:lastmodified":1566679136,
+    "wof:lastmodified":1795733694,
     "wof:name":"Costa Rica",
     "wof:parent_id":1108696953,
     "wof:placetype":"locality",

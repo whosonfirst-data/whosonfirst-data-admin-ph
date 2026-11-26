@@ -67,7 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676253
+        85676253,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697703,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":1108697703,
-    "wof:lastmodified":1695886680,
+    "wof:lastmodified":1795733694,
     "wof:name":"Hagonoy",
     "wof:parent_id":85676253,
     "wof:placetype":"county",

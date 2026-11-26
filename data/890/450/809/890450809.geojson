@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676161,
-        1108698515
+        1108698515,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698515,
             "locality_id":890450809,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":890450809,
-    "wof:lastmodified":1566682213,
+    "wof:lastmodified":1795733694,
     "wof:name":"Patabog",
     "wof:parent_id":1108698515,
     "wof:placetype":"locality",

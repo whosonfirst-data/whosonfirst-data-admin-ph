@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676235,
-        1108698193
+        1108698193,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632509,
             "county_id":1108698193,
             "locality_id":1243351369,
+            "macroregion_id":9895008401,
             "region_id":85676235
         }
     ],
     "wof:id":1243351369,
-    "wof:lastmodified":1566682540,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lapinigan",
     "wof:parent_id":1108698193,
     "wof:placetype":"locality",

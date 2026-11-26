@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676057,
-        1108698807
+        1108698807,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698807,
             "locality_id":1309812715,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":1309812715,
-    "wof:lastmodified":1566681779,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cabagoan",
     "wof:parent_id":1108698807,
     "wof:placetype":"locality",

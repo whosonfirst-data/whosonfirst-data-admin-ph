@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85675989,
-        1108697809
+        1108697809,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697809,
             "locality_id":1309733445,
+            "macroregion_id":9895008396,
             "region_id":85675989
         }
     ],
     "wof:id":1309733445,
-    "wof:lastmodified":1566681754,
+    "wof:lastmodified":1795733694,
     "wof:name":"Primo",
     "wof:parent_id":1108697809,
     "wof:placetype":"locality",

@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676161,
-        1108698653
+        1108698653,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698653,
             "locality_id":1327072459,
+            "macroregion_id":9895008393,
             "region_id":85676161
         }
     ],
     "wof:id":1327072459,
-    "wof:lastmodified":1566678945,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sumulong",
     "wof:parent_id":1108698653,
     "wof:placetype":"locality",

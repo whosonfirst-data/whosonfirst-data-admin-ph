@@ -223,7 +223,8 @@
         102191569,
         85632509,
         85676101,
-        1108698553
+        1108698553,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,11 +242,12 @@
             "country_id":85632509,
             "county_id":1108698553,
             "locality_id":890415707,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":890415707,
-    "wof:lastmodified":1690851626,
+    "wof:lastmodified":1795733694,
     "wof:name":"Nampicuan",
     "wof:parent_id":1108698553,
     "wof:placetype":"locality",

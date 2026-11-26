@@ -221,7 +221,8 @@
         102191569,
         85632509,
         85676057,
-        1108698621
+        1108698621,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -240,11 +241,12 @@
             "country_id":85632509,
             "county_id":1108698621,
             "locality_id":890441419,
+            "macroregion_id":9895008390,
             "region_id":85676057
         }
     ],
     "wof:id":890441419,
-    "wof:lastmodified":1690851620,
+    "wof:lastmodified":1795733694,
     "wof:name":"Solsona",
     "wof:parent_id":1108698621,
     "wof:placetype":"locality",

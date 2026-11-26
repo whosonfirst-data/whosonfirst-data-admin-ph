@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85675951,
-        1108697255
+        1108697255,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632509,
             "county_id":1108697255,
             "localadmin_id":890415289,
+            "macroregion_id":9895008406,
             "region_id":85675951
         }
     ],
     "wof:id":890415289,
-    "wof:lastmodified":1566681910,
+    "wof:lastmodified":1795733694,
     "wof:name":"Candoni",
     "wof:parent_id":1108697255,
     "wof:placetype":"localadmin",

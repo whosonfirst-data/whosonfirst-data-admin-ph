@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85675993,
-        1108698469
+        1108698469,
+        9895008396
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698469,
             "locality_id":1293192685,
+            "macroregion_id":9895008396,
             "region_id":85675993
         }
     ],
     "wof:id":1293192685,
-    "wof:lastmodified":1566680057,
+    "wof:lastmodified":1795733694,
     "wof:name":"Pungtud Ilaya",
     "wof:parent_id":1108698469,
     "wof:placetype":"locality",

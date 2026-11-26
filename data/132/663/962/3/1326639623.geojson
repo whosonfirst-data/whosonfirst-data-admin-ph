@@ -79,7 +79,8 @@
         102191569,
         85632509,
         85676317,
-        1108697749
+        1108697749,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,11 +94,12 @@
             "country_id":85632509,
             "county_id":1108697749,
             "locality_id":1326639623,
+            "macroregion_id":9895008400,
             "region_id":85676317
         }
     ],
     "wof:id":1326639623,
-    "wof:lastmodified":1566679213,
+    "wof:lastmodified":1795733694,
     "wof:name":"Santa Filomena",
     "wof:parent_id":1108697749,
     "wof:placetype":"locality",

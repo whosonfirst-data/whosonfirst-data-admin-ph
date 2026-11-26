@@ -225,7 +225,8 @@
         102191569,
         85632509,
         85676097,
-        1108696863
+        1108696863,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -239,11 +240,12 @@
             "country_id":85632509,
             "county_id":1108696863,
             "locality_id":1310512801,
+            "macroregion_id":9895008392,
             "region_id":85676097
         }
     ],
     "wof:id":1310512801,
-    "wof:lastmodified":1566681525,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lourdes",
     "wof:parent_id":1108696863,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191569,
         85632509,
         85676021,
-        1108699207
+        1108699207,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632509,
             "county_id":1108699207,
             "locality_id":1193020557,
+            "macroregion_id":9895008395,
             "region_id":85676021
         }
     ],
     "wof:id":1193020557,
-    "wof:lastmodified":1566680909,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagas",
     "wof:parent_id":1108699207,
     "wof:placetype":"locality",

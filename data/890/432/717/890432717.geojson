@@ -79,7 +79,8 @@
         102191569,
         85632509,
         85676079,
-        1108699067
+        1108699067,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632509,
             "county_id":1108699067,
             "localadmin_id":890432717,
+            "macroregion_id":9895008404,
             "region_id":85676079
         }
     ],
     "wof:id":890432717,
-    "wof:lastmodified":1566682248,
+    "wof:lastmodified":1795733694,
     "wof:name":"Sadanga",
     "wof:parent_id":1108699067,
     "wof:placetype":"localadmin",

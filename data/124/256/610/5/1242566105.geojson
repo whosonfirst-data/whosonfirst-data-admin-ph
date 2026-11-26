@@ -48,7 +48,8 @@
         102191569,
         85632509,
         85676165,
-        1108699093
+        1108699093,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632509,
             "county_id":1108699093,
             "locality_id":1242566105,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1242566105,
-    "wof:lastmodified":1566682480,
+    "wof:lastmodified":1795733694,
     "wof:name":"Madaya",
     "wof:parent_id":1108699093,
     "wof:placetype":"locality",

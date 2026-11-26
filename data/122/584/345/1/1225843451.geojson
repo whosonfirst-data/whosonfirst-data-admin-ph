@@ -117,7 +117,8 @@
         102191569,
         85632509,
         85676035,
-        1108698883
+        1108698883,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,11 +132,12 @@
             "country_id":85632509,
             "county_id":1108698883,
             "locality_id":1225843451,
+            "macroregion_id":9895008395,
             "region_id":85676035
         }
     ],
     "wof:id":1225843451,
-    "wof:lastmodified":1636501277,
+    "wof:lastmodified":1795733694,
     "wof:name":"Esperanza",
     "wof:parent_id":1108698883,
     "wof:placetype":"locality",

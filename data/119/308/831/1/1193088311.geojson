@@ -519,7 +519,8 @@
         102191569,
         85632509,
         85676127,
-        1108697637
+        1108697637,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -533,11 +534,12 @@
             "country_id":85632509,
             "county_id":1108697637,
             "locality_id":1193088311,
+            "macroregion_id":9895008393,
             "region_id":85676127
         }
     ],
     "wof:id":1193088311,
-    "wof:lastmodified":1636500986,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Francisco",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",

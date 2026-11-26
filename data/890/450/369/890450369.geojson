@@ -34,7 +34,8 @@
         102191569,
         85632509,
         85676003,
-        1108699025
+        1108699025,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632509,
             "county_id":1108699025,
             "locality_id":890450369,
+            "macroregion_id":9895008394,
             "region_id":85676003
         }
     ],
     "wof:id":890450369,
-    "wof:lastmodified":1566682206,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tagbita",
     "wof:parent_id":1108699025,
     "wof:placetype":"locality",

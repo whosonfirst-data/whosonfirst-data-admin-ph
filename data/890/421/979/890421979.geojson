@@ -234,7 +234,8 @@
         102191569,
         85632509,
         85676119,
-        1108698161
+        1108698161,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -259,11 +260,12 @@
             "country_id":85632509,
             "county_id":1108698161,
             "locality_id":890421979,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890421979,
-    "wof:lastmodified":1690851729,
+    "wof:lastmodified":1795733694,
     "wof:name":"Luna",
     "wof:parent_id":1108698161,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676201,
-        1108698817
+        1108698817,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108698817,
             "locality_id":1243549747,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1243549747,
-    "wof:lastmodified":1566682351,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maropangpang",
     "wof:parent_id":1108698817,
     "wof:placetype":"locality",

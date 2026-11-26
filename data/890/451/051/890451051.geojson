@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676263,
-        1108699683
+        1108699683,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108699683,
             "locality_id":890451051,
+            "macroregion_id":9895008402,
             "region_id":85676263
         }
     ],
     "wof:id":890451051,
-    "wof:lastmodified":1566682136,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maibu",
     "wof:parent_id":1108699683,
     "wof:placetype":"locality",

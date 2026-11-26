@@ -84,7 +84,8 @@
         102191569,
         85632509,
         85675945,
-        1108697461
+        1108697461,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,11 +99,12 @@
             "country_id":85632509,
             "county_id":1108697461,
             "locality_id":1276794697,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1276794697,
-    "wof:lastmodified":1566680345,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bayang",
     "wof:parent_id":1108697461,
     "wof:placetype":"locality",

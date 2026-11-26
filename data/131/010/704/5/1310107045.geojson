@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676101,
-        1108697277
+        1108697277,
+        9895008392
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632509,
             "county_id":1108697277,
             "locality_id":1310107045,
+            "macroregion_id":9895008392,
             "region_id":85676101
         }
     ],
     "wof:id":1310107045,
-    "wof:lastmodified":1566681460,
+    "wof:lastmodified":1795733694,
     "wof:name":"Dalinat",
     "wof:parent_id":1108697277,
     "wof:placetype":"locality",

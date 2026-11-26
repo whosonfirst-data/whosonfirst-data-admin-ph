@@ -123,7 +123,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676159
+        85676159,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,11 +139,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108697657,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1108697657,
-    "wof:lastmodified":1695886668,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gloria",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

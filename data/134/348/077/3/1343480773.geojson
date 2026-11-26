@@ -39,7 +39,8 @@
         102191569,
         85632509,
         85676201,
-        1108697609
+        1108697609,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108697609,
             "locality_id":1343480773,
+            "macroregion_id":9895008398,
             "region_id":85676201
         }
     ],
     "wof:id":1343480773,
-    "wof:lastmodified":1566679469,
+    "wof:lastmodified":1795733694,
     "wof:name":"Palambrag",
     "wof:parent_id":1108697609,
     "wof:placetype":"locality",

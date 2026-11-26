@@ -66,7 +66,8 @@
         102191569,
         85632509,
         85676111,
-        1108697893
+        1108697893,
+        9895008404
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "country_id":85632509,
             "county_id":1108697893,
             "locality_id":1310683893,
+            "macroregion_id":9895008404,
             "region_id":85676111
         }
     ],
     "wof:id":1310683893,
-    "wof:lastmodified":1566681510,
+    "wof:lastmodified":1795733694,
     "wof:name":"Gambang",
     "wof:parent_id":1108697893,
     "wof:placetype":"locality",

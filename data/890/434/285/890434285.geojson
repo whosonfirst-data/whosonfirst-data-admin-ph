@@ -70,7 +70,8 @@
         102191569,
         85632509,
         85676253,
-        1108698315
+        1108698315,
+        9895008401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,11 +88,12 @@
             "country_id":85632509,
             "county_id":1108698315,
             "locality_id":890434285,
+            "macroregion_id":9895008401,
             "region_id":85676253
         }
     ],
     "wof:id":890434285,
-    "wof:lastmodified":1566682157,
+    "wof:lastmodified":1795733694,
     "wof:name":"Lais",
     "wof:parent_id":1108698315,
     "wof:placetype":"locality",

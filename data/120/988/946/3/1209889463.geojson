@@ -54,7 +54,8 @@
         102191569,
         85632509,
         85676173,
-        1108699563
+        1108699563,
+        9895008405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85632509,
             "county_id":1108699563,
             "locality_id":1209889463,
+            "macroregion_id":9895008405,
             "region_id":85676173
         }
     ],
     "wof:id":1209889463,
-    "wof:lastmodified":1566680790,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kaliana",
     "wof:parent_id":1108699563,
     "wof:placetype":"locality",

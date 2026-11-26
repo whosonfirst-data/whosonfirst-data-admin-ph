@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85675945
+        85675945,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "continent_id":102191569,
             "country_id":85632509,
             "county_id":1108696663,
+            "macroregion_id":9895008406,
             "region_id":85675945
         }
     ],
     "wof:id":1108696663,
-    "wof:lastmodified":1695886250,
+    "wof:lastmodified":1795733694,
     "wof:name":"Amlan (ayuguitan)",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

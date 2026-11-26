@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676243,
-        1108699617
+        1108699617,
+        9895008403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108699617,
             "locality_id":1226617111,
+            "macroregion_id":9895008403,
             "region_id":85676243
         }
     ],
     "wof:id":1226617111,
-    "wof:lastmodified":1566683144,
+    "wof:lastmodified":1795733694,
     "wof:name":"Alba",
     "wof:parent_id":1108699617,
     "wof:placetype":"locality",

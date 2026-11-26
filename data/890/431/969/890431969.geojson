@@ -224,7 +224,8 @@
         102191569,
         85632509,
         85676119,
-        1108696791
+        1108696791,
+        9895008390
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,11 +243,12 @@
             "country_id":85632509,
             "county_id":1108696791,
             "locality_id":890431969,
+            "macroregion_id":9895008390,
             "region_id":85676119
         }
     ],
     "wof:id":890431969,
-    "wof:lastmodified":1690851693,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bagulin",
     "wof:parent_id":1108696791,
     "wof:placetype":"locality",

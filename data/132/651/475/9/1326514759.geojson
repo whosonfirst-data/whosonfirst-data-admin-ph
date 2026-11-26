@@ -41,7 +41,8 @@
         102191569,
         85632509,
         85676203,
-        1108698181
+        1108698181,
+        9895008398
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632509,
             "county_id":1108698181,
             "locality_id":1326514759,
+            "macroregion_id":9895008398,
             "region_id":85676203
         }
     ],
     "wof:id":1326514759,
-    "wof:lastmodified":1566679001,
+    "wof:lastmodified":1795733694,
     "wof:name":"Malapok Sur",
     "wof:parent_id":1108698181,
     "wof:placetype":"locality",

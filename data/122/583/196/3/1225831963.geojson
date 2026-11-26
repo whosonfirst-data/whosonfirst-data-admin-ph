@@ -93,7 +93,8 @@
         102191569,
         85632509,
         85676183,
-        1108698959
+        1108698959,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,11 +108,12 @@
             "country_id":85632509,
             "county_id":1108698959,
             "locality_id":1225831963,
+            "macroregion_id":9895008402,
             "region_id":85676183
         }
     ],
     "wof:id":1225831963,
-    "wof:lastmodified":1566683362,
+    "wof:lastmodified":1795733694,
     "wof:name":"Suben",
     "wof:parent_id":1108698959,
     "wof:placetype":"locality",

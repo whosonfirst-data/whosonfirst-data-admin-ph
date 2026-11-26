@@ -57,7 +57,8 @@
         102191569,
         85632509,
         85676159,
-        1108698365
+        1108698365,
+        9895008394
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +72,12 @@
             "country_id":85632509,
             "county_id":1108698365,
             "locality_id":1343790003,
+            "macroregion_id":9895008394,
             "region_id":85676159
         }
     ],
     "wof:id":1343790003,
-    "wof:lastmodified":1566679455,
+    "wof:lastmodified":1795733694,
     "wof:name":"Taba",
     "wof:parent_id":1108698365,
     "wof:placetype":"locality",

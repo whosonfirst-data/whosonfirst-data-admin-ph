@@ -43,7 +43,8 @@
         102191569,
         85632509,
         85676141,
-        1108696979
+        1108696979,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85632509,
             "county_id":1108696979,
             "locality_id":1125792319,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1125792319,
-    "wof:lastmodified":1566682294,
+    "wof:lastmodified":1795733694,
     "wof:name":"Bitin",
     "wof:parent_id":1108696979,
     "wof:placetype":"locality",

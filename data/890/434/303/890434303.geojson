@@ -31,7 +31,8 @@
         102191569,
         85632509,
         85676259,
-        1108698659
+        1108698659,
+        9895008402
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632509,
             "county_id":1108698659,
             "locality_id":890434303,
+            "macroregion_id":9895008402,
             "region_id":85676259
         }
     ],
     "wof:id":890434303,
-    "wof:lastmodified":1566682153,
+    "wof:lastmodified":1795733694,
     "wof:name":"Kamanga",
     "wof:parent_id":1108698659,
     "wof:placetype":"locality",

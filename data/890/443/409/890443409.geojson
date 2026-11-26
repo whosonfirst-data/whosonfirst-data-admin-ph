@@ -107,7 +107,8 @@
         102191569,
         85632509,
         85675939,
-        1108698607
+        1108698607,
+        9895008397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,11 +125,12 @@
             "country_id":85632509,
             "county_id":1108698607,
             "localadmin_id":890443409,
+            "macroregion_id":9895008397,
             "region_id":85675939
         }
     ],
     "wof:id":890443409,
-    "wof:lastmodified":1636501141,
+    "wof:lastmodified":1795733694,
     "wof:name":"Cordova",
     "wof:parent_id":1108698607,
     "wof:placetype":"localadmin",

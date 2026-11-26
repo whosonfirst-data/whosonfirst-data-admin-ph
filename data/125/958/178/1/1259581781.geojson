@@ -44,7 +44,8 @@
         102191569,
         85632509,
         85676029,
-        1108698477
+        1108698477,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +59,12 @@
             "country_id":85632509,
             "county_id":1108698477,
             "locality_id":1259581781,
+            "macroregion_id":9895008395,
             "region_id":85676029
         }
     ],
     "wof:id":1259581781,
-    "wof:lastmodified":1566682907,
+    "wof:lastmodified":1795733694,
     "wof:name":"Capaculan",
     "wof:parent_id":1108698477,
     "wof:placetype":"locality",

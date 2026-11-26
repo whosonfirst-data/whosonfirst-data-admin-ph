@@ -230,7 +230,8 @@
         102191569,
         85632509,
         85675947,
-        1108698397
+        1108698397,
+        9895008406
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,11 +253,12 @@
             "country_id":85632509,
             "county_id":1108698397,
             "locality_id":890440025,
+            "macroregion_id":9895008406,
             "region_id":85675947
         }
     ],
     "wof:id":890440025,
-    "wof:lastmodified":1690851605,
+    "wof:lastmodified":1795733694,
     "wof:name":"Maria",
     "wof:parent_id":1108698397,
     "wof:placetype":"locality",

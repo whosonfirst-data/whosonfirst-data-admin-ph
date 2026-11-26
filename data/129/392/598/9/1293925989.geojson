@@ -126,7 +126,8 @@
         102191569,
         85632509,
         85676141,
-        1108698785
+        1108698785,
+        9895008393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,11 +141,12 @@
             "country_id":85632509,
             "county_id":1108698785,
             "locality_id":1293925989,
+            "macroregion_id":9895008393,
             "region_id":85676141
         }
     ],
     "wof:id":1293925989,
-    "wof:lastmodified":1566679892,
+    "wof:lastmodified":1795733694,
     "wof:name":"Tavera",
     "wof:parent_id":1108698785,
     "wof:placetype":"locality",

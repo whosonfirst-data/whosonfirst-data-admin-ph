@@ -252,7 +252,8 @@
         102191569,
         85632509,
         85676017,
-        1108699883
+        1108699883,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,11 +275,12 @@
             "country_id":85632509,
             "county_id":1108699883,
             "locality_id":421170879,
+            "macroregion_id":9895008395,
             "region_id":85676017
         }
     ],
     "wof:id":421170879,
-    "wof:lastmodified":1690851547,
+    "wof:lastmodified":1795733694,
     "wof:name":"Vinzons",
     "wof:parent_id":1108699883,
     "wof:placetype":"locality",

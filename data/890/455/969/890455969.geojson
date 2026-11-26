@@ -235,7 +235,8 @@
         102191569,
         85632509,
         85675975,
-        1108699463
+        1108699463,
+        9895008399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,11 +254,12 @@
             "country_id":85632509,
             "county_id":1108699463,
             "locality_id":890455969,
+            "macroregion_id":9895008399,
             "region_id":85675975
         }
     ],
     "wof:id":890455969,
-    "wof:lastmodified":1690851676,
+    "wof:lastmodified":1795733694,
     "wof:name":"Siasi",
     "wof:parent_id":1108699463,
     "wof:placetype":"locality",

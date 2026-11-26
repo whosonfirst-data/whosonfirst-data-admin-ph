@@ -40,7 +40,8 @@
         102191569,
         85632509,
         85676165,
-        1108698249
+        1108698249,
+        9895008400
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632509,
             "county_id":1108698249,
             "locality_id":1242756235,
+            "macroregion_id":9895008400,
             "region_id":85676165
         }
     ],
     "wof:id":1242756235,
-    "wof:lastmodified":1566682424,
+    "wof:lastmodified":1795733694,
     "wof:name":"Banasilon",
     "wof:parent_id":1108698249,
     "wof:placetype":"locality",
