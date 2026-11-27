@@ -1,0 +1,77 @@
+{
+  "id": 9895093079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.72171,6.82626,124.72171,6.82626",
+    "geom:latitude":6.82626,
+    "geom:longitude":124.72171,
+    "gn:population":31263,
+    "iso:country":"PH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060471: name \"General Salipada K. Pendatun\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060471"
+        },
+        {
+            "citation":"GeoNames populated place 13060471: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060471"
+        },
+        {
+            "citation":"GeoNames populated place 13060471: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060471"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108697111 (Buluan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509,
+        85676173,
+        102191569,
+        1108697111,
+        9895008405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060471
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1f36316646afb3cd0661bcd7a1c8fad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697111,
+            "locality_id":9895093079,
+            "macroregion_id":9895008405,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":9895093079,
+    "wof:lastmodified":1795747321,
+    "wof:name":"General Salipada K. Pendatun",
+    "wof:parent_id":1108697111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.72171,
+    6.82626,
+    124.72171,
+    6.82626
+],
+  "geometry": {"coordinates":[124.72171,6.82626],"type":"Point"}
+}
